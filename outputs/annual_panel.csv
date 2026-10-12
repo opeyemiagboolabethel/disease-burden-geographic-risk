@@ -1,0 +1,2245 @@
+type,state,year,cases,source_row_present,name,region,population,reported_rate_100k
+All disease cases,AK,2004,0,False,Alaska,West,,
+All disease cases,AK,2005,0,False,Alaska,West,,
+All disease cases,AK,2006,0,False,Alaska,West,,
+All disease cases,AK,2007,0,False,Alaska,West,,
+All disease cases,AK,2008,0,False,Alaska,West,,
+All disease cases,AK,2009,0,False,Alaska,West,,
+All disease cases,AK,2010,0,False,Alaska,West,,
+All disease cases,AK,2011,0,False,Alaska,West,,
+All disease cases,AK,2012,0,False,Alaska,West,,
+All disease cases,AK,2013,0,False,Alaska,West,,
+All disease cases,AK,2014,0,False,Alaska,West,,
+All disease cases,AK,2015,0,False,Alaska,West,,
+All disease cases,AK,2016,0,False,Alaska,West,,
+All disease cases,AK,2017,0,False,Alaska,West,,
+All disease cases,AK,2018,1,True,Alaska,West,,
+All disease cases,AK,2019,1,True,Alaska,West,,
+All disease cases,AK,2020,0,False,Alaska,West,732906.0,0.0
+All disease cases,AK,2021,1,True,Alaska,West,734590.0,0.13613035843123375
+All disease cases,AK,2022,0,False,Alaska,West,733659.0,0.0
+All disease cases,AK,2023,0,False,Alaska,West,734654.0,0.0
+All disease cases,AK,2024,0,False,Alaska,West,736537.0,0.0
+All disease cases,AK,2025,0,False,Alaska,West,737270.0,0.0
+All disease cases,AL,2004,16,True,Alabama,South,,
+All disease cases,AL,2005,10,True,Alabama,South,,
+All disease cases,AL,2006,8,True,Alabama,South,,
+All disease cases,AL,2007,24,True,Alabama,South,,
+All disease cases,AL,2008,18,True,Alabama,South,,
+All disease cases,AL,2009,0,False,Alabama,South,,
+All disease cases,AL,2010,3,True,Alabama,South,,
+All disease cases,AL,2011,5,True,Alabama,South,,
+All disease cases,AL,2012,62,True,Alabama,South,,
+All disease cases,AL,2013,9,True,Alabama,South,,
+All disease cases,AL,2014,2,True,Alabama,South,,
+All disease cases,AL,2015,9,True,Alabama,South,,
+All disease cases,AL,2016,19,True,Alabama,South,,
+All disease cases,AL,2017,60,True,Alabama,South,,
+All disease cases,AL,2018,28,True,Alabama,South,,
+All disease cases,AL,2019,5,True,Alabama,South,,
+All disease cases,AL,2020,9,True,Alabama,South,5032962.0,0.17882113951982948
+All disease cases,AL,2021,12,True,Alabama,South,5050058.0,0.23762103326338035
+All disease cases,AL,2022,6,True,Alabama,South,5076868.0,0.11818310028939101
+All disease cases,AL,2023,28,True,Alabama,South,5117850.0,0.5471047412487666
+All disease cases,AL,2024,34,True,Alabama,South,5163055.0,0.6585248462392904
+All disease cases,AL,2025,30,True,Alabama,South,5193088.0,0.5776909615242415
+All disease cases,AR,2004,28,True,Arkansas,South,,
+All disease cases,AR,2005,28,True,Arkansas,South,,
+All disease cases,AR,2006,29,True,Arkansas,South,,
+All disease cases,AR,2007,20,True,Arkansas,South,,
+All disease cases,AR,2008,9,True,Arkansas,South,,
+All disease cases,AR,2009,6,True,Arkansas,South,,
+All disease cases,AR,2010,7,True,Arkansas,South,,
+All disease cases,AR,2011,1,True,Arkansas,South,,
+All disease cases,AR,2012,64,True,Arkansas,South,,
+All disease cases,AR,2013,18,True,Arkansas,South,,
+All disease cases,AR,2014,11,True,Arkansas,South,,
+All disease cases,AR,2015,18,True,Arkansas,South,,
+All disease cases,AR,2016,9,True,Arkansas,South,,
+All disease cases,AR,2017,18,True,Arkansas,South,,
+All disease cases,AR,2018,8,True,Arkansas,South,,
+All disease cases,AR,2019,9,True,Arkansas,South,,
+All disease cases,AR,2020,1,True,Arkansas,South,3014399.0,0.03317410866975474
+All disease cases,AR,2021,8,True,Arkansas,South,3027127.0,0.26427698606632627
+All disease cases,AR,2022,5,True,Arkansas,South,3047429.0,0.1640727314729892
+All disease cases,AR,2023,11,True,Arkansas,South,3069856.0,0.3583229962578049
+All disease cases,AR,2024,13,True,Arkansas,South,3096080.0,0.41988579106483037
+All disease cases,AR,2025,25,True,Arkansas,South,3114791.0,0.8026220699880023
+All disease cases,AZ,2004,391,True,Arizona,West,,
+All disease cases,AZ,2005,113,True,Arizona,West,,
+All disease cases,AZ,2006,150,True,Arizona,West,,
+All disease cases,AZ,2007,97,True,Arizona,West,,
+All disease cases,AZ,2008,114,True,Arizona,West,,
+All disease cases,AZ,2009,20,True,Arizona,West,,
+All disease cases,AZ,2010,167,True,Arizona,West,,
+All disease cases,AZ,2011,69,True,Arizona,West,,
+All disease cases,AZ,2012,133,True,Arizona,West,,
+All disease cases,AZ,2013,62,True,Arizona,West,,
+All disease cases,AZ,2014,107,True,Arizona,West,,
+All disease cases,AZ,2015,103,True,Arizona,West,,
+All disease cases,AZ,2016,78,True,Arizona,West,,
+All disease cases,AZ,2017,111,True,Arizona,West,,
+All disease cases,AZ,2018,26,True,Arizona,West,,
+All disease cases,AZ,2019,174,True,Arizona,West,,
+All disease cases,AZ,2020,12,True,Arizona,West,7186647.0,0.16697633820055444
+All disease cases,AZ,2021,1715,True,Arizona,West,7274022.0,23.577052695193938
+All disease cases,AZ,2022,53,True,Arizona,West,7370065.0,0.7191252723008549
+All disease cases,AZ,2023,82,True,Arizona,West,7452073.0,1.1003649588510471
+All disease cases,AZ,2024,33,True,Arizona,West,7556424.0,0.4367145094028604
+All disease cases,AZ,2025,64,True,Arizona,West,7623818.0,0.8394743945881185
+All disease cases,CA,2004,779,True,California,West,,
+All disease cases,CA,2005,880,True,California,West,,
+All disease cases,CA,2006,278,True,California,West,,
+All disease cases,CA,2007,380,True,California,West,,
+All disease cases,CA,2008,445,True,California,West,,
+All disease cases,CA,2009,112,True,California,West,,
+All disease cases,CA,2010,111,True,California,West,,
+All disease cases,CA,2011,158,True,California,West,,
+All disease cases,CA,2012,479,True,California,West,,
+All disease cases,CA,2013,379,True,California,West,,
+All disease cases,CA,2014,801,True,California,West,,
+All disease cases,CA,2015,783,True,California,West,,
+All disease cases,CA,2016,442,True,California,West,,
+All disease cases,CA,2017,553,True,California,West,,
+All disease cases,CA,2018,217,True,California,West,,
+All disease cases,CA,2019,225,True,California,West,,
+All disease cases,CA,2020,235,True,California,West,39527808.0,0.5945181680704379
+All disease cases,CA,2021,130,True,California,West,39152927.0,0.33203137022169504
+All disease cases,CA,2022,207,True,California,West,39125347.0,0.5290687901119445
+All disease cases,CA,2023,433,True,California,West,39181667.0,1.1051086723798658
+All disease cases,CA,2024,132,True,California,West,39364774.0,0.3353251818491324
+All disease cases,CA,2025,117,True,California,West,39355309.0,0.2972915293334376
+All disease cases,CO,2004,291,True,Colorado,West,,
+All disease cases,CO,2005,106,True,Colorado,West,,
+All disease cases,CO,2006,345,True,Colorado,West,,
+All disease cases,CO,2007,576,True,Colorado,West,,
+All disease cases,CO,2008,71,True,Colorado,West,,
+All disease cases,CO,2009,103,True,Colorado,West,,
+All disease cases,CO,2010,81,True,Colorado,West,,
+All disease cases,CO,2011,7,True,Colorado,West,,
+All disease cases,CO,2012,131,True,Colorado,West,,
+All disease cases,CO,2013,322,True,Colorado,West,,
+All disease cases,CO,2014,118,True,Colorado,West,,
+All disease cases,CO,2015,101,True,Colorado,West,,
+All disease cases,CO,2016,149,True,Colorado,West,,
+All disease cases,CO,2017,68,True,Colorado,West,,
+All disease cases,CO,2018,96,True,Colorado,West,,
+All disease cases,CO,2019,122,True,Colorado,West,,
+All disease cases,CO,2020,35,True,Colorado,West,5786873.0,0.6048171439048343
+All disease cases,CO,2021,175,True,Colorado,West,5814368.0,3.009785414339099
+All disease cases,CO,2022,206,True,Colorado,West,5853355.0,3.519349159584546
+All disease cases,CO,2023,634,True,Colorado,West,5912240.0,10.723515960109873
+All disease cases,CO,2024,77,True,Colorado,West,5988502.0,1.2857973496543877
+All disease cases,CO,2025,285,True,Colorado,West,6012561.0,4.7400766495342
+All disease cases,CT,2004,1,True,Connecticut,Northeast,,
+All disease cases,CT,2005,6,True,Connecticut,Northeast,,
+All disease cases,CT,2006,9,True,Connecticut,Northeast,,
+All disease cases,CT,2007,4,True,Connecticut,Northeast,,
+All disease cases,CT,2008,8,True,Connecticut,Northeast,,
+All disease cases,CT,2009,0,False,Connecticut,Northeast,,
+All disease cases,CT,2010,11,True,Connecticut,Northeast,,
+All disease cases,CT,2011,9,True,Connecticut,Northeast,,
+All disease cases,CT,2012,21,True,Connecticut,Northeast,,
+All disease cases,CT,2013,4,True,Connecticut,Northeast,,
+All disease cases,CT,2014,6,True,Connecticut,Northeast,,
+All disease cases,CT,2015,10,True,Connecticut,Northeast,,
+All disease cases,CT,2016,1,True,Connecticut,Northeast,,
+All disease cases,CT,2017,3,True,Connecticut,Northeast,,
+All disease cases,CT,2018,23,True,Connecticut,Northeast,,
+All disease cases,CT,2019,1,True,Connecticut,Northeast,,
+All disease cases,CT,2020,8,True,Connecticut,Northeast,3579643.0,0.22348597332192066
+All disease cases,CT,2021,7,True,Connecticut,Northeast,3607765.0,0.1940259412683476
+All disease cases,CT,2022,7,True,Connecticut,Northeast,3618707.0,0.19343925882918955
+All disease cases,CT,2023,7,True,Connecticut,Northeast,3641369.0,0.19223539278771254
+All disease cases,CT,2024,12,True,Connecticut,Northeast,3674449.0,0.32657957696514495
+All disease cases,CT,2025,6,True,Connecticut,Northeast,3688496.0,0.16266792752384712
+All disease cases,DC,2004,2,True,District of Columbia,South,,
+All disease cases,DC,2005,5,True,District of Columbia,South,,
+All disease cases,DC,2006,2,True,District of Columbia,South,,
+All disease cases,DC,2007,0,False,District of Columbia,South,,
+All disease cases,DC,2008,8,True,District of Columbia,South,,
+All disease cases,DC,2009,2,True,District of Columbia,South,,
+All disease cases,DC,2010,6,True,District of Columbia,South,,
+All disease cases,DC,2011,15,True,District of Columbia,South,,
+All disease cases,DC,2012,10,True,District of Columbia,South,,
+All disease cases,DC,2013,1,True,District of Columbia,South,,
+All disease cases,DC,2014,3,True,District of Columbia,South,,
+All disease cases,DC,2015,5,True,District of Columbia,South,,
+All disease cases,DC,2016,1,True,District of Columbia,South,,
+All disease cases,DC,2017,4,True,District of Columbia,South,,
+All disease cases,DC,2018,13,True,District of Columbia,South,,
+All disease cases,DC,2019,11,True,District of Columbia,South,,
+All disease cases,DC,2020,0,False,District of Columbia,South,670958.0,0.0
+All disease cases,DC,2021,6,True,District of Columbia,South,669637.0,0.8960078370818817
+All disease cases,DC,2022,1,True,District of Columbia,South,674501.0,0.1482577490618991
+All disease cases,DC,2023,1,True,District of Columbia,South,682559.0,0.14650748140453793
+All disease cases,DC,2024,4,True,District of Columbia,South,691310.0,0.5786116214144161
+All disease cases,DC,2025,4,True,District of Columbia,South,693645.0,0.5766638554303715
+All disease cases,DE,2004,0,False,Delaware,South,,
+All disease cases,DE,2005,2,True,Delaware,South,,
+All disease cases,DE,2006,0,False,Delaware,South,,
+All disease cases,DE,2007,1,True,Delaware,South,,
+All disease cases,DE,2008,1,True,Delaware,South,,
+All disease cases,DE,2009,0,False,Delaware,South,,
+All disease cases,DE,2010,0,False,Delaware,South,,
+All disease cases,DE,2011,1,True,Delaware,South,,
+All disease cases,DE,2012,9,True,Delaware,South,,
+All disease cases,DE,2013,3,True,Delaware,South,,
+All disease cases,DE,2014,0,False,Delaware,South,,
+All disease cases,DE,2015,6,True,Delaware,South,,
+All disease cases,DE,2016,0,False,Delaware,South,,
+All disease cases,DE,2017,1,True,Delaware,South,,
+All disease cases,DE,2018,10,True,Delaware,South,,
+All disease cases,DE,2019,0,False,Delaware,South,,
+All disease cases,DE,2020,0,False,Delaware,South,991890.0,0.0
+All disease cases,DE,2021,3,True,Delaware,South,1005130.0,0.29846885477500423
+All disease cases,DE,2022,1,True,Delaware,South,1020279.0,0.09801240641040343
+All disease cases,DE,2023,4,True,Delaware,South,1035354.0,0.3863412900322016
+All disease cases,DE,2024,2,True,Delaware,South,1050123.0,0.19045388016451406
+All disease cases,DE,2025,3,True,Delaware,South,1059952.0,0.28303168445363563
+All disease cases,FL,2004,41,True,Florida,South,,
+All disease cases,FL,2005,21,True,Florida,South,,
+All disease cases,FL,2006,3,True,Florida,South,,
+All disease cases,FL,2007,3,True,Florida,South,,
+All disease cases,FL,2008,3,True,Florida,South,,
+All disease cases,FL,2009,3,True,Florida,South,,
+All disease cases,FL,2010,12,True,Florida,South,,
+All disease cases,FL,2011,24,True,Florida,South,,
+All disease cases,FL,2012,73,True,Florida,South,,
+All disease cases,FL,2013,7,True,Florida,South,,
+All disease cases,FL,2014,17,True,Florida,South,,
+All disease cases,FL,2015,13,True,Florida,South,,
+All disease cases,FL,2016,8,True,Florida,South,,
+All disease cases,FL,2017,5,True,Florida,South,,
+All disease cases,FL,2018,35,True,Florida,South,,
+All disease cases,FL,2019,2,True,Florida,South,,
+All disease cases,FL,2020,51,True,Florida,South,21591325.0,0.23620597624277345
+All disease cases,FL,2021,5,True,Florida,South,21836698.0,0.022897234737596316
+All disease cases,FL,2022,7,True,Florida,South,22413989.0,0.031230496276231774
+All disease cases,FL,2023,12,True,Florida,South,22929248.0,0.05233490431086096
+All disease cases,FL,2024,19,True,Florida,South,23265838.0,0.08166479969472838
+All disease cases,FL,2025,7,True,Florida,South,23462518.0,0.029834819945582992
+All disease cases,GA,2004,21,True,Georgia,South,,
+All disease cases,GA,2005,20,True,Georgia,South,,
+All disease cases,GA,2006,8,True,Georgia,South,,
+All disease cases,GA,2007,50,True,Georgia,South,,
+All disease cases,GA,2008,8,True,Georgia,South,,
+All disease cases,GA,2009,4,True,Georgia,South,,
+All disease cases,GA,2010,13,True,Georgia,South,,
+All disease cases,GA,2011,22,True,Georgia,South,,
+All disease cases,GA,2012,99,True,Georgia,South,,
+All disease cases,GA,2013,10,True,Georgia,South,,
+All disease cases,GA,2014,13,True,Georgia,South,,
+All disease cases,GA,2015,15,True,Georgia,South,,
+All disease cases,GA,2016,6,True,Georgia,South,,
+All disease cases,GA,2017,48,True,Georgia,South,,
+All disease cases,GA,2018,36,True,Georgia,South,,
+All disease cases,GA,2019,14,True,Georgia,South,,
+All disease cases,GA,2020,8,True,Georgia,South,10732595.0,0.0745392889604052
+All disease cases,GA,2021,4,True,Georgia,South,10793038.0,0.0370609276090754
+All disease cases,GA,2022,19,True,Georgia,South,10929992.0,0.17383361305296474
+All disease cases,GA,2023,19,True,Georgia,South,11063669.0,0.17173326497746816
+All disease cases,GA,2024,53,True,Georgia,South,11204208.0,0.47303655912135867
+All disease cases,GA,2025,18,True,Georgia,South,11302748.0,0.15925330724882125
+All disease cases,HI,2004,0,False,Hawaii,West,,
+All disease cases,HI,2005,0,False,Hawaii,West,,
+All disease cases,HI,2006,0,False,Hawaii,West,,
+All disease cases,HI,2007,0,False,Hawaii,West,,
+All disease cases,HI,2008,0,False,Hawaii,West,,
+All disease cases,HI,2009,0,False,Hawaii,West,,
+All disease cases,HI,2010,0,False,Hawaii,West,,
+All disease cases,HI,2011,0,False,Hawaii,West,,
+All disease cases,HI,2012,0,False,Hawaii,West,,
+All disease cases,HI,2013,0,False,Hawaii,West,,
+All disease cases,HI,2014,1,True,Hawaii,West,,
+All disease cases,HI,2015,0,False,Hawaii,West,,
+All disease cases,HI,2016,0,False,Hawaii,West,,
+All disease cases,HI,2017,0,False,Hawaii,West,,
+All disease cases,HI,2018,0,False,Hawaii,West,,
+All disease cases,HI,2019,0,False,Hawaii,West,,
+All disease cases,HI,2020,0,False,Hawaii,West,1451130.0,0.0
+All disease cases,HI,2021,0,False,Hawaii,West,1446909.0,0.0
+All disease cases,HI,2022,0,False,Hawaii,West,1437812.0,0.0
+All disease cases,HI,2023,0,False,Hawaii,West,1434950.0,0.0
+All disease cases,HI,2024,1,True,Hawaii,West,1434952.0,0.06968874220182975
+All disease cases,HI,2025,0,False,Hawaii,West,1432820.0,0.0
+All disease cases,IA,2004,23,True,Iowa,Midwest,,
+All disease cases,IA,2005,37,True,Iowa,Midwest,,
+All disease cases,IA,2006,37,True,Iowa,Midwest,,
+All disease cases,IA,2007,30,True,Iowa,Midwest,,
+All disease cases,IA,2008,6,True,Iowa,Midwest,,
+All disease cases,IA,2009,5,True,Iowa,Midwest,,
+All disease cases,IA,2010,9,True,Iowa,Midwest,,
+All disease cases,IA,2011,9,True,Iowa,Midwest,,
+All disease cases,IA,2012,31,True,Iowa,Midwest,,
+All disease cases,IA,2013,44,True,Iowa,Midwest,,
+All disease cases,IA,2014,15,True,Iowa,Midwest,,
+All disease cases,IA,2015,14,True,Iowa,Midwest,,
+All disease cases,IA,2016,37,True,Iowa,Midwest,,
+All disease cases,IA,2017,12,True,Iowa,Midwest,,
+All disease cases,IA,2018,104,True,Iowa,Midwest,,
+All disease cases,IA,2019,5,True,Iowa,Midwest,,
+All disease cases,IA,2020,3,True,Iowa,Midwest,3191081.0,0.09401202915250349
+All disease cases,IA,2021,6,True,Iowa,Midwest,3199037.0,0.1875564427669952
+All disease cases,IA,2022,9,True,Iowa,Midwest,3201890.0,0.2810839847714943
+All disease cases,IA,2023,17,True,Iowa,Midwest,3214739.0,0.5288143143191407
+All disease cases,IA,2024,21,True,Iowa,Midwest,3230454.0,0.6500634276172946
+All disease cases,IA,2025,57,True,Iowa,Midwest,3238387.0,1.760135524259454
+All disease cases,ID,2004,3,True,Idaho,West,,
+All disease cases,ID,2005,13,True,Idaho,West,,
+All disease cases,ID,2006,996,True,Idaho,West,,
+All disease cases,ID,2007,132,True,Idaho,West,,
+All disease cases,ID,2008,39,True,Idaho,West,,
+All disease cases,ID,2009,38,True,Idaho,West,,
+All disease cases,ID,2010,1,True,Idaho,West,,
+All disease cases,ID,2011,3,True,Idaho,West,,
+All disease cases,ID,2012,17,True,Idaho,West,,
+All disease cases,ID,2013,40,True,Idaho,West,,
+All disease cases,ID,2014,19,True,Idaho,West,,
+All disease cases,ID,2015,13,True,Idaho,West,,
+All disease cases,ID,2016,9,True,Idaho,West,,
+All disease cases,ID,2017,25,True,Idaho,West,,
+All disease cases,ID,2018,16,True,Idaho,West,,
+All disease cases,ID,2019,13,True,Idaho,West,,
+All disease cases,ID,2020,6,True,Idaho,West,1849328.0,0.32444217575248957
+All disease cases,ID,2021,16,True,Idaho,West,1904855.0,0.8399589470064651
+All disease cases,ID,2022,3,True,Idaho,West,1942951.0,0.15440430561553017
+All disease cases,ID,2023,36,True,Idaho,West,1970497.0,1.8269502567118852
+All disease cases,ID,2024,6,True,Idaho,West,2000872.0,0.2998692570039463
+All disease cases,ID,2025,9,True,Idaho,West,2029733.0,0.4434080738698144
+All disease cases,IL,2004,60,True,Illinois,Midwest,,
+All disease cases,IL,2005,252,True,Illinois,Midwest,,
+All disease cases,IL,2006,215,True,Illinois,Midwest,,
+All disease cases,IL,2007,101,True,Illinois,Midwest,,
+All disease cases,IL,2008,20,True,Illinois,Midwest,,
+All disease cases,IL,2009,5,True,Illinois,Midwest,,
+All disease cases,IL,2010,61,True,Illinois,Midwest,,
+All disease cases,IL,2011,34,True,Illinois,Midwest,,
+All disease cases,IL,2012,290,True,Illinois,Midwest,,
+All disease cases,IL,2013,117,True,Illinois,Midwest,,
+All disease cases,IL,2014,44,True,Illinois,Midwest,,
+All disease cases,IL,2015,77,True,Illinois,Midwest,,
+All disease cases,IL,2016,154,True,Illinois,Midwest,,
+All disease cases,IL,2017,90,True,Illinois,Midwest,,
+All disease cases,IL,2018,176,True,Illinois,Midwest,,
+All disease cases,IL,2019,28,True,Illinois,Midwest,,
+All disease cases,IL,2020,42,True,Illinois,Midwest,12795348.0,0.3282442962864316
+All disease cases,IL,2021,64,True,Illinois,Midwest,12703354.0,0.5038039560261014
+All disease cases,IL,2022,33,True,Illinois,Midwest,12609577.0,0.2617058446924905
+All disease cases,IL,2023,119,True,Illinois,Midwest,12633389.0,0.9419483560586949
+All disease cases,IL,2024,69,True,Illinois,Midwest,12703033.0,0.5431773655945001
+All disease cases,IL,2025,150,True,Illinois,Midwest,12719141.0,1.1793249245369635
+All disease cases,IN,2004,13,True,Indiana,Midwest,,
+All disease cases,IN,2005,23,True,Indiana,Midwest,,
+All disease cases,IN,2006,80,True,Indiana,Midwest,,
+All disease cases,IN,2007,24,True,Indiana,Midwest,,
+All disease cases,IN,2008,4,True,Indiana,Midwest,,
+All disease cases,IN,2009,4,True,Indiana,Midwest,,
+All disease cases,IN,2010,13,True,Indiana,Midwest,,
+All disease cases,IN,2011,9,True,Indiana,Midwest,,
+All disease cases,IN,2012,77,True,Indiana,Midwest,,
+All disease cases,IN,2013,23,True,Indiana,Midwest,,
+All disease cases,IN,2014,10,True,Indiana,Midwest,,
+All disease cases,IN,2015,21,True,Indiana,Midwest,,
+All disease cases,IN,2016,18,True,Indiana,Midwest,,
+All disease cases,IN,2017,26,True,Indiana,Midwest,,
+All disease cases,IN,2018,35,True,Indiana,Midwest,,
+All disease cases,IN,2019,4,True,Indiana,Midwest,,
+All disease cases,IN,2020,3,True,Indiana,Midwest,6790290.0,0.04418073454889261
+All disease cases,IN,2021,14,True,Indiana,Midwest,6814223.0,0.2054526246059162
+All disease cases,IN,2022,6,True,Indiana,Midwest,6841491.0,0.08770018114472417
+All disease cases,IN,2023,13,True,Indiana,Midwest,6881373.0,0.18891578759064506
+All disease cases,IN,2024,11,True,Indiana,Midwest,6934754.0,0.15862134403037223
+All disease cases,IN,2025,39,True,Indiana,Midwest,6973333.0,0.5592734492960539
+All disease cases,KS,2004,43,True,Kansas,Midwest,,
+All disease cases,KS,2005,25,True,Kansas,Midwest,,
+All disease cases,KS,2006,30,True,Kansas,Midwest,,
+All disease cases,KS,2007,40,True,Kansas,Midwest,,
+All disease cases,KS,2008,31,True,Kansas,Midwest,,
+All disease cases,KS,2009,13,True,Kansas,Midwest,,
+All disease cases,KS,2010,19,True,Kansas,Midwest,,
+All disease cases,KS,2011,4,True,Kansas,Midwest,,
+All disease cases,KS,2012,56,True,Kansas,Midwest,,
+All disease cases,KS,2013,91,True,Kansas,Midwest,,
+All disease cases,KS,2014,54,True,Kansas,Midwest,,
+All disease cases,KS,2015,34,True,Kansas,Midwest,,
+All disease cases,KS,2016,37,True,Kansas,Midwest,,
+All disease cases,KS,2017,27,True,Kansas,Midwest,,
+All disease cases,KS,2018,47,True,Kansas,Midwest,,
+All disease cases,KS,2019,13,True,Kansas,Midwest,,
+All disease cases,KS,2020,8,True,Kansas,Midwest,2938274.0,0.27226868562972684
+All disease cases,KS,2021,17,True,Kansas,Midwest,2938966.0,0.5784347284044797
+All disease cases,KS,2022,14,True,Kansas,Midwest,2938034.0,0.4765091214056747
+All disease cases,KS,2023,66,True,Kansas,Midwest,2949749.0,2.2374785108834683
+All disease cases,KS,2024,23,True,Kansas,Midwest,2965252.0,0.7756507709968664
+All disease cases,KS,2025,36,True,Kansas,Midwest,2977220.0,1.209181719859466
+All disease cases,KY,2004,7,True,Kentucky,South,,
+All disease cases,KY,2005,5,True,Kentucky,South,,
+All disease cases,KY,2006,6,True,Kentucky,South,,
+All disease cases,KY,2007,4,True,Kentucky,South,,
+All disease cases,KY,2008,3,True,Kentucky,South,,
+All disease cases,KY,2009,3,True,Kentucky,South,,
+All disease cases,KY,2010,3,True,Kentucky,South,,
+All disease cases,KY,2011,5,True,Kentucky,South,,
+All disease cases,KY,2012,23,True,Kentucky,South,,
+All disease cases,KY,2013,3,True,Kentucky,South,,
+All disease cases,KY,2014,1,True,Kentucky,South,,
+All disease cases,KY,2015,2,True,Kentucky,South,,
+All disease cases,KY,2016,8,True,Kentucky,South,,
+All disease cases,KY,2017,10,True,Kentucky,South,,
+All disease cases,KY,2018,12,True,Kentucky,South,,
+All disease cases,KY,2019,10,True,Kentucky,South,,
+All disease cases,KY,2020,0,False,Kentucky,South,4508271.0,0.0
+All disease cases,KY,2021,4,True,Kentucky,South,4508348.0,0.0887242954625508
+All disease cases,KY,2022,4,True,Kentucky,South,4521238.0,0.08847134346831553
+All disease cases,KY,2023,12,True,Kentucky,South,4549953.0,0.2637389880730636
+All disease cases,KY,2024,9,True,Kentucky,South,4584046.0,0.19633310835013437
+All disease cases,KY,2025,38,True,Kentucky,South,4606864.0,0.8248561277259324
+All disease cases,LA,2004,109,True,Louisiana,South,,
+All disease cases,LA,2005,171,True,Louisiana,South,,
+All disease cases,LA,2006,180,True,Louisiana,South,,
+All disease cases,LA,2007,40,True,Louisiana,South,,
+All disease cases,LA,2008,49,True,Louisiana,South,,
+All disease cases,LA,2009,21,True,Louisiana,South,,
+All disease cases,LA,2010,27,True,Louisiana,South,,
+All disease cases,LA,2011,10,True,Louisiana,South,,
+All disease cases,LA,2012,335,True,Louisiana,South,,
+All disease cases,LA,2013,54,True,Louisiana,South,,
+All disease cases,LA,2014,125,True,Louisiana,South,,
+All disease cases,LA,2015,51,True,Louisiana,South,,
+All disease cases,LA,2016,59,True,Louisiana,South,,
+All disease cases,LA,2017,52,True,Louisiana,South,,
+All disease cases,LA,2018,83,True,Louisiana,South,,
+All disease cases,LA,2019,20,True,Louisiana,South,,
+All disease cases,LA,2020,18,True,Louisiana,South,4652145.0,0.3869182925295751
+All disease cases,LA,2021,22,True,Louisiana,South,4628595.0,0.4753062214343661
+All disease cases,LA,2022,49,True,Louisiana,South,4600892.0,1.0650108718048588
+All disease cases,LA,2023,53,True,Louisiana,South,4598777.0,1.1524803224857392
+All disease cases,LA,2024,53,True,Louisiana,South,4614878.0,1.1484593958930225
+All disease cases,LA,2025,72,True,Louisiana,South,4618189.0,1.5590526935991578
+All disease cases,MA,2004,0,False,Massachusetts,Northeast,,
+All disease cases,MA,2005,6,True,Massachusetts,Northeast,,
+All disease cases,MA,2006,3,True,Massachusetts,Northeast,,
+All disease cases,MA,2007,6,True,Massachusetts,Northeast,,
+All disease cases,MA,2008,1,True,Massachusetts,Northeast,,
+All disease cases,MA,2009,0,False,Massachusetts,Northeast,,
+All disease cases,MA,2010,7,True,Massachusetts,Northeast,,
+All disease cases,MA,2011,6,True,Massachusetts,Northeast,,
+All disease cases,MA,2012,33,True,Massachusetts,Northeast,,
+All disease cases,MA,2013,8,True,Massachusetts,Northeast,,
+All disease cases,MA,2014,6,True,Massachusetts,Northeast,,
+All disease cases,MA,2015,10,True,Massachusetts,Northeast,,
+All disease cases,MA,2016,17,True,Massachusetts,Northeast,,
+All disease cases,MA,2017,6,True,Massachusetts,Northeast,,
+All disease cases,MA,2018,49,True,Massachusetts,Northeast,,
+All disease cases,MA,2019,5,True,Massachusetts,Northeast,,
+All disease cases,MA,2020,12,True,Massachusetts,Northeast,6985320.0,0.17178883716136126
+All disease cases,MA,2021,11,True,Massachusetts,Northeast,6996721.0,0.157216501844221
+All disease cases,MA,2022,8,True,Massachusetts,Northeast,7025465.0,0.1138714661591795
+All disease cases,MA,2023,6,True,Massachusetts,Northeast,7073479.0,0.08482388934780184
+All disease cases,MA,2024,19,True,Massachusetts,Northeast,7138560.0,0.2661601219293527
+All disease cases,MA,2025,9,True,Massachusetts,Northeast,7154084.0,0.12580226902563627
+All disease cases,MD,2004,16,True,Maryland,South,,
+All disease cases,MD,2005,5,True,Maryland,South,,
+All disease cases,MD,2006,11,True,Maryland,South,,
+All disease cases,MD,2007,10,True,Maryland,South,,
+All disease cases,MD,2008,14,True,Maryland,South,,
+All disease cases,MD,2009,1,True,Maryland,South,,
+All disease cases,MD,2010,23,True,Maryland,South,,
+All disease cases,MD,2011,19,True,Maryland,South,,
+All disease cases,MD,2012,47,True,Maryland,South,,
+All disease cases,MD,2013,16,True,Maryland,South,,
+All disease cases,MD,2014,6,True,Maryland,South,,
+All disease cases,MD,2015,45,True,Maryland,South,,
+All disease cases,MD,2016,6,True,Maryland,South,,
+All disease cases,MD,2017,6,True,Maryland,South,,
+All disease cases,MD,2018,44,True,Maryland,South,,
+All disease cases,MD,2019,7,True,Maryland,South,,
+All disease cases,MD,2020,1,True,Maryland,South,6178387.0,0.016185454229396767
+All disease cases,MD,2021,8,True,Maryland,South,6176035.0,0.12953294468052723
+All disease cases,MD,2022,6,True,Maryland,South,6183257.0,0.09703623834493699
+All disease cases,MD,2023,13,True,Maryland,South,6204927.0,0.20951092575303465
+All disease cases,MD,2024,28,True,Maryland,South,6245314.0,0.44833614450770615
+All disease cases,MD,2025,31,True,Maryland,South,6265347.0,0.4947850454252574
+All disease cases,ME,2004,0,False,Maine,Northeast,,
+All disease cases,ME,2005,0,False,Maine,Northeast,,
+All disease cases,ME,2006,0,False,Maine,Northeast,,
+All disease cases,ME,2007,0,False,Maine,Northeast,,
+All disease cases,ME,2008,0,False,Maine,Northeast,,
+All disease cases,ME,2009,0,False,Maine,Northeast,,
+All disease cases,ME,2010,0,False,Maine,Northeast,,
+All disease cases,ME,2011,0,False,Maine,Northeast,,
+All disease cases,ME,2012,1,True,Maine,Northeast,,
+All disease cases,ME,2013,0,False,Maine,Northeast,,
+All disease cases,ME,2014,0,False,Maine,Northeast,,
+All disease cases,ME,2015,1,True,Maine,Northeast,,
+All disease cases,ME,2016,0,False,Maine,Northeast,,
+All disease cases,ME,2017,0,False,Maine,Northeast,,
+All disease cases,ME,2018,2,True,Maine,Northeast,,
+All disease cases,ME,2019,0,False,Maine,Northeast,,
+All disease cases,ME,2020,1,True,Maine,Northeast,1364546.0,0.07328444772107354
+All disease cases,ME,2021,0,False,Maine,Northeast,1379009.0,0.0
+All disease cases,ME,2022,0,False,Maine,Northeast,1391585.0,0.0
+All disease cases,ME,2023,0,False,Maine,Northeast,1401992.0,0.0
+All disease cases,ME,2024,2,True,Maine,Northeast,1408438.0,0.14200128085155328
+All disease cases,ME,2025,1,True,Maine,Northeast,1414874.0,0.07067767165132725
+All disease cases,MI,2004,16,True,Michigan,Midwest,,
+All disease cases,MI,2005,62,True,Michigan,Midwest,,
+All disease cases,MI,2006,55,True,Michigan,Midwest,,
+All disease cases,MI,2007,17,True,Michigan,Midwest,,
+All disease cases,MI,2008,17,True,Michigan,Midwest,,
+All disease cases,MI,2009,1,True,Michigan,Midwest,,
+All disease cases,MI,2010,29,True,Michigan,Midwest,,
+All disease cases,MI,2011,34,True,Michigan,Midwest,,
+All disease cases,MI,2012,202,True,Michigan,Midwest,,
+All disease cases,MI,2013,36,True,Michigan,Midwest,,
+All disease cases,MI,2014,1,True,Michigan,Midwest,,
+All disease cases,MI,2015,18,True,Michigan,Midwest,,
+All disease cases,MI,2016,43,True,Michigan,Midwest,,
+All disease cases,MI,2017,40,True,Michigan,Midwest,,
+All disease cases,MI,2018,102,True,Michigan,Midwest,,
+All disease cases,MI,2019,12,True,Michigan,Midwest,,
+All disease cases,MI,2020,32,True,Michigan,Midwest,10072294.0,0.3177031965111423
+All disease cases,MI,2021,47,True,Michigan,Midwest,10042362.0,0.46801738475470217
+All disease cases,MI,2022,13,True,Michigan,Midwest,10043906.0,0.12943171710288806
+All disease cases,MI,2023,24,True,Michigan,Midwest,10062124.0,0.23851822935197378
+All disease cases,MI,2024,31,True,Michigan,Midwest,10099962.0,0.3069318478623979
+All disease cases,MI,2025,49,True,Michigan,Midwest,10127884.0,0.4838128082825593
+All disease cases,MN,2004,34,True,Minnesota,Midwest,,
+All disease cases,MN,2005,45,True,Minnesota,Midwest,,
+All disease cases,MN,2006,65,True,Minnesota,Midwest,,
+All disease cases,MN,2007,101,True,Minnesota,Midwest,,
+All disease cases,MN,2008,10,True,Minnesota,Midwest,,
+All disease cases,MN,2009,4,True,Minnesota,Midwest,,
+All disease cases,MN,2010,8,True,Minnesota,Midwest,,
+All disease cases,MN,2011,2,True,Minnesota,Midwest,,
+All disease cases,MN,2012,70,True,Minnesota,Midwest,,
+All disease cases,MN,2013,79,True,Minnesota,Midwest,,
+All disease cases,MN,2014,21,True,Minnesota,Midwest,,
+All disease cases,MN,2015,9,True,Minnesota,Midwest,,
+All disease cases,MN,2016,83,True,Minnesota,Midwest,,
+All disease cases,MN,2017,30,True,Minnesota,Midwest,,
+All disease cases,MN,2018,63,True,Minnesota,Midwest,,
+All disease cases,MN,2019,5,True,Minnesota,Midwest,,
+All disease cases,MN,2020,0,False,Minnesota,Midwest,5710562.0,0.0
+All disease cases,MN,2021,36,True,Minnesota,Midwest,5714055.0,0.6300254372770301
+All disease cases,MN,2022,22,True,Minnesota,Midwest,5727565.0,0.3841073824565937
+All disease cases,MN,2023,63,True,Minnesota,Midwest,5752998.0,1.0950812080935888
+All disease cases,MN,2024,35,True,Minnesota,Midwest,5797405.0,0.603718387795919
+All disease cases,MN,2025,136,True,Minnesota,Midwest,5830405.0,2.332599536395842
+All disease cases,MO,2004,36,True,Missouri,Midwest,,
+All disease cases,MO,2005,30,True,Missouri,Midwest,,
+All disease cases,MO,2006,62,True,Missouri,Midwest,,
+All disease cases,MO,2007,77,True,Missouri,Midwest,,
+All disease cases,MO,2008,15,True,Missouri,Midwest,,
+All disease cases,MO,2009,5,True,Missouri,Midwest,,
+All disease cases,MO,2010,3,True,Missouri,Midwest,,
+All disease cases,MO,2011,10,True,Missouri,Midwest,,
+All disease cases,MO,2012,20,True,Missouri,Midwest,,
+All disease cases,MO,2013,29,True,Missouri,Midwest,,
+All disease cases,MO,2014,13,True,Missouri,Midwest,,
+All disease cases,MO,2015,29,True,Missouri,Midwest,,
+All disease cases,MO,2016,11,True,Missouri,Midwest,,
+All disease cases,MO,2017,19,True,Missouri,Midwest,,
+All disease cases,MO,2018,23,True,Missouri,Midwest,,
+All disease cases,MO,2019,5,True,Missouri,Midwest,,
+All disease cases,MO,2020,1,True,Missouri,Midwest,6155074.0,0.016246758365537118
+All disease cases,MO,2021,12,True,Missouri,Midwest,6172551.0,0.19440908629187512
+All disease cases,MO,2022,13,True,Missouri,Midwest,6179285.0,0.21038032717377497
+All disease cases,MO,2023,35,True,Missouri,Midwest,6205956.0,0.5639743498020289
+All disease cases,MO,2024,15,True,Missouri,Midwest,6243544.0,0.24024816674632227
+All disease cases,MO,2025,45,True,Missouri,Midwest,6270541.0,0.7176414283871201
+All disease cases,MS,2004,51,True,Mississippi,South,,
+All disease cases,MS,2005,70,True,Mississippi,South,,
+All disease cases,MS,2006,183,True,Mississippi,South,,
+All disease cases,MS,2007,136,True,Mississippi,South,,
+All disease cases,MS,2008,65,True,Mississippi,South,,
+All disease cases,MS,2009,53,True,Mississippi,South,,
+All disease cases,MS,2010,8,True,Mississippi,South,,
+All disease cases,MS,2011,52,True,Mississippi,South,,
+All disease cases,MS,2012,247,True,Mississippi,South,,
+All disease cases,MS,2013,45,True,Mississippi,South,,
+All disease cases,MS,2014,43,True,Mississippi,South,,
+All disease cases,MS,2015,38,True,Mississippi,South,,
+All disease cases,MS,2016,43,True,Mississippi,South,,
+All disease cases,MS,2017,63,True,Mississippi,South,,
+All disease cases,MS,2018,50,True,Mississippi,South,,
+All disease cases,MS,2019,15,True,Mississippi,South,,
+All disease cases,MS,2020,7,True,Mississippi,South,2958385.0,0.23661558586864118
+All disease cases,MS,2021,8,True,Mississippi,South,2947603.0,0.27140697034166406
+All disease cases,MS,2022,7,True,Mississippi,South,2941237.0,0.23799510206079957
+All disease cases,MS,2023,37,True,Mississippi,South,2942470.0,1.257446974820474
+All disease cases,MS,2024,59,True,Mississippi,South,2950172.0,1.9998833966290777
+All disease cases,MS,2025,33,True,Mississippi,South,2954160.0,1.1170688114387846
+All disease cases,MT,2004,6,True,Montana,West,,
+All disease cases,MT,2005,25,True,Montana,West,,
+All disease cases,MT,2006,34,True,Montana,West,,
+All disease cases,MT,2007,202,True,Montana,West,,
+All disease cases,MT,2008,5,True,Montana,West,,
+All disease cases,MT,2009,5,True,Montana,West,,
+All disease cases,MT,2010,0,False,Montana,West,,
+All disease cases,MT,2011,1,True,Montana,West,,
+All disease cases,MT,2012,6,True,Montana,West,,
+All disease cases,MT,2013,38,True,Montana,West,,
+All disease cases,MT,2014,5,True,Montana,West,,
+All disease cases,MT,2015,3,True,Montana,West,,
+All disease cases,MT,2016,6,True,Montana,West,,
+All disease cases,MT,2017,11,True,Montana,West,,
+All disease cases,MT,2018,47,True,Montana,West,,
+All disease cases,MT,2019,3,True,Montana,West,,
+All disease cases,MT,2020,1,True,Montana,West,1087156.0,0.09198311925795377
+All disease cases,MT,2021,2,True,Montana,West,1106416.0,0.18076383566398171
+All disease cases,MT,2022,0,False,Montana,West,1121533.0,0.0
+All disease cases,MT,2023,42,True,Montana,West,1130612.0,3.714802248693628
+All disease cases,MT,2024,5,True,Montana,West,1137557.0,0.4395384143387979
+All disease cases,MT,2025,20,True,Montana,West,1144694.0,1.7471918259377617
+All disease cases,NC,2004,3,True,North Carolina,South,,
+All disease cases,NC,2005,4,True,North Carolina,South,,
+All disease cases,NC,2006,1,True,North Carolina,South,,
+All disease cases,NC,2007,8,True,North Carolina,South,,
+All disease cases,NC,2008,3,True,North Carolina,South,,
+All disease cases,NC,2009,0,False,North Carolina,South,,
+All disease cases,NC,2010,0,False,North Carolina,South,,
+All disease cases,NC,2011,2,True,North Carolina,South,,
+All disease cases,NC,2012,7,True,North Carolina,South,,
+All disease cases,NC,2013,3,True,North Carolina,South,,
+All disease cases,NC,2014,0,False,North Carolina,South,,
+All disease cases,NC,2015,4,True,North Carolina,South,,
+All disease cases,NC,2016,2,True,North Carolina,South,,
+All disease cases,NC,2017,8,True,North Carolina,South,,
+All disease cases,NC,2018,10,True,North Carolina,South,,
+All disease cases,NC,2019,1,True,North Carolina,South,,
+All disease cases,NC,2020,1,True,North Carolina,South,10450215.0,0.009569181112541705
+All disease cases,NC,2021,8,True,North Carolina,South,10565503.0,0.07571811772709733
+All disease cases,NC,2022,12,True,North Carolina,South,10705768.0,0.11208910934740973
+All disease cases,NC,2023,15,True,North Carolina,South,10871849.0,0.13797101118678157
+All disease cases,NC,2024,27,True,North Carolina,South,11052061.0,0.24429832589595735
+All disease cases,NC,2025,11,True,North Carolina,South,11197968.0,0.09823210782527687
+All disease cases,ND,2004,20,True,North Dakota,Midwest,,
+All disease cases,ND,2005,86,True,North Dakota,Midwest,,
+All disease cases,ND,2006,137,True,North Dakota,Midwest,,
+All disease cases,ND,2007,369,True,North Dakota,Midwest,,
+All disease cases,ND,2008,37,True,North Dakota,Midwest,,
+All disease cases,ND,2009,1,True,North Dakota,Midwest,,
+All disease cases,ND,2010,9,True,North Dakota,Midwest,,
+All disease cases,ND,2011,4,True,North Dakota,Midwest,,
+All disease cases,ND,2012,89,True,North Dakota,Midwest,,
+All disease cases,ND,2013,125,True,North Dakota,Midwest,,
+All disease cases,ND,2014,23,True,North Dakota,Midwest,,
+All disease cases,ND,2015,23,True,North Dakota,Midwest,,
+All disease cases,ND,2016,85,True,North Dakota,Midwest,,
+All disease cases,ND,2017,62,True,North Dakota,Midwest,,
+All disease cases,ND,2018,204,True,North Dakota,Midwest,,
+All disease cases,ND,2019,9,True,North Dakota,Midwest,,
+All disease cases,ND,2020,7,True,North Dakota,Midwest,779612.0,0.8978825364412041
+All disease cases,ND,2021,30,True,North Dakota,Midwest,777977.0,3.856155130550132
+All disease cases,ND,2022,26,True,North Dakota,Midwest,780191.0,3.3325172938421486
+All disease cases,ND,2023,58,True,North Dakota,Midwest,787071.0,7.369093766636047
+All disease cases,ND,2024,38,True,North Dakota,Midwest,793387.0,4.789591964577187
+All disease cases,ND,2025,86,True,North Dakota,Midwest,799358.0,10.758633803627411
+All disease cases,NE,2004,53,True,Nebraska,Midwest,,
+All disease cases,NE,2005,188,True,Nebraska,Midwest,,
+All disease cases,NE,2006,264,True,Nebraska,Midwest,,
+All disease cases,NE,2007,163,True,Nebraska,Midwest,,
+All disease cases,NE,2008,47,True,Nebraska,Midwest,,
+All disease cases,NE,2009,52,True,Nebraska,Midwest,,
+All disease cases,NE,2010,39,True,Nebraska,Midwest,,
+All disease cases,NE,2011,29,True,Nebraska,Midwest,,
+All disease cases,NE,2012,193,True,Nebraska,Midwest,,
+All disease cases,NE,2013,226,True,Nebraska,Midwest,,
+All disease cases,NE,2014,142,True,Nebraska,Midwest,,
+All disease cases,NE,2015,68,True,Nebraska,Midwest,,
+All disease cases,NE,2016,95,True,Nebraska,Midwest,,
+All disease cases,NE,2017,68,True,Nebraska,Midwest,,
+All disease cases,NE,2018,251,True,Nebraska,Midwest,,
+All disease cases,NE,2019,28,True,Nebraska,Midwest,,
+All disease cases,NE,2020,15,True,Nebraska,Midwest,1963318.0,0.7640127579943748
+All disease cases,NE,2021,107,True,Nebraska,Midwest,1964697.0,5.4461324061674645
+All disease cases,NE,2022,64,True,Nebraska,Midwest,1972595.0,3.2444571744326636
+All disease cases,NE,2023,150,True,Nebraska,Midwest,1988172.0,7.5446188760328585
+All disease cases,NE,2024,92,True,Nebraska,Midwest,2005591.0,4.587176547960177
+All disease cases,NE,2025,54,True,Nebraska,Midwest,2018006.0,2.675908793135402
+All disease cases,NH,2004,0,False,New Hampshire,Northeast,,
+All disease cases,NH,2005,0,False,New Hampshire,Northeast,,
+All disease cases,NH,2006,0,False,New Hampshire,Northeast,,
+All disease cases,NH,2007,0,False,New Hampshire,Northeast,,
+All disease cases,NH,2008,0,False,New Hampshire,Northeast,,
+All disease cases,NH,2009,0,False,New Hampshire,Northeast,,
+All disease cases,NH,2010,1,True,New Hampshire,Northeast,,
+All disease cases,NH,2011,0,False,New Hampshire,Northeast,,
+All disease cases,NH,2012,1,True,New Hampshire,Northeast,,
+All disease cases,NH,2013,1,True,New Hampshire,Northeast,,
+All disease cases,NH,2014,0,False,New Hampshire,Northeast,,
+All disease cases,NH,2015,0,False,New Hampshire,Northeast,,
+All disease cases,NH,2016,0,False,New Hampshire,Northeast,,
+All disease cases,NH,2017,1,True,New Hampshire,Northeast,,
+All disease cases,NH,2018,0,False,New Hampshire,Northeast,,
+All disease cases,NH,2019,0,False,New Hampshire,Northeast,,
+All disease cases,NH,2020,0,False,New Hampshire,Northeast,1378752.0,0.0
+All disease cases,NH,2021,1,True,New Hampshire,Northeast,1387907.0,0.07205093713051379
+All disease cases,NH,2022,0,False,New Hampshire,Northeast,1396647.0,0.0
+All disease cases,NH,2023,1,True,New Hampshire,Northeast,1401530.0,0.07135059542071878
+All disease cases,NH,2024,1,True,New Hampshire,Northeast,1408518.0,0.07099660778208018
+All disease cases,NH,2025,0,False,New Hampshire,Northeast,1415342.0,0.0
+All disease cases,NJ,2004,1,True,New Jersey,Northeast,,
+All disease cases,NJ,2005,6,True,New Jersey,Northeast,,
+All disease cases,NJ,2006,5,True,New Jersey,Northeast,,
+All disease cases,NJ,2007,1,True,New Jersey,Northeast,,
+All disease cases,NJ,2008,10,True,New Jersey,Northeast,,
+All disease cases,NJ,2009,3,True,New Jersey,Northeast,,
+All disease cases,NJ,2010,30,True,New Jersey,Northeast,,
+All disease cases,NJ,2011,7,True,New Jersey,Northeast,,
+All disease cases,NJ,2012,48,True,New Jersey,Northeast,,
+All disease cases,NJ,2013,12,True,New Jersey,Northeast,,
+All disease cases,NJ,2014,8,True,New Jersey,Northeast,,
+All disease cases,NJ,2015,26,True,New Jersey,Northeast,,
+All disease cases,NJ,2016,11,True,New Jersey,Northeast,,
+All disease cases,NJ,2017,8,True,New Jersey,Northeast,,
+All disease cases,NJ,2018,61,True,New Jersey,Northeast,,
+All disease cases,NJ,2019,8,True,New Jersey,Northeast,,
+All disease cases,NJ,2020,3,True,New Jersey,Northeast,9270476.0,0.03236079787057321
+All disease cases,NJ,2021,36,True,New Jersey,Northeast,9266509.0,0.3884958186518785
+All disease cases,NJ,2022,20,True,New Jersey,Northeast,9298402.0,0.21509072204019572
+All disease cases,NJ,2023,14,True,New Jersey,Northeast,9395315.0,0.14901043764897717
+All disease cases,NJ,2024,41,True,New Jersey,Northeast,9506354.0,0.4312904821343703
+All disease cases,NJ,2025,23,True,New Jersey,Northeast,9548215.0,0.24088271996388855
+All disease cases,NM,2004,88,True,New Mexico,West,,
+All disease cases,NM,2005,33,True,New Mexico,West,,
+All disease cases,NM,2006,8,True,New Mexico,West,,
+All disease cases,NM,2007,60,True,New Mexico,West,,
+All disease cases,NM,2008,8,True,New Mexico,West,,
+All disease cases,NM,2009,8,True,New Mexico,West,,
+All disease cases,NM,2010,25,True,New Mexico,West,,
+All disease cases,NM,2011,4,True,New Mexico,West,,
+All disease cases,NM,2012,47,True,New Mexico,West,,
+All disease cases,NM,2013,38,True,New Mexico,West,,
+All disease cases,NM,2014,24,True,New Mexico,West,,
+All disease cases,NM,2015,14,True,New Mexico,West,,
+All disease cases,NM,2016,6,True,New Mexico,West,,
+All disease cases,NM,2017,33,True,New Mexico,West,,
+All disease cases,NM,2018,7,True,New Mexico,West,,
+All disease cases,NM,2019,40,True,New Mexico,West,,
+All disease cases,NM,2020,8,True,New Mexico,West,2118446.0,0.3776353043693349
+All disease cases,NM,2021,34,True,New Mexico,West,2117300.0,1.6058187314032024
+All disease cases,NM,2022,11,True,New Mexico,West,2112859.0,0.5206215843082761
+All disease cases,NM,2023,80,True,New Mexico,West,2119349.0,3.774744036966068
+All disease cases,NM,2024,27,True,New Mexico,West,2126774.0,1.2695284031119434
+All disease cases,NM,2025,51,True,New Mexico,West,2125498.0,2.399437684721416
+All disease cases,NV,2004,44,True,Nevada,West,,
+All disease cases,NV,2005,31,True,Nevada,West,,
+All disease cases,NV,2006,124,True,Nevada,West,,
+All disease cases,NV,2007,12,True,Nevada,West,,
+All disease cases,NV,2008,16,True,Nevada,West,,
+All disease cases,NV,2009,12,True,Nevada,West,,
+All disease cases,NV,2010,2,True,Nevada,West,,
+All disease cases,NV,2011,16,True,Nevada,West,,
+All disease cases,NV,2012,9,True,Nevada,West,,
+All disease cases,NV,2013,11,True,Nevada,West,,
+All disease cases,NV,2014,3,True,Nevada,West,,
+All disease cases,NV,2015,7,True,Nevada,West,,
+All disease cases,NV,2016,16,True,Nevada,West,,
+All disease cases,NV,2017,67,True,Nevada,West,,
+All disease cases,NV,2018,9,True,Nevada,West,,
+All disease cases,NV,2019,46,True,Nevada,West,,
+All disease cases,NV,2020,1,True,Nevada,West,3116851.0,0.03208366392875373
+All disease cases,NV,2021,1,True,Nevada,West,3148472.0,0.031761438564484615
+All disease cases,NV,2022,0,False,Nevada,West,3177672.0,0.0
+All disease cases,NV,2023,2,True,Nevada,West,3211077.0,0.062284398661259135
+All disease cases,NV,2024,27,True,Nevada,West,3253543.0,0.8298645507374576
+All disease cases,NV,2025,2,True,Nevada,West,3282188.0,0.0609349616780026
+All disease cases,NY,2004,10,True,New York,Northeast,,
+All disease cases,NY,2005,38,True,New York,Northeast,,
+All disease cases,NY,2006,24,True,New York,Northeast,,
+All disease cases,NY,2007,22,True,New York,Northeast,,
+All disease cases,NY,2008,46,True,New York,Northeast,,
+All disease cases,NY,2009,7,True,New York,Northeast,,
+All disease cases,NY,2010,128,True,New York,Northeast,,
+All disease cases,NY,2011,44,True,New York,Northeast,,
+All disease cases,NY,2012,107,True,New York,Northeast,,
+All disease cases,NY,2013,32,True,New York,Northeast,,
+All disease cases,NY,2014,26,True,New York,Northeast,,
+All disease cases,NY,2015,57,True,New York,Northeast,,
+All disease cases,NY,2016,22,True,New York,Northeast,,
+All disease cases,NY,2017,51,True,New York,Northeast,,
+All disease cases,NY,2018,98,True,New York,Northeast,,
+All disease cases,NY,2019,17,True,New York,Northeast,,
+All disease cases,NY,2020,22,True,New York,Northeast,20122262.0,0.109331644722646
+All disease cases,NY,2021,42,True,New York,Northeast,19835345.0,0.2117432290691188
+All disease cases,NY,2022,90,True,New York,Northeast,19713025.0,0.4565509352319088
+All disease cases,NY,2023,66,True,New York,Northeast,19786543.0,0.33356003623270625
+All disease cases,NY,2024,100,True,New York,Northeast,20001419.0,0.49996452751677267
+All disease cases,NY,2025,60,True,New York,Northeast,20002427.0,0.29996359941721074
+All disease cases,OH,2004,12,True,Ohio,Midwest,,
+All disease cases,OH,2005,61,True,Ohio,Midwest,,
+All disease cases,OH,2006,48,True,Ohio,Midwest,,
+All disease cases,OH,2007,23,True,Ohio,Midwest,,
+All disease cases,OH,2008,15,True,Ohio,Midwest,,
+All disease cases,OH,2009,2,True,Ohio,Midwest,,
+All disease cases,OH,2010,5,True,Ohio,Midwest,,
+All disease cases,OH,2011,21,True,Ohio,Midwest,,
+All disease cases,OH,2012,121,True,Ohio,Midwest,,
+All disease cases,OH,2013,24,True,Ohio,Midwest,,
+All disease cases,OH,2014,11,True,Ohio,Midwest,,
+All disease cases,OH,2015,35,True,Ohio,Midwest,,
+All disease cases,OH,2016,17,True,Ohio,Midwest,,
+All disease cases,OH,2017,34,True,Ohio,Midwest,,
+All disease cases,OH,2018,65,True,Ohio,Midwest,,
+All disease cases,OH,2019,3,True,Ohio,Midwest,,
+All disease cases,OH,2020,3,True,Ohio,Midwest,11798534.0,0.02542688778114298
+All disease cases,OH,2021,13,True,Ohio,Midwest,11761443.0,0.1105306551245455
+All disease cases,OH,2022,7,True,Ohio,Midwest,11764950.0,0.05949876540061794
+All disease cases,OH,2023,18,True,Ohio,Midwest,11808390.0,0.15243398973103023
+All disease cases,OH,2024,14,True,Ohio,Midwest,11860621.0,0.11803766430105136
+All disease cases,OH,2025,45,True,Ohio,Midwest,11900510.0,0.37813505471614245
+All disease cases,OK,2004,22,True,Oklahoma,South,,
+All disease cases,OK,2005,31,True,Oklahoma,South,,
+All disease cases,OK,2006,48,True,Oklahoma,South,,
+All disease cases,OK,2007,107,True,Oklahoma,South,,
+All disease cases,OK,2008,9,True,Oklahoma,South,,
+All disease cases,OK,2009,10,True,Oklahoma,South,,
+All disease cases,OK,2010,1,True,Oklahoma,South,,
+All disease cases,OK,2011,1,True,Oklahoma,South,,
+All disease cases,OK,2012,191,True,Oklahoma,South,,
+All disease cases,OK,2013,89,True,Oklahoma,South,,
+All disease cases,OK,2014,18,True,Oklahoma,South,,
+All disease cases,OK,2015,89,True,Oklahoma,South,,
+All disease cases,OK,2016,35,True,Oklahoma,South,,
+All disease cases,OK,2017,42,True,Oklahoma,South,,
+All disease cases,OK,2018,18,True,Oklahoma,South,,
+All disease cases,OK,2019,8,True,Oklahoma,South,,
+All disease cases,OK,2020,7,True,Oklahoma,South,3965243.0,0.17653394760421998
+All disease cases,OK,2021,22,True,Oklahoma,South,3992760.0,0.5509973051222713
+All disease cases,OK,2022,4,True,Oklahoma,South,4025327.0,0.09937080888086856
+All disease cases,OK,2023,54,True,Oklahoma,South,4062716.0,1.3291600988107464
+All disease cases,OK,2024,42,True,Oklahoma,South,4097758.0,1.0249507169530265
+All disease cases,OK,2025,59,True,Oklahoma,South,4123288.0,1.4308968958753305
+All disease cases,OR,2004,3,True,Oregon,West,,
+All disease cases,OR,2005,7,True,Oregon,West,,
+All disease cases,OR,2006,69,True,Oregon,West,,
+All disease cases,OR,2007,26,True,Oregon,West,,
+All disease cases,OR,2008,16,True,Oregon,West,,
+All disease cases,OR,2009,11,True,Oregon,West,,
+All disease cases,OR,2010,0,False,Oregon,West,,
+All disease cases,OR,2011,0,False,Oregon,West,,
+All disease cases,OR,2012,11,True,Oregon,West,,
+All disease cases,OR,2013,16,True,Oregon,West,,
+All disease cases,OR,2014,8,True,Oregon,West,,
+All disease cases,OR,2015,1,True,Oregon,West,,
+All disease cases,OR,2016,4,True,Oregon,West,,
+All disease cases,OR,2017,6,True,Oregon,West,,
+All disease cases,OR,2018,2,True,Oregon,West,,
+All disease cases,OR,2019,9,True,Oregon,West,,
+All disease cases,OR,2020,1,True,Oregon,West,4243544.0,0.023565208702914356
+All disease cases,OR,2021,5,True,Oregon,West,4254691.0,0.11751734732322512
+All disease cases,OR,2022,5,True,Oregon,West,4245964.0,0.11775888820536397
+All disease cases,OR,2023,17,True,Oregon,West,4250392.0,0.39996310928497886
+All disease cases,OR,2024,0,False,Oregon,West,4265324.0,0.0
+All disease cases,OR,2025,2,True,Oregon,West,4273586.0,0.046799105013915716
+All disease cases,PA,2004,15,True,Pennsylvania,Northeast,,
+All disease cases,PA,2005,25,True,Pennsylvania,Northeast,,
+All disease cases,PA,2006,9,True,Pennsylvania,Northeast,,
+All disease cases,PA,2007,10,True,Pennsylvania,Northeast,,
+All disease cases,PA,2008,14,True,Pennsylvania,Northeast,,
+All disease cases,PA,2009,0,False,Pennsylvania,Northeast,,
+All disease cases,PA,2010,28,True,Pennsylvania,Northeast,,
+All disease cases,PA,2011,6,True,Pennsylvania,Northeast,,
+All disease cases,PA,2012,60,True,Pennsylvania,Northeast,,
+All disease cases,PA,2013,11,True,Pennsylvania,Northeast,,
+All disease cases,PA,2014,13,True,Pennsylvania,Northeast,,
+All disease cases,PA,2015,30,True,Pennsylvania,Northeast,,
+All disease cases,PA,2016,16,True,Pennsylvania,Northeast,,
+All disease cases,PA,2017,20,True,Pennsylvania,Northeast,,
+All disease cases,PA,2018,130,True,Pennsylvania,Northeast,,
+All disease cases,PA,2019,7,True,Pennsylvania,Northeast,,
+All disease cases,PA,2020,11,True,Pennsylvania,Northeast,12995576.0,0.08464418968424331
+All disease cases,PA,2021,27,True,Pennsylvania,Northeast,13016628.0,0.20742699261283337
+All disease cases,PA,2022,34,True,Pennsylvania,Northeast,12984655.0,0.2618475423490266
+All disease cases,PA,2023,22,True,Pennsylvania,Northeast,13009406.0,0.16910841278994598
+All disease cases,PA,2024,59,True,Pennsylvania,Northeast,13045848.0,0.4522511683410691
+All disease cases,PA,2025,80,True,Pennsylvania,Northeast,13059432.0,0.6125840695062389
+All disease cases,RI,2004,0,False,Rhode Island,Northeast,,
+All disease cases,RI,2005,1,True,Rhode Island,Northeast,,
+All disease cases,RI,2006,0,False,Rhode Island,Northeast,,
+All disease cases,RI,2007,1,True,Rhode Island,Northeast,,
+All disease cases,RI,2008,1,True,Rhode Island,Northeast,,
+All disease cases,RI,2009,0,False,Rhode Island,Northeast,,
+All disease cases,RI,2010,0,False,Rhode Island,Northeast,,
+All disease cases,RI,2011,1,True,Rhode Island,Northeast,,
+All disease cases,RI,2012,4,True,Rhode Island,Northeast,,
+All disease cases,RI,2013,1,True,Rhode Island,Northeast,,
+All disease cases,RI,2014,0,False,Rhode Island,Northeast,,
+All disease cases,RI,2015,0,False,Rhode Island,Northeast,,
+All disease cases,RI,2016,2,True,Rhode Island,Northeast,,
+All disease cases,RI,2017,2,True,Rhode Island,Northeast,,
+All disease cases,RI,2018,1,True,Rhode Island,Northeast,,
+All disease cases,RI,2019,0,False,Rhode Island,Northeast,,
+All disease cases,RI,2020,0,False,Rhode Island,Northeast,1096487.0,0.0
+All disease cases,RI,2021,2,True,Rhode Island,Northeast,1097381.0,0.1822521075178083
+All disease cases,RI,2022,1,True,Rhode Island,Northeast,1098275.0,0.09105187680681069
+All disease cases,RI,2023,1,True,Rhode Island,Northeast,1101183.0,0.09081142734677161
+All disease cases,RI,2024,6,True,Rhode Island,Northeast,1110415.0,0.5403385220840857
+All disease cases,RI,2025,2,True,Rhode Island,Northeast,1114521.0,0.17944928807981186
+All disease cases,SC,2004,2,True,South Carolina,South,,
+All disease cases,SC,2005,5,True,South Carolina,South,,
+All disease cases,SC,2006,1,True,South Carolina,South,,
+All disease cases,SC,2007,5,True,South Carolina,South,,
+All disease cases,SC,2008,1,True,South Carolina,South,,
+All disease cases,SC,2009,3,True,South Carolina,South,,
+All disease cases,SC,2010,1,True,South Carolina,South,,
+All disease cases,SC,2011,0,False,South Carolina,South,,
+All disease cases,SC,2012,29,True,South Carolina,South,,
+All disease cases,SC,2013,7,True,South Carolina,South,,
+All disease cases,SC,2014,3,True,South Carolina,South,,
+All disease cases,SC,2015,0,False,South Carolina,South,,
+All disease cases,SC,2016,8,True,South Carolina,South,,
+All disease cases,SC,2017,18,True,South Carolina,South,,
+All disease cases,SC,2018,15,True,South Carolina,South,,
+All disease cases,SC,2019,2,True,South Carolina,South,,
+All disease cases,SC,2020,4,True,South Carolina,South,5131992.0,0.0779424441815186
+All disease cases,SC,2021,9,True,South Carolina,South,5194346.0,0.17326531578758905
+All disease cases,SC,2022,12,True,South Carolina,South,5288957.0,0.22688783440667037
+All disease cases,SC,2023,13,True,South Carolina,South,5390798.0,0.24115168106836873
+All disease cases,SC,2024,18,True,South Carolina,South,5490316.0,0.32784998167682877
+All disease cases,SC,2025,4,True,South Carolina,South,5570274.0,0.07180975298522119
+All disease cases,SD,2004,51,True,South Dakota,Midwest,,
+All disease cases,SD,2005,229,True,South Dakota,Midwest,,
+All disease cases,SD,2006,113,True,South Dakota,Midwest,,
+All disease cases,SD,2007,208,True,South Dakota,Midwest,,
+All disease cases,SD,2008,39,True,South Dakota,Midwest,,
+All disease cases,SD,2009,21,True,South Dakota,Midwest,,
+All disease cases,SD,2010,20,True,South Dakota,Midwest,,
+All disease cases,SD,2011,2,True,South Dakota,Midwest,,
+All disease cases,SD,2012,203,True,South Dakota,Midwest,,
+All disease cases,SD,2013,149,True,South Dakota,Midwest,,
+All disease cases,SD,2014,57,True,South Dakota,Midwest,,
+All disease cases,SD,2015,40,True,South Dakota,Midwest,,
+All disease cases,SD,2016,152,True,South Dakota,Midwest,,
+All disease cases,SD,2017,73,True,South Dakota,Midwest,,
+All disease cases,SD,2018,169,True,South Dakota,Midwest,,
+All disease cases,SD,2019,11,True,South Dakota,Midwest,,
+All disease cases,SD,2020,20,True,South Dakota,Midwest,887808.0,2.2527393310265285
+All disease cases,SD,2021,47,True,South Dakota,Midwest,896303.0,5.243762433016514
+All disease cases,SD,2022,71,True,South Dakota,Midwest,909156.0,7.809440844035567
+All disease cases,SD,2023,94,True,South Dakota,Midwest,917739.0,10.24256351751424
+All disease cases,SD,2024,21,True,South Dakota,Midwest,927110.0,2.2651033857902516
+All disease cases,SD,2025,88,True,South Dakota,Midwest,935094.0,9.410818591499892
+All disease cases,TN,2004,14,True,Tennessee,South,,
+All disease cases,TN,2005,18,True,Tennessee,South,,
+All disease cases,TN,2006,22,True,Tennessee,South,,
+All disease cases,TN,2007,11,True,Tennessee,South,,
+All disease cases,TN,2008,19,True,Tennessee,South,,
+All disease cases,TN,2009,9,True,Tennessee,South,,
+All disease cases,TN,2010,4,True,Tennessee,South,,
+All disease cases,TN,2011,18,True,Tennessee,South,,
+All disease cases,TN,2012,33,True,Tennessee,South,,
+All disease cases,TN,2013,24,True,Tennessee,South,,
+All disease cases,TN,2014,16,True,Tennessee,South,,
+All disease cases,TN,2015,8,True,Tennessee,South,,
+All disease cases,TN,2016,7,True,Tennessee,South,,
+All disease cases,TN,2017,30,True,Tennessee,South,,
+All disease cases,TN,2018,12,True,Tennessee,South,,
+All disease cases,TN,2019,3,True,Tennessee,South,,
+All disease cases,TN,2020,0,False,Tennessee,South,6927736.0,0.0
+All disease cases,TN,2021,4,True,Tennessee,South,6966687.0,0.05741610036449176
+All disease cases,TN,2022,6,True,Tennessee,South,7063325.0,0.08494582933675004
+All disease cases,TN,2023,15,True,Tennessee,South,7153029.0,0.2097013726632452
+All disease cases,TN,2024,12,True,Tennessee,South,7251291.0,0.16548777314274107
+All disease cases,TN,2025,19,True,Tennessee,South,7315076.0,0.25973756116819563
+All disease cases,TX,2004,176,True,Texas,South,,
+All disease cases,TX,2005,195,True,Texas,South,,
+All disease cases,TX,2006,354,True,Texas,South,,
+All disease cases,TX,2007,260,True,Texas,South,,
+All disease cases,TX,2008,64,True,Texas,South,,
+All disease cases,TX,2009,115,True,Texas,South,,
+All disease cases,TX,2010,89,True,Texas,South,,
+All disease cases,TX,2011,27,True,Texas,South,,
+All disease cases,TX,2012,1868,True,Texas,South,,
+All disease cases,TX,2013,183,True,Texas,South,,
+All disease cases,TX,2014,379,True,Texas,South,,
+All disease cases,TX,2015,275,True,Texas,South,,
+All disease cases,TX,2016,370,True,Texas,South,,
+All disease cases,TX,2017,135,True,Texas,South,,
+All disease cases,TX,2018,146,True,Texas,South,,
+All disease cases,TX,2019,32,True,Texas,South,,
+All disease cases,TX,2020,122,True,Texas,South,29237895.0,0.4172667013134838
+All disease cases,TX,2021,143,True,Texas,South,29572672.0,0.4835545465759739
+All disease cases,TX,2022,46,True,Texas,South,30118002.0,0.1527325750227389
+All disease cases,TX,2023,163,True,Texas,South,30719247.0,0.5306119645445737
+All disease cases,TX,2024,456,True,Texas,South,31318578.0,1.4560048032832142
+All disease cases,TX,2025,168,True,Texas,South,31709821.0,0.5298043151993825
+All disease cases,UT,2004,11,True,Utah,West,,
+All disease cases,UT,2005,52,True,Utah,West,,
+All disease cases,UT,2006,158,True,Utah,West,,
+All disease cases,UT,2007,70,True,Utah,West,,
+All disease cases,UT,2008,26,True,Utah,West,,
+All disease cases,UT,2009,2,True,Utah,West,,
+All disease cases,UT,2010,2,True,Utah,West,,
+All disease cases,UT,2011,3,True,Utah,West,,
+All disease cases,UT,2012,5,True,Utah,West,,
+All disease cases,UT,2013,7,True,Utah,West,,
+All disease cases,UT,2014,2,True,Utah,West,,
+All disease cases,UT,2015,8,True,Utah,West,,
+All disease cases,UT,2016,13,True,Utah,West,,
+All disease cases,UT,2017,62,True,Utah,West,,
+All disease cases,UT,2018,11,True,Utah,West,,
+All disease cases,UT,2019,21,True,Utah,West,,
+All disease cases,UT,2020,2,True,Utah,West,3283970.0,0.06090189618053758
+All disease cases,UT,2021,28,True,Utah,West,3339874.0,0.8383549798585217
+All disease cases,UT,2022,5,True,Utah,West,3393928.0,0.14732192315217058
+All disease cases,UT,2023,8,True,Utah,West,3449259.0,0.23193387333337392
+All disease cases,UT,2024,14,True,Utah,West,3502983.0,0.3996593760232351
+All disease cases,UT,2025,50,True,Utah,West,3538904.0,1.4128668084808178
+All disease cases,VA,2004,5,True,Virginia,South,,
+All disease cases,VA,2005,1,True,Virginia,South,,
+All disease cases,VA,2006,5,True,Virginia,South,,
+All disease cases,VA,2007,5,True,Virginia,South,,
+All disease cases,VA,2008,1,True,Virginia,South,,
+All disease cases,VA,2009,5,True,Virginia,South,,
+All disease cases,VA,2010,5,True,Virginia,South,,
+All disease cases,VA,2011,9,True,Virginia,South,,
+All disease cases,VA,2012,30,True,Virginia,South,,
+All disease cases,VA,2013,6,True,Virginia,South,,
+All disease cases,VA,2014,7,True,Virginia,South,,
+All disease cases,VA,2015,21,True,Virginia,South,,
+All disease cases,VA,2016,8,True,Virginia,South,,
+All disease cases,VA,2017,13,True,Virginia,South,,
+All disease cases,VA,2018,48,True,Virginia,South,,
+All disease cases,VA,2019,6,True,Virginia,South,,
+All disease cases,VA,2020,2,True,Virginia,South,8637303.0,0.023155376163137963
+All disease cases,VA,2021,5,True,Virginia,South,8660007.0,0.05773667388490563
+All disease cases,VA,2022,6,True,Virginia,South,8681038.0,0.0691161586897788
+All disease cases,VA,2023,12,True,Virginia,South,8732034.0,0.13742502605922058
+All disease cases,VA,2024,9,True,Virginia,South,8819642.0,0.10204495828742255
+All disease cases,VA,2025,30,True,Virginia,South,8880107.0,0.33783376709312174
+All disease cases,VT,2004,0,False,Vermont,Northeast,,
+All disease cases,VT,2005,0,False,Vermont,Northeast,,
+All disease cases,VT,2006,0,False,Vermont,Northeast,,
+All disease cases,VT,2007,0,False,Vermont,Northeast,,
+All disease cases,VT,2008,0,False,Vermont,Northeast,,
+All disease cases,VT,2009,0,False,Vermont,Northeast,,
+All disease cases,VT,2010,0,False,Vermont,Northeast,,
+All disease cases,VT,2011,1,True,Vermont,Northeast,,
+All disease cases,VT,2012,3,True,Vermont,Northeast,,
+All disease cases,VT,2013,2,True,Vermont,Northeast,,
+All disease cases,VT,2014,0,False,Vermont,Northeast,,
+All disease cases,VT,2015,0,False,Vermont,Northeast,,
+All disease cases,VT,2016,2,True,Vermont,Northeast,,
+All disease cases,VT,2017,3,True,Vermont,Northeast,,
+All disease cases,VT,2018,1,True,Vermont,Northeast,,
+All disease cases,VT,2019,0,False,Vermont,Northeast,,
+All disease cases,VT,2020,0,False,Vermont,Northeast,642965.0,0.0
+All disease cases,VT,2021,1,True,Vermont,Northeast,647238.0,0.15450267135118767
+All disease cases,VT,2022,0,False,Vermont,Northeast,647614.0,0.0
+All disease cases,VT,2023,0,False,Vermont,Northeast,647722.0,0.0
+All disease cases,VT,2024,1,True,Vermont,Northeast,646521.0,0.15467401677594386
+All disease cases,VT,2025,0,False,Vermont,Northeast,644663.0,0.0
+All disease cases,WA,2004,0,False,Washington,West,,
+All disease cases,WA,2005,0,False,Washington,West,,
+All disease cases,WA,2006,3,True,Washington,West,,
+All disease cases,WA,2007,0,False,Washington,West,,
+All disease cases,WA,2008,3,True,Washington,West,,
+All disease cases,WA,2009,38,True,Washington,West,,
+All disease cases,WA,2010,2,True,Washington,West,,
+All disease cases,WA,2011,0,False,Washington,West,,
+All disease cases,WA,2012,4,True,Washington,West,,
+All disease cases,WA,2013,1,True,Washington,West,,
+All disease cases,WA,2014,12,True,Washington,West,,
+All disease cases,WA,2015,24,True,Washington,West,,
+All disease cases,WA,2016,9,True,Washington,West,,
+All disease cases,WA,2017,13,True,Washington,West,,
+All disease cases,WA,2018,3,True,Washington,West,,
+All disease cases,WA,2019,5,True,Washington,West,,
+All disease cases,WA,2020,2,True,Washington,West,7726812.0,0.025883896230424655
+All disease cases,WA,2021,4,True,Washington,West,7744316.0,0.051650784911152894
+All disease cases,WA,2022,4,True,Washington,West,7786828.0,0.051368798694410606
+All disease cases,WA,2023,4,True,Washington,West,7838655.0,0.05102916252852052
+All disease cases,WA,2024,1,True,Washington,West,7927958.0,0.012613588518001735
+All disease cases,WA,2025,3,True,Washington,West,8001020.0,0.03749521935953166
+All disease cases,WI,2004,12,True,Wisconsin,Midwest,,
+All disease cases,WI,2005,17,True,Wisconsin,Midwest,,
+All disease cases,WI,2006,21,True,Wisconsin,Midwest,,
+All disease cases,WI,2007,13,True,Wisconsin,Midwest,,
+All disease cases,WI,2008,8,True,Wisconsin,Midwest,,
+All disease cases,WI,2009,1,True,Wisconsin,Midwest,,
+All disease cases,WI,2010,2,True,Wisconsin,Midwest,,
+All disease cases,WI,2011,3,True,Wisconsin,Midwest,,
+All disease cases,WI,2012,57,True,Wisconsin,Midwest,,
+All disease cases,WI,2013,21,True,Wisconsin,Midwest,,
+All disease cases,WI,2014,6,True,Wisconsin,Midwest,,
+All disease cases,WI,2015,9,True,Wisconsin,Midwest,,
+All disease cases,WI,2016,13,True,Wisconsin,Midwest,,
+All disease cases,WI,2017,51,True,Wisconsin,Midwest,,
+All disease cases,WI,2018,33,True,Wisconsin,Midwest,,
+All disease cases,WI,2019,2,True,Wisconsin,Midwest,,
+All disease cases,WI,2020,5,True,Wisconsin,Midwest,5897371.0,0.08478354168323478
+All disease cases,WI,2021,8,True,Wisconsin,Midwest,5882128.0,0.13600520083888007
+All disease cases,WI,2022,6,True,Wisconsin,Midwest,5903472.0,0.10163510557854767
+All disease cases,WI,2023,25,True,Wisconsin,Midwest,5930350.0,0.42156027890428055
+All disease cases,WI,2024,32,True,Wisconsin,Midwest,5957168.0,0.5371679966050982
+All disease cases,WI,2025,27,True,Wisconsin,Midwest,5972787.0,0.4520502740178078
+All disease cases,WV,2004,0,False,West Virginia,South,,
+All disease cases,WV,2005,0,False,West Virginia,South,,
+All disease cases,WV,2006,1,True,West Virginia,South,,
+All disease cases,WV,2007,0,False,West Virginia,South,,
+All disease cases,WV,2008,1,True,West Virginia,South,,
+All disease cases,WV,2009,0,False,West Virginia,South,,
+All disease cases,WV,2010,0,False,West Virginia,South,,
+All disease cases,WV,2011,2,True,West Virginia,South,,
+All disease cases,WV,2012,10,True,West Virginia,South,,
+All disease cases,WV,2013,1,True,West Virginia,South,,
+All disease cases,WV,2014,0,False,West Virginia,South,,
+All disease cases,WV,2015,0,False,West Virginia,South,,
+All disease cases,WV,2016,1,True,West Virginia,South,,
+All disease cases,WV,2017,1,True,West Virginia,South,,
+All disease cases,WV,2018,2,True,West Virginia,South,,
+All disease cases,WV,2019,0,False,West Virginia,South,,
+All disease cases,WV,2020,0,False,West Virginia,South,1791670.0,0.0
+All disease cases,WV,2021,0,False,West Virginia,South,1785921.0,0.0
+All disease cases,WV,2022,0,False,West Virginia,South,1774003.0,0.0
+All disease cases,WV,2023,2,True,West Virginia,South,1770036.0,0.11299205213905254
+All disease cases,WV,2024,2,True,West Virginia,South,1767402.0,0.11316044680270816
+All disease cases,WV,2025,4,True,West Virginia,South,1766147.0,0.22648171414950172
+All disease cases,WY,2004,10,True,Wyoming,West,,
+All disease cases,WY,2005,12,True,Wyoming,West,,
+All disease cases,WY,2006,65,True,Wyoming,West,,
+All disease cases,WY,2007,181,True,Wyoming,West,,
+All disease cases,WY,2008,8,True,Wyoming,West,,
+All disease cases,WY,2009,12,True,Wyoming,West,,
+All disease cases,WY,2010,6,True,Wyoming,West,,
+All disease cases,WY,2011,3,True,Wyoming,West,,
+All disease cases,WY,2012,7,True,Wyoming,West,,
+All disease cases,WY,2013,41,True,Wyoming,West,,
+All disease cases,WY,2014,5,True,Wyoming,West,,
+All disease cases,WY,2015,8,True,Wyoming,West,,
+All disease cases,WY,2016,11,True,Wyoming,West,,
+All disease cases,WY,2017,7,True,Wyoming,West,,
+All disease cases,WY,2018,4,True,Wyoming,West,,
+All disease cases,WY,2019,4,True,Wyoming,West,,
+All disease cases,WY,2020,1,True,Wyoming,West,577669.0,0.1731095142720139
+All disease cases,WY,2021,1,True,Wyoming,West,579662.0,0.1725143273148835
+All disease cases,WY,2022,3,True,Wyoming,West,581742.0,0.5156925234897944
+All disease cases,WY,2023,27,True,Wyoming,West,584666.0,4.618021229214628
+All disease cases,WY,2024,2,True,Wyoming,West,586722.0,0.34087694001588487
+All disease cases,WY,2025,15,True,Wyoming,West,588753.0,2.547757718432008
+Neuroinvasive disease cases,AK,2004,0,False,Alaska,West,,
+Neuroinvasive disease cases,AK,2005,0,False,Alaska,West,,
+Neuroinvasive disease cases,AK,2006,0,False,Alaska,West,,
+Neuroinvasive disease cases,AK,2007,0,False,Alaska,West,,
+Neuroinvasive disease cases,AK,2008,0,False,Alaska,West,,
+Neuroinvasive disease cases,AK,2009,0,False,Alaska,West,,
+Neuroinvasive disease cases,AK,2010,0,False,Alaska,West,,
+Neuroinvasive disease cases,AK,2011,0,False,Alaska,West,,
+Neuroinvasive disease cases,AK,2012,0,False,Alaska,West,,
+Neuroinvasive disease cases,AK,2013,0,False,Alaska,West,,
+Neuroinvasive disease cases,AK,2014,0,False,Alaska,West,,
+Neuroinvasive disease cases,AK,2015,0,False,Alaska,West,,
+Neuroinvasive disease cases,AK,2016,0,False,Alaska,West,,
+Neuroinvasive disease cases,AK,2017,0,False,Alaska,West,,
+Neuroinvasive disease cases,AK,2018,1,True,Alaska,West,,
+Neuroinvasive disease cases,AK,2019,0,False,Alaska,West,,
+Neuroinvasive disease cases,AK,2020,0,False,Alaska,West,732906.0,0.0
+Neuroinvasive disease cases,AK,2021,1,True,Alaska,West,734590.0,0.13613035843123375
+Neuroinvasive disease cases,AK,2022,0,False,Alaska,West,733659.0,0.0
+Neuroinvasive disease cases,AK,2023,0,False,Alaska,West,734654.0,0.0
+Neuroinvasive disease cases,AK,2024,0,False,Alaska,West,736537.0,0.0
+Neuroinvasive disease cases,AK,2025,0,False,Alaska,West,737270.0,0.0
+Neuroinvasive disease cases,AL,2004,15,True,Alabama,South,,
+Neuroinvasive disease cases,AL,2005,6,True,Alabama,South,,
+Neuroinvasive disease cases,AL,2006,8,True,Alabama,South,,
+Neuroinvasive disease cases,AL,2007,17,True,Alabama,South,,
+Neuroinvasive disease cases,AL,2008,11,True,Alabama,South,,
+Neuroinvasive disease cases,AL,2009,0,False,Alabama,South,,
+Neuroinvasive disease cases,AL,2010,1,True,Alabama,South,,
+Neuroinvasive disease cases,AL,2011,5,True,Alabama,South,,
+Neuroinvasive disease cases,AL,2012,38,True,Alabama,South,,
+Neuroinvasive disease cases,AL,2013,3,True,Alabama,South,,
+Neuroinvasive disease cases,AL,2014,0,False,Alabama,South,,
+Neuroinvasive disease cases,AL,2015,5,True,Alabama,South,,
+Neuroinvasive disease cases,AL,2016,13,True,Alabama,South,,
+Neuroinvasive disease cases,AL,2017,40,True,Alabama,South,,
+Neuroinvasive disease cases,AL,2018,16,True,Alabama,South,,
+Neuroinvasive disease cases,AL,2019,4,True,Alabama,South,,
+Neuroinvasive disease cases,AL,2020,7,True,Alabama,South,5032962.0,0.13908310851542294
+Neuroinvasive disease cases,AL,2021,9,True,Alabama,South,5050058.0,0.17821577494753527
+Neuroinvasive disease cases,AL,2022,6,True,Alabama,South,5076868.0,0.11818310028939101
+Neuroinvasive disease cases,AL,2023,25,True,Alabama,South,5117850.0,0.4884863761149702
+Neuroinvasive disease cases,AL,2024,27,True,Alabama,South,5163055.0,0.5229462014253189
+Neuroinvasive disease cases,AL,2025,25,True,Alabama,South,5193088.0,0.48140913460353457
+Neuroinvasive disease cases,AR,2004,17,True,Arkansas,South,,
+Neuroinvasive disease cases,AR,2005,13,True,Arkansas,South,,
+Neuroinvasive disease cases,AR,2006,24,True,Arkansas,South,,
+Neuroinvasive disease cases,AR,2007,13,True,Arkansas,South,,
+Neuroinvasive disease cases,AR,2008,7,True,Arkansas,South,,
+Neuroinvasive disease cases,AR,2009,6,True,Arkansas,South,,
+Neuroinvasive disease cases,AR,2010,6,True,Arkansas,South,,
+Neuroinvasive disease cases,AR,2011,1,True,Arkansas,South,,
+Neuroinvasive disease cases,AR,2012,44,True,Arkansas,South,,
+Neuroinvasive disease cases,AR,2013,16,True,Arkansas,South,,
+Neuroinvasive disease cases,AR,2014,9,True,Arkansas,South,,
+Neuroinvasive disease cases,AR,2015,16,True,Arkansas,South,,
+Neuroinvasive disease cases,AR,2016,8,True,Arkansas,South,,
+Neuroinvasive disease cases,AR,2017,15,True,Arkansas,South,,
+Neuroinvasive disease cases,AR,2018,6,True,Arkansas,South,,
+Neuroinvasive disease cases,AR,2019,7,True,Arkansas,South,,
+Neuroinvasive disease cases,AR,2020,1,True,Arkansas,South,3014399.0,0.03317410866975474
+Neuroinvasive disease cases,AR,2021,6,True,Arkansas,South,3027127.0,0.19820773954974472
+Neuroinvasive disease cases,AR,2022,3,True,Arkansas,South,3047429.0,0.09844363888379351
+Neuroinvasive disease cases,AR,2023,7,True,Arkansas,South,3069856.0,0.2280237248913304
+Neuroinvasive disease cases,AR,2024,12,True,Arkansas,South,3096080.0,0.3875868840598434
+Neuroinvasive disease cases,AR,2025,21,True,Arkansas,South,3114791.0,0.674202538789922
+Neuroinvasive disease cases,AZ,2004,215,True,Arizona,West,,
+Neuroinvasive disease cases,AZ,2005,52,True,Arizona,West,,
+Neuroinvasive disease cases,AZ,2006,68,True,Arizona,West,,
+Neuroinvasive disease cases,AZ,2007,50,True,Arizona,West,,
+Neuroinvasive disease cases,AZ,2008,62,True,Arizona,West,,
+Neuroinvasive disease cases,AZ,2009,12,True,Arizona,West,,
+Neuroinvasive disease cases,AZ,2010,107,True,Arizona,West,,
+Neuroinvasive disease cases,AZ,2011,49,True,Arizona,West,,
+Neuroinvasive disease cases,AZ,2012,87,True,Arizona,West,,
+Neuroinvasive disease cases,AZ,2013,50,True,Arizona,West,,
+Neuroinvasive disease cases,AZ,2014,80,True,Arizona,West,,
+Neuroinvasive disease cases,AZ,2015,67,True,Arizona,West,,
+Neuroinvasive disease cases,AZ,2016,57,True,Arizona,West,,
+Neuroinvasive disease cases,AZ,2017,98,True,Arizona,West,,
+Neuroinvasive disease cases,AZ,2018,25,True,Arizona,West,,
+Neuroinvasive disease cases,AZ,2019,132,True,Arizona,West,,
+Neuroinvasive disease cases,AZ,2020,8,True,Arizona,West,7186647.0,0.11131755880036964
+Neuroinvasive disease cases,AZ,2021,1140,True,Arizona,West,7274022.0,15.672209954822794
+Neuroinvasive disease cases,AZ,2022,40,True,Arizona,West,7370065.0,0.542736054566683
+Neuroinvasive disease cases,AZ,2023,64,True,Arizona,West,7452073.0,0.8588214312983784
+Neuroinvasive disease cases,AZ,2024,23,True,Arizona,West,7556424.0,0.3043767792807815
+Neuroinvasive disease cases,AZ,2025,44,True,Arizona,West,7623818.0,0.5771386462793314
+Neuroinvasive disease cases,CA,2004,291,True,California,West,,
+Neuroinvasive disease cases,CA,2005,305,True,California,West,,
+Neuroinvasive disease cases,CA,2006,81,True,California,West,,
+Neuroinvasive disease cases,CA,2007,154,True,California,West,,
+Neuroinvasive disease cases,CA,2008,292,True,California,West,,
+Neuroinvasive disease cases,CA,2009,67,True,California,West,,
+Neuroinvasive disease cases,CA,2010,72,True,California,West,,
+Neuroinvasive disease cases,CA,2011,110,True,California,West,,
+Neuroinvasive disease cases,CA,2012,297,True,California,West,,
+Neuroinvasive disease cases,CA,2013,237,True,California,West,,
+Neuroinvasive disease cases,CA,2014,561,True,California,West,,
+Neuroinvasive disease cases,CA,2015,585,True,California,West,,
+Neuroinvasive disease cases,CA,2016,335,True,California,West,,
+Neuroinvasive disease cases,CA,2017,401,True,California,West,,
+Neuroinvasive disease cases,CA,2018,154,True,California,West,,
+Neuroinvasive disease cases,CA,2019,147,True,California,West,,
+Neuroinvasive disease cases,CA,2020,179,True,California,West,39527808.0,0.45284575355152507
+Neuroinvasive disease cases,CA,2021,96,True,California,West,39152927.0,0.2451923964714056
+Neuroinvasive disease cases,CA,2022,162,True,California,West,39125347.0,0.4140538357397827
+Neuroinvasive disease cases,CA,2023,334,True,California,West,39181667.0,0.8524394840066403
+Neuroinvasive disease cases,CA,2024,103,True,California,West,39364774.0,0.2616552555337927
+Neuroinvasive disease cases,CA,2025,104,True,California,West,39355309.0,0.2642591371852778
+Neuroinvasive disease cases,CO,2004,41,True,Colorado,West,,
+Neuroinvasive disease cases,CO,2005,21,True,Colorado,West,,
+Neuroinvasive disease cases,CO,2006,66,True,Colorado,West,,
+Neuroinvasive disease cases,CO,2007,99,True,Colorado,West,,
+Neuroinvasive disease cases,CO,2008,17,True,Colorado,West,,
+Neuroinvasive disease cases,CO,2009,36,True,Colorado,West,,
+Neuroinvasive disease cases,CO,2010,26,True,Colorado,West,,
+Neuroinvasive disease cases,CO,2011,2,True,Colorado,West,,
+Neuroinvasive disease cases,CO,2012,62,True,Colorado,West,,
+Neuroinvasive disease cases,CO,2013,90,True,Colorado,West,,
+Neuroinvasive disease cases,CO,2014,46,True,Colorado,West,,
+Neuroinvasive disease cases,CO,2015,57,True,Colorado,West,,
+Neuroinvasive disease cases,CO,2016,59,True,Colorado,West,,
+Neuroinvasive disease cases,CO,2017,29,True,Colorado,West,,
+Neuroinvasive disease cases,CO,2018,52,True,Colorado,West,,
+Neuroinvasive disease cases,CO,2019,52,True,Colorado,West,,
+Neuroinvasive disease cases,CO,2020,17,True,Colorado,West,5786873.0,0.2937683270394909
+Neuroinvasive disease cases,CO,2021,101,True,Colorado,West,5814368.0,1.7370761534185657
+Neuroinvasive disease cases,CO,2022,131,True,Colorado,West,5853355.0,2.2380327179882307
+Neuroinvasive disease cases,CO,2023,316,True,Colorado,West,5912240.0,5.344843917026373
+Neuroinvasive disease cases,CO,2024,40,True,Colorado,West,5988502.0,0.6679466751451365
+Neuroinvasive disease cases,CO,2025,143,True,Colorado,West,6012561.0,2.3783542487136513
+Neuroinvasive disease cases,CT,2004,0,False,Connecticut,Northeast,,
+Neuroinvasive disease cases,CT,2005,4,True,Connecticut,Northeast,,
+Neuroinvasive disease cases,CT,2006,7,True,Connecticut,Northeast,,
+Neuroinvasive disease cases,CT,2007,2,True,Connecticut,Northeast,,
+Neuroinvasive disease cases,CT,2008,5,True,Connecticut,Northeast,,
+Neuroinvasive disease cases,CT,2009,0,False,Connecticut,Northeast,,
+Neuroinvasive disease cases,CT,2010,7,True,Connecticut,Northeast,,
+Neuroinvasive disease cases,CT,2011,8,True,Connecticut,Northeast,,
+Neuroinvasive disease cases,CT,2012,12,True,Connecticut,Northeast,,
+Neuroinvasive disease cases,CT,2013,1,True,Connecticut,Northeast,,
+Neuroinvasive disease cases,CT,2014,3,True,Connecticut,Northeast,,
+Neuroinvasive disease cases,CT,2015,8,True,Connecticut,Northeast,,
+Neuroinvasive disease cases,CT,2016,1,True,Connecticut,Northeast,,
+Neuroinvasive disease cases,CT,2017,2,True,Connecticut,Northeast,,
+Neuroinvasive disease cases,CT,2018,18,True,Connecticut,Northeast,,
+Neuroinvasive disease cases,CT,2019,1,True,Connecticut,Northeast,,
+Neuroinvasive disease cases,CT,2020,5,True,Connecticut,Northeast,3579643.0,0.1396787333262004
+Neuroinvasive disease cases,CT,2021,5,True,Connecticut,Northeast,3607765.0,0.1385899580488197
+Neuroinvasive disease cases,CT,2022,7,True,Connecticut,Northeast,3618707.0,0.19343925882918955
+Neuroinvasive disease cases,CT,2023,4,True,Connecticut,Northeast,3641369.0,0.10984879587869288
+Neuroinvasive disease cases,CT,2024,10,True,Connecticut,Northeast,3674449.0,0.27214964747095416
+Neuroinvasive disease cases,CT,2025,4,True,Connecticut,Northeast,3688496.0,0.10844528501589806
+Neuroinvasive disease cases,DC,2004,1,True,District of Columbia,South,,
+Neuroinvasive disease cases,DC,2005,3,True,District of Columbia,South,,
+Neuroinvasive disease cases,DC,2006,0,False,District of Columbia,South,,
+Neuroinvasive disease cases,DC,2007,0,False,District of Columbia,South,,
+Neuroinvasive disease cases,DC,2008,4,True,District of Columbia,South,,
+Neuroinvasive disease cases,DC,2009,2,True,District of Columbia,South,,
+Neuroinvasive disease cases,DC,2010,3,True,District of Columbia,South,,
+Neuroinvasive disease cases,DC,2011,10,True,District of Columbia,South,,
+Neuroinvasive disease cases,DC,2012,8,True,District of Columbia,South,,
+Neuroinvasive disease cases,DC,2013,0,False,District of Columbia,South,,
+Neuroinvasive disease cases,DC,2014,1,True,District of Columbia,South,,
+Neuroinvasive disease cases,DC,2015,3,True,District of Columbia,South,,
+Neuroinvasive disease cases,DC,2016,1,True,District of Columbia,South,,
+Neuroinvasive disease cases,DC,2017,1,True,District of Columbia,South,,
+Neuroinvasive disease cases,DC,2018,7,True,District of Columbia,South,,
+Neuroinvasive disease cases,DC,2019,9,True,District of Columbia,South,,
+Neuroinvasive disease cases,DC,2020,0,False,District of Columbia,South,670958.0,0.0
+Neuroinvasive disease cases,DC,2021,4,True,District of Columbia,South,669637.0,0.5973385580545878
+Neuroinvasive disease cases,DC,2022,1,True,District of Columbia,South,674501.0,0.1482577490618991
+Neuroinvasive disease cases,DC,2023,1,True,District of Columbia,South,682559.0,0.14650748140453793
+Neuroinvasive disease cases,DC,2024,2,True,District of Columbia,South,691310.0,0.28930581070720807
+Neuroinvasive disease cases,DC,2025,4,True,District of Columbia,South,693645.0,0.5766638554303715
+Neuroinvasive disease cases,DE,2004,0,False,Delaware,South,,
+Neuroinvasive disease cases,DE,2005,1,True,Delaware,South,,
+Neuroinvasive disease cases,DE,2006,0,False,Delaware,South,,
+Neuroinvasive disease cases,DE,2007,1,True,Delaware,South,,
+Neuroinvasive disease cases,DE,2008,0,False,Delaware,South,,
+Neuroinvasive disease cases,DE,2009,0,False,Delaware,South,,
+Neuroinvasive disease cases,DE,2010,0,False,Delaware,South,,
+Neuroinvasive disease cases,DE,2011,1,True,Delaware,South,,
+Neuroinvasive disease cases,DE,2012,2,True,Delaware,South,,
+Neuroinvasive disease cases,DE,2013,3,True,Delaware,South,,
+Neuroinvasive disease cases,DE,2014,0,False,Delaware,South,,
+Neuroinvasive disease cases,DE,2015,0,False,Delaware,South,,
+Neuroinvasive disease cases,DE,2016,0,False,Delaware,South,,
+Neuroinvasive disease cases,DE,2017,0,False,Delaware,South,,
+Neuroinvasive disease cases,DE,2018,8,True,Delaware,South,,
+Neuroinvasive disease cases,DE,2019,0,False,Delaware,South,,
+Neuroinvasive disease cases,DE,2020,0,False,Delaware,South,991890.0,0.0
+Neuroinvasive disease cases,DE,2021,3,True,Delaware,South,1005130.0,0.29846885477500423
+Neuroinvasive disease cases,DE,2022,1,True,Delaware,South,1020279.0,0.09801240641040343
+Neuroinvasive disease cases,DE,2023,4,True,Delaware,South,1035354.0,0.3863412900322016
+Neuroinvasive disease cases,DE,2024,1,True,Delaware,South,1050123.0,0.09522694008225703
+Neuroinvasive disease cases,DE,2025,2,True,Delaware,South,1059952.0,0.18868778963575708
+Neuroinvasive disease cases,FL,2004,33,True,Florida,South,,
+Neuroinvasive disease cases,FL,2005,10,True,Florida,South,,
+Neuroinvasive disease cases,FL,2006,3,True,Florida,South,,
+Neuroinvasive disease cases,FL,2007,3,True,Florida,South,,
+Neuroinvasive disease cases,FL,2008,3,True,Florida,South,,
+Neuroinvasive disease cases,FL,2009,2,True,Florida,South,,
+Neuroinvasive disease cases,FL,2010,9,True,Florida,South,,
+Neuroinvasive disease cases,FL,2011,20,True,Florida,South,,
+Neuroinvasive disease cases,FL,2012,52,True,Florida,South,,
+Neuroinvasive disease cases,FL,2013,5,True,Florida,South,,
+Neuroinvasive disease cases,FL,2014,12,True,Florida,South,,
+Neuroinvasive disease cases,FL,2015,12,True,Florida,South,,
+Neuroinvasive disease cases,FL,2016,6,True,Florida,South,,
+Neuroinvasive disease cases,FL,2017,4,True,Florida,South,,
+Neuroinvasive disease cases,FL,2018,30,True,Florida,South,,
+Neuroinvasive disease cases,FL,2019,2,True,Florida,South,,
+Neuroinvasive disease cases,FL,2020,44,True,Florida,South,21591325.0,0.20378554813102023
+Neuroinvasive disease cases,FL,2021,5,True,Florida,South,21836698.0,0.022897234737596316
+Neuroinvasive disease cases,FL,2022,7,True,Florida,South,22413989.0,0.031230496276231774
+Neuroinvasive disease cases,FL,2023,9,True,Florida,South,22929248.0,0.03925117823314572
+Neuroinvasive disease cases,FL,2024,15,True,Florida,South,23265838.0,0.06447221028531189
+Neuroinvasive disease cases,FL,2025,6,True,Florida,South,23462518.0,0.025572702810499708
+Neuroinvasive disease cases,GA,2004,14,True,Georgia,South,,
+Neuroinvasive disease cases,GA,2005,9,True,Georgia,South,,
+Neuroinvasive disease cases,GA,2006,2,True,Georgia,South,,
+Neuroinvasive disease cases,GA,2007,23,True,Georgia,South,,
+Neuroinvasive disease cases,GA,2008,4,True,Georgia,South,,
+Neuroinvasive disease cases,GA,2009,4,True,Georgia,South,,
+Neuroinvasive disease cases,GA,2010,4,True,Georgia,South,,
+Neuroinvasive disease cases,GA,2011,14,True,Georgia,South,,
+Neuroinvasive disease cases,GA,2012,46,True,Georgia,South,,
+Neuroinvasive disease cases,GA,2013,4,True,Georgia,South,,
+Neuroinvasive disease cases,GA,2014,11,True,Georgia,South,,
+Neuroinvasive disease cases,GA,2015,13,True,Georgia,South,,
+Neuroinvasive disease cases,GA,2016,4,True,Georgia,South,,
+Neuroinvasive disease cases,GA,2017,44,True,Georgia,South,,
+Neuroinvasive disease cases,GA,2018,30,True,Georgia,South,,
+Neuroinvasive disease cases,GA,2019,9,True,Georgia,South,,
+Neuroinvasive disease cases,GA,2020,7,True,Georgia,South,10732595.0,0.06522187784035455
+Neuroinvasive disease cases,GA,2021,3,True,Georgia,South,10793038.0,0.027795695706806556
+Neuroinvasive disease cases,GA,2022,16,True,Georgia,South,10929992.0,0.1463862004656545
+Neuroinvasive disease cases,GA,2023,17,True,Georgia,South,11063669.0,0.15365607919036625
+Neuroinvasive disease cases,GA,2024,39,True,Georgia,South,11204208.0,0.34808350576854696
+Neuroinvasive disease cases,GA,2025,17,True,Georgia,South,11302748.0,0.1504059012905534
+Neuroinvasive disease cases,HI,2004,0,False,Hawaii,West,,
+Neuroinvasive disease cases,HI,2005,0,False,Hawaii,West,,
+Neuroinvasive disease cases,HI,2006,0,False,Hawaii,West,,
+Neuroinvasive disease cases,HI,2007,0,False,Hawaii,West,,
+Neuroinvasive disease cases,HI,2008,0,False,Hawaii,West,,
+Neuroinvasive disease cases,HI,2009,0,False,Hawaii,West,,
+Neuroinvasive disease cases,HI,2010,0,False,Hawaii,West,,
+Neuroinvasive disease cases,HI,2011,0,False,Hawaii,West,,
+Neuroinvasive disease cases,HI,2012,0,False,Hawaii,West,,
+Neuroinvasive disease cases,HI,2013,0,False,Hawaii,West,,
+Neuroinvasive disease cases,HI,2014,0,False,Hawaii,West,,
+Neuroinvasive disease cases,HI,2015,0,False,Hawaii,West,,
+Neuroinvasive disease cases,HI,2016,0,False,Hawaii,West,,
+Neuroinvasive disease cases,HI,2017,0,False,Hawaii,West,,
+Neuroinvasive disease cases,HI,2018,0,False,Hawaii,West,,
+Neuroinvasive disease cases,HI,2019,0,False,Hawaii,West,,
+Neuroinvasive disease cases,HI,2020,0,False,Hawaii,West,1451130.0,0.0
+Neuroinvasive disease cases,HI,2021,0,False,Hawaii,West,1446909.0,0.0
+Neuroinvasive disease cases,HI,2022,0,False,Hawaii,West,1437812.0,0.0
+Neuroinvasive disease cases,HI,2023,0,False,Hawaii,West,1434950.0,0.0
+Neuroinvasive disease cases,HI,2024,1,True,Hawaii,West,1434952.0,0.06968874220182975
+Neuroinvasive disease cases,HI,2025,0,False,Hawaii,West,1432820.0,0.0
+Neuroinvasive disease cases,IA,2004,13,True,Iowa,Midwest,,
+Neuroinvasive disease cases,IA,2005,14,True,Iowa,Midwest,,
+Neuroinvasive disease cases,IA,2006,22,True,Iowa,Midwest,,
+Neuroinvasive disease cases,IA,2007,12,True,Iowa,Midwest,,
+Neuroinvasive disease cases,IA,2008,3,True,Iowa,Midwest,,
+Neuroinvasive disease cases,IA,2009,0,False,Iowa,Midwest,,
+Neuroinvasive disease cases,IA,2010,5,True,Iowa,Midwest,,
+Neuroinvasive disease cases,IA,2011,5,True,Iowa,Midwest,,
+Neuroinvasive disease cases,IA,2012,11,True,Iowa,Midwest,,
+Neuroinvasive disease cases,IA,2013,24,True,Iowa,Midwest,,
+Neuroinvasive disease cases,IA,2014,5,True,Iowa,Midwest,,
+Neuroinvasive disease cases,IA,2015,4,True,Iowa,Midwest,,
+Neuroinvasive disease cases,IA,2016,16,True,Iowa,Midwest,,
+Neuroinvasive disease cases,IA,2017,10,True,Iowa,Midwest,,
+Neuroinvasive disease cases,IA,2018,59,True,Iowa,Midwest,,
+Neuroinvasive disease cases,IA,2019,1,True,Iowa,Midwest,,
+Neuroinvasive disease cases,IA,2020,2,True,Iowa,Midwest,3191081.0,0.062674686101669
+Neuroinvasive disease cases,IA,2021,4,True,Iowa,Midwest,3199037.0,0.12503762851133013
+Neuroinvasive disease cases,IA,2022,8,True,Iowa,Midwest,3201890.0,0.24985243090799497
+Neuroinvasive disease cases,IA,2023,12,True,Iowa,Midwest,3214739.0,0.3732806924605699
+Neuroinvasive disease cases,IA,2024,16,True,Iowa,Midwest,3230454.0,0.4952864210417483
+Neuroinvasive disease cases,IA,2025,42,True,Iowa,Midwest,3238387.0,1.2969419652438081
+Neuroinvasive disease cases,ID,2004,1,True,Idaho,West,,
+Neuroinvasive disease cases,ID,2005,3,True,Idaho,West,,
+Neuroinvasive disease cases,ID,2006,139,True,Idaho,West,,
+Neuroinvasive disease cases,ID,2007,11,True,Idaho,West,,
+Neuroinvasive disease cases,ID,2008,4,True,Idaho,West,,
+Neuroinvasive disease cases,ID,2009,9,True,Idaho,West,,
+Neuroinvasive disease cases,ID,2010,0,False,Idaho,West,,
+Neuroinvasive disease cases,ID,2011,1,True,Idaho,West,,
+Neuroinvasive disease cases,ID,2012,5,True,Idaho,West,,
+Neuroinvasive disease cases,ID,2013,14,True,Idaho,West,,
+Neuroinvasive disease cases,ID,2014,6,True,Idaho,West,,
+Neuroinvasive disease cases,ID,2015,5,True,Idaho,West,,
+Neuroinvasive disease cases,ID,2016,3,True,Idaho,West,,
+Neuroinvasive disease cases,ID,2017,16,True,Idaho,West,,
+Neuroinvasive disease cases,ID,2018,10,True,Idaho,West,,
+Neuroinvasive disease cases,ID,2019,5,True,Idaho,West,,
+Neuroinvasive disease cases,ID,2020,5,True,Idaho,West,1849328.0,0.2703684797937413
+Neuroinvasive disease cases,ID,2021,12,True,Idaho,West,1904855.0,0.6299692102548488
+Neuroinvasive disease cases,ID,2022,1,True,Idaho,West,1942951.0,0.0514681018718434
+Neuroinvasive disease cases,ID,2023,27,True,Idaho,West,1970497.0,1.370212692533914
+Neuroinvasive disease cases,ID,2024,4,True,Idaho,West,2000872.0,0.19991283800263085
+Neuroinvasive disease cases,ID,2025,5,True,Idaho,West,2029733.0,0.24633781881656358
+Neuroinvasive disease cases,IL,2004,29,True,Illinois,Midwest,,
+Neuroinvasive disease cases,IL,2005,137,True,Illinois,Midwest,,
+Neuroinvasive disease cases,IL,2006,127,True,Illinois,Midwest,,
+Neuroinvasive disease cases,IL,2007,63,True,Illinois,Midwest,,
+Neuroinvasive disease cases,IL,2008,12,True,Illinois,Midwest,,
+Neuroinvasive disease cases,IL,2009,5,True,Illinois,Midwest,,
+Neuroinvasive disease cases,IL,2010,45,True,Illinois,Midwest,,
+Neuroinvasive disease cases,IL,2011,22,True,Illinois,Midwest,,
+Neuroinvasive disease cases,IL,2012,187,True,Illinois,Midwest,,
+Neuroinvasive disease cases,IL,2013,86,True,Illinois,Midwest,,
+Neuroinvasive disease cases,IL,2014,36,True,Illinois,Midwest,,
+Neuroinvasive disease cases,IL,2015,51,True,Illinois,Midwest,,
+Neuroinvasive disease cases,IL,2016,98,True,Illinois,Midwest,,
+Neuroinvasive disease cases,IL,2017,72,True,Illinois,Midwest,,
+Neuroinvasive disease cases,IL,2018,126,True,Illinois,Midwest,,
+Neuroinvasive disease cases,IL,2019,22,True,Illinois,Midwest,,
+Neuroinvasive disease cases,IL,2020,36,True,Illinois,Midwest,12795348.0,0.2813522539597985
+Neuroinvasive disease cases,IL,2021,49,True,Illinois,Midwest,12703354.0,0.3857249038324839
+Neuroinvasive disease cases,IL,2022,27,True,Illinois,Midwest,12609577.0,0.21412296383931037
+Neuroinvasive disease cases,IL,2023,104,True,Illinois,Midwest,12633389.0,0.8232153700008763
+Neuroinvasive disease cases,IL,2024,56,True,Illinois,Midwest,12703033.0,0.44083960106220305
+Neuroinvasive disease cases,IL,2025,109,True,Illinois,Midwest,12719141.0,0.8569761118301936
+Neuroinvasive disease cases,IN,2004,8,True,Indiana,Midwest,,
+Neuroinvasive disease cases,IN,2005,11,True,Indiana,Midwest,,
+Neuroinvasive disease cases,IN,2006,27,True,Indiana,Midwest,,
+Neuroinvasive disease cases,IN,2007,14,True,Indiana,Midwest,,
+Neuroinvasive disease cases,IN,2008,3,True,Indiana,Midwest,,
+Neuroinvasive disease cases,IN,2009,2,True,Indiana,Midwest,,
+Neuroinvasive disease cases,IN,2010,6,True,Indiana,Midwest,,
+Neuroinvasive disease cases,IN,2011,7,True,Indiana,Midwest,,
+Neuroinvasive disease cases,IN,2012,46,True,Indiana,Midwest,,
+Neuroinvasive disease cases,IN,2013,19,True,Indiana,Midwest,,
+Neuroinvasive disease cases,IN,2014,9,True,Indiana,Midwest,,
+Neuroinvasive disease cases,IN,2015,16,True,Indiana,Midwest,,
+Neuroinvasive disease cases,IN,2016,15,True,Indiana,Midwest,,
+Neuroinvasive disease cases,IN,2017,18,True,Indiana,Midwest,,
+Neuroinvasive disease cases,IN,2018,26,True,Indiana,Midwest,,
+Neuroinvasive disease cases,IN,2019,4,True,Indiana,Midwest,,
+Neuroinvasive disease cases,IN,2020,3,True,Indiana,Midwest,6790290.0,0.04418073454889261
+Neuroinvasive disease cases,IN,2021,11,True,Indiana,Midwest,6814223.0,0.16142706219036274
+Neuroinvasive disease cases,IN,2022,6,True,Indiana,Midwest,6841491.0,0.08770018114472417
+Neuroinvasive disease cases,IN,2023,9,True,Indiana,Midwest,6881373.0,0.13078785294736966
+Neuroinvasive disease cases,IN,2024,10,True,Indiana,Midwest,6934754.0,0.14420122184579295
+Neuroinvasive disease cases,IN,2025,35,True,Indiana,Midwest,6973333.0,0.5019120698810742
+Neuroinvasive disease cases,KS,2004,18,True,Kansas,Midwest,,
+Neuroinvasive disease cases,KS,2005,17,True,Kansas,Midwest,,
+Neuroinvasive disease cases,KS,2006,17,True,Kansas,Midwest,,
+Neuroinvasive disease cases,KS,2007,14,True,Kansas,Midwest,,
+Neuroinvasive disease cases,KS,2008,14,True,Kansas,Midwest,,
+Neuroinvasive disease cases,KS,2009,4,True,Kansas,Midwest,,
+Neuroinvasive disease cases,KS,2010,4,True,Kansas,Midwest,,
+Neuroinvasive disease cases,KS,2011,4,True,Kansas,Midwest,,
+Neuroinvasive disease cases,KS,2012,20,True,Kansas,Midwest,,
+Neuroinvasive disease cases,KS,2013,34,True,Kansas,Midwest,,
+Neuroinvasive disease cases,KS,2014,18,True,Kansas,Midwest,,
+Neuroinvasive disease cases,KS,2015,12,True,Kansas,Midwest,,
+Neuroinvasive disease cases,KS,2016,18,True,Kansas,Midwest,,
+Neuroinvasive disease cases,KS,2017,12,True,Kansas,Midwest,,
+Neuroinvasive disease cases,KS,2018,23,True,Kansas,Midwest,,
+Neuroinvasive disease cases,KS,2019,7,True,Kansas,Midwest,,
+Neuroinvasive disease cases,KS,2020,6,True,Kansas,Midwest,2938274.0,0.2042015142222951
+Neuroinvasive disease cases,KS,2021,10,True,Kansas,Midwest,2938966.0,0.3402557225908704
+Neuroinvasive disease cases,KS,2022,6,True,Kansas,Midwest,2938034.0,0.2042181948881463
+Neuroinvasive disease cases,KS,2023,46,True,Kansas,Midwest,2949749.0,1.55945471970666
+Neuroinvasive disease cases,KS,2024,11,True,Kansas,Midwest,2965252.0,0.37096341221589263
+Neuroinvasive disease cases,KS,2025,26,True,Kansas,Midwest,2977220.0,0.8732979087873922
+Neuroinvasive disease cases,KY,2004,1,True,Kentucky,South,,
+Neuroinvasive disease cases,KY,2005,5,True,Kentucky,South,,
+Neuroinvasive disease cases,KY,2006,5,True,Kentucky,South,,
+Neuroinvasive disease cases,KY,2007,4,True,Kentucky,South,,
+Neuroinvasive disease cases,KY,2008,3,True,Kentucky,South,,
+Neuroinvasive disease cases,KY,2009,3,True,Kentucky,South,,
+Neuroinvasive disease cases,KY,2010,2,True,Kentucky,South,,
+Neuroinvasive disease cases,KY,2011,4,True,Kentucky,South,,
+Neuroinvasive disease cases,KY,2012,13,True,Kentucky,South,,
+Neuroinvasive disease cases,KY,2013,1,True,Kentucky,South,,
+Neuroinvasive disease cases,KY,2014,0,False,Kentucky,South,,
+Neuroinvasive disease cases,KY,2015,1,True,Kentucky,South,,
+Neuroinvasive disease cases,KY,2016,5,True,Kentucky,South,,
+Neuroinvasive disease cases,KY,2017,9,True,Kentucky,South,,
+Neuroinvasive disease cases,KY,2018,9,True,Kentucky,South,,
+Neuroinvasive disease cases,KY,2019,4,True,Kentucky,South,,
+Neuroinvasive disease cases,KY,2020,0,False,Kentucky,South,4508271.0,0.0
+Neuroinvasive disease cases,KY,2021,4,True,Kentucky,South,4508348.0,0.0887242954625508
+Neuroinvasive disease cases,KY,2022,3,True,Kentucky,South,4521238.0,0.06635350760123665
+Neuroinvasive disease cases,KY,2023,10,True,Kentucky,South,4549953.0,0.21978249006088635
+Neuroinvasive disease cases,KY,2024,8,True,Kentucky,South,4584046.0,0.17451831853345276
+Neuroinvasive disease cases,KY,2025,32,True,Kentucky,South,4606864.0,0.6946156865060483
+Neuroinvasive disease cases,LA,2004,85,True,Louisiana,South,,
+Neuroinvasive disease cases,LA,2005,117,True,Louisiana,South,,
+Neuroinvasive disease cases,LA,2006,91,True,Louisiana,South,,
+Neuroinvasive disease cases,LA,2007,27,True,Louisiana,South,,
+Neuroinvasive disease cases,LA,2008,18,True,Louisiana,South,,
+Neuroinvasive disease cases,LA,2009,10,True,Louisiana,South,,
+Neuroinvasive disease cases,LA,2010,20,True,Louisiana,South,,
+Neuroinvasive disease cases,LA,2011,6,True,Louisiana,South,,
+Neuroinvasive disease cases,LA,2012,155,True,Louisiana,South,,
+Neuroinvasive disease cases,LA,2013,34,True,Louisiana,South,,
+Neuroinvasive disease cases,LA,2014,61,True,Louisiana,South,,
+Neuroinvasive disease cases,LA,2015,41,True,Louisiana,South,,
+Neuroinvasive disease cases,LA,2016,38,True,Louisiana,South,,
+Neuroinvasive disease cases,LA,2017,37,True,Louisiana,South,,
+Neuroinvasive disease cases,LA,2018,56,True,Louisiana,South,,
+Neuroinvasive disease cases,LA,2019,11,True,Louisiana,South,,
+Neuroinvasive disease cases,LA,2020,14,True,Louisiana,South,4652145.0,0.30093644974522504
+Neuroinvasive disease cases,LA,2021,17,True,Louisiana,South,4628595.0,0.36728208019928293
+Neuroinvasive disease cases,LA,2022,41,True,Louisiana,South,4600892.0,0.8911315457959021
+Neuroinvasive disease cases,LA,2023,46,True,Louisiana,South,4598777.0,1.0002659402706415
+Neuroinvasive disease cases,LA,2024,38,True,Louisiana,South,4614878.0,0.8234237178100916
+Neuroinvasive disease cases,LA,2025,54,True,Louisiana,South,4618189.0,1.1692895201993683
+Neuroinvasive disease cases,MA,2004,0,False,Massachusetts,Northeast,,
+Neuroinvasive disease cases,MA,2005,4,True,Massachusetts,Northeast,,
+Neuroinvasive disease cases,MA,2006,2,True,Massachusetts,Northeast,,
+Neuroinvasive disease cases,MA,2007,3,True,Massachusetts,Northeast,,
+Neuroinvasive disease cases,MA,2008,1,True,Massachusetts,Northeast,,
+Neuroinvasive disease cases,MA,2009,0,False,Massachusetts,Northeast,,
+Neuroinvasive disease cases,MA,2010,6,True,Massachusetts,Northeast,,
+Neuroinvasive disease cases,MA,2011,5,True,Massachusetts,Northeast,,
+Neuroinvasive disease cases,MA,2012,25,True,Massachusetts,Northeast,,
+Neuroinvasive disease cases,MA,2013,7,True,Massachusetts,Northeast,,
+Neuroinvasive disease cases,MA,2014,5,True,Massachusetts,Northeast,,
+Neuroinvasive disease cases,MA,2015,7,True,Massachusetts,Northeast,,
+Neuroinvasive disease cases,MA,2016,10,True,Massachusetts,Northeast,,
+Neuroinvasive disease cases,MA,2017,5,True,Massachusetts,Northeast,,
+Neuroinvasive disease cases,MA,2018,42,True,Massachusetts,Northeast,,
+Neuroinvasive disease cases,MA,2019,2,True,Massachusetts,Northeast,,
+Neuroinvasive disease cases,MA,2020,9,True,Massachusetts,Northeast,6985320.0,0.12884162787102094
+Neuroinvasive disease cases,MA,2021,9,True,Massachusetts,Northeast,6996721.0,0.12863168332708994
+Neuroinvasive disease cases,MA,2022,7,True,Massachusetts,Northeast,7025465.0,0.09963753288928205
+Neuroinvasive disease cases,MA,2023,5,True,Massachusetts,Northeast,7073479.0,0.07068657445650153
+Neuroinvasive disease cases,MA,2024,16,True,Massachusetts,Northeast,7138560.0,0.2241348395194549
+Neuroinvasive disease cases,MA,2025,8,True,Massachusetts,Northeast,7154084.0,0.1118242391338989
+Neuroinvasive disease cases,MD,2004,10,True,Maryland,South,,
+Neuroinvasive disease cases,MD,2005,4,True,Maryland,South,,
+Neuroinvasive disease cases,MD,2006,10,True,Maryland,South,,
+Neuroinvasive disease cases,MD,2007,6,True,Maryland,South,,
+Neuroinvasive disease cases,MD,2008,6,True,Maryland,South,,
+Neuroinvasive disease cases,MD,2009,0,False,Maryland,South,,
+Neuroinvasive disease cases,MD,2010,17,True,Maryland,South,,
+Neuroinvasive disease cases,MD,2011,10,True,Maryland,South,,
+Neuroinvasive disease cases,MD,2012,25,True,Maryland,South,,
+Neuroinvasive disease cases,MD,2013,11,True,Maryland,South,,
+Neuroinvasive disease cases,MD,2014,6,True,Maryland,South,,
+Neuroinvasive disease cases,MD,2015,31,True,Maryland,South,,
+Neuroinvasive disease cases,MD,2016,6,True,Maryland,South,,
+Neuroinvasive disease cases,MD,2017,5,True,Maryland,South,,
+Neuroinvasive disease cases,MD,2018,34,True,Maryland,South,,
+Neuroinvasive disease cases,MD,2019,6,True,Maryland,South,,
+Neuroinvasive disease cases,MD,2020,1,True,Maryland,South,6178387.0,0.016185454229396767
+Neuroinvasive disease cases,MD,2021,7,True,Maryland,South,6176035.0,0.11334132659546133
+Neuroinvasive disease cases,MD,2022,6,True,Maryland,South,6183257.0,0.09703623834493699
+Neuroinvasive disease cases,MD,2023,9,True,Maryland,South,6204927.0,0.1450460255213317
+Neuroinvasive disease cases,MD,2024,24,True,Maryland,South,6245314.0,0.3842881238637481
+Neuroinvasive disease cases,MD,2025,22,True,Maryland,South,6265347.0,0.3511377741727633
+Neuroinvasive disease cases,ME,2004,0,False,Maine,Northeast,,
+Neuroinvasive disease cases,ME,2005,0,False,Maine,Northeast,,
+Neuroinvasive disease cases,ME,2006,0,False,Maine,Northeast,,
+Neuroinvasive disease cases,ME,2007,0,False,Maine,Northeast,,
+Neuroinvasive disease cases,ME,2008,0,False,Maine,Northeast,,
+Neuroinvasive disease cases,ME,2009,0,False,Maine,Northeast,,
+Neuroinvasive disease cases,ME,2010,0,False,Maine,Northeast,,
+Neuroinvasive disease cases,ME,2011,0,False,Maine,Northeast,,
+Neuroinvasive disease cases,ME,2012,1,True,Maine,Northeast,,
+Neuroinvasive disease cases,ME,2013,0,False,Maine,Northeast,,
+Neuroinvasive disease cases,ME,2014,0,False,Maine,Northeast,,
+Neuroinvasive disease cases,ME,2015,1,True,Maine,Northeast,,
+Neuroinvasive disease cases,ME,2016,0,False,Maine,Northeast,,
+Neuroinvasive disease cases,ME,2017,0,False,Maine,Northeast,,
+Neuroinvasive disease cases,ME,2018,1,True,Maine,Northeast,,
+Neuroinvasive disease cases,ME,2019,0,False,Maine,Northeast,,
+Neuroinvasive disease cases,ME,2020,1,True,Maine,Northeast,1364546.0,0.07328444772107354
+Neuroinvasive disease cases,ME,2021,0,False,Maine,Northeast,1379009.0,0.0
+Neuroinvasive disease cases,ME,2022,0,False,Maine,Northeast,1391585.0,0.0
+Neuroinvasive disease cases,ME,2023,0,False,Maine,Northeast,1401992.0,0.0
+Neuroinvasive disease cases,ME,2024,1,True,Maine,Northeast,1408438.0,0.07100064042577664
+Neuroinvasive disease cases,ME,2025,1,True,Maine,Northeast,1414874.0,0.07067767165132725
+Neuroinvasive disease cases,MI,2004,13,True,Michigan,Midwest,,
+Neuroinvasive disease cases,MI,2005,54,True,Michigan,Midwest,,
+Neuroinvasive disease cases,MI,2006,43,True,Michigan,Midwest,,
+Neuroinvasive disease cases,MI,2007,16,True,Michigan,Midwest,,
+Neuroinvasive disease cases,MI,2008,11,True,Michigan,Midwest,,
+Neuroinvasive disease cases,MI,2009,1,True,Michigan,Midwest,,
+Neuroinvasive disease cases,MI,2010,25,True,Michigan,Midwest,,
+Neuroinvasive disease cases,MI,2011,32,True,Michigan,Midwest,,
+Neuroinvasive disease cases,MI,2012,141,True,Michigan,Midwest,,
+Neuroinvasive disease cases,MI,2013,24,True,Michigan,Midwest,,
+Neuroinvasive disease cases,MI,2014,1,True,Michigan,Midwest,,
+Neuroinvasive disease cases,MI,2015,16,True,Michigan,Midwest,,
+Neuroinvasive disease cases,MI,2016,42,True,Michigan,Midwest,,
+Neuroinvasive disease cases,MI,2017,32,True,Michigan,Midwest,,
+Neuroinvasive disease cases,MI,2018,80,True,Michigan,Midwest,,
+Neuroinvasive disease cases,MI,2019,11,True,Michigan,Midwest,,
+Neuroinvasive disease cases,MI,2020,29,True,Michigan,Midwest,10072294.0,0.28791852183822275
+Neuroinvasive disease cases,MI,2021,38,True,Michigan,Midwest,10042362.0,0.3783970344825251
+Neuroinvasive disease cases,MI,2022,13,True,Michigan,Midwest,10043906.0,0.12943171710288806
+Neuroinvasive disease cases,MI,2023,22,True,Michigan,Midwest,10062124.0,0.2186417102393093
+Neuroinvasive disease cases,MI,2024,24,True,Michigan,Midwest,10099962.0,0.23762465640959837
+Neuroinvasive disease cases,MI,2025,39,True,Michigan,Midwest,10127884.0,0.38507550046979205
+Neuroinvasive disease cases,MN,2004,13,True,Minnesota,Midwest,,
+Neuroinvasive disease cases,MN,2005,18,True,Minnesota,Midwest,,
+Neuroinvasive disease cases,MN,2006,31,True,Minnesota,Midwest,,
+Neuroinvasive disease cases,MN,2007,44,True,Minnesota,Midwest,,
+Neuroinvasive disease cases,MN,2008,2,True,Minnesota,Midwest,,
+Neuroinvasive disease cases,MN,2009,1,True,Minnesota,Midwest,,
+Neuroinvasive disease cases,MN,2010,4,True,Minnesota,Midwest,,
+Neuroinvasive disease cases,MN,2011,1,True,Minnesota,Midwest,,
+Neuroinvasive disease cases,MN,2012,34,True,Minnesota,Midwest,,
+Neuroinvasive disease cases,MN,2013,31,True,Minnesota,Midwest,,
+Neuroinvasive disease cases,MN,2014,6,True,Minnesota,Midwest,,
+Neuroinvasive disease cases,MN,2015,3,True,Minnesota,Midwest,,
+Neuroinvasive disease cases,MN,2016,38,True,Minnesota,Midwest,,
+Neuroinvasive disease cases,MN,2017,13,True,Minnesota,Midwest,,
+Neuroinvasive disease cases,MN,2018,34,True,Minnesota,Midwest,,
+Neuroinvasive disease cases,MN,2019,2,True,Minnesota,Midwest,,
+Neuroinvasive disease cases,MN,2020,0,False,Minnesota,Midwest,5710562.0,0.0
+Neuroinvasive disease cases,MN,2021,27,True,Minnesota,Midwest,5714055.0,0.47251907795777254
+Neuroinvasive disease cases,MN,2022,17,True,Minnesota,Midwest,5727565.0,0.2968102500800951
+Neuroinvasive disease cases,MN,2023,44,True,Minnesota,Midwest,5752998.0,0.764818621525681
+Neuroinvasive disease cases,MN,2024,26,True,Minnesota,Midwest,5797405.0,0.448476516648397
+Neuroinvasive disease cases,MN,2025,81,True,Minnesota,Midwest,5830405.0,1.3892688415298766
+Neuroinvasive disease cases,MO,2004,27,True,Missouri,Midwest,,
+Neuroinvasive disease cases,MO,2005,17,True,Missouri,Midwest,,
+Neuroinvasive disease cases,MO,2006,51,True,Missouri,Midwest,,
+Neuroinvasive disease cases,MO,2007,61,True,Missouri,Midwest,,
+Neuroinvasive disease cases,MO,2008,12,True,Missouri,Midwest,,
+Neuroinvasive disease cases,MO,2009,4,True,Missouri,Midwest,,
+Neuroinvasive disease cases,MO,2010,3,True,Missouri,Midwest,,
+Neuroinvasive disease cases,MO,2011,6,True,Missouri,Midwest,,
+Neuroinvasive disease cases,MO,2012,17,True,Missouri,Midwest,,
+Neuroinvasive disease cases,MO,2013,24,True,Missouri,Midwest,,
+Neuroinvasive disease cases,MO,2014,10,True,Missouri,Midwest,,
+Neuroinvasive disease cases,MO,2015,23,True,Missouri,Midwest,,
+Neuroinvasive disease cases,MO,2016,9,True,Missouri,Midwest,,
+Neuroinvasive disease cases,MO,2017,17,True,Missouri,Midwest,,
+Neuroinvasive disease cases,MO,2018,17,True,Missouri,Midwest,,
+Neuroinvasive disease cases,MO,2019,4,True,Missouri,Midwest,,
+Neuroinvasive disease cases,MO,2020,1,True,Missouri,Midwest,6155074.0,0.016246758365537118
+Neuroinvasive disease cases,MO,2021,11,True,Missouri,Midwest,6172551.0,0.17820832910088552
+Neuroinvasive disease cases,MO,2022,11,True,Missouri,Midwest,6179285.0,0.1780141229931942
+Neuroinvasive disease cases,MO,2023,33,True,Missouri,Midwest,6205956.0,0.5317472440990558
+Neuroinvasive disease cases,MO,2024,12,True,Missouri,Midwest,6243544.0,0.19219853339705784
+Neuroinvasive disease cases,MO,2025,41,True,Missouri,Midwest,6270541.0,0.6538510791971538
+Neuroinvasive disease cases,MS,2004,31,True,Mississippi,South,,
+Neuroinvasive disease cases,MS,2005,39,True,Mississippi,South,,
+Neuroinvasive disease cases,MS,2006,89,True,Mississippi,South,,
+Neuroinvasive disease cases,MS,2007,50,True,Mississippi,South,,
+Neuroinvasive disease cases,MS,2008,22,True,Mississippi,South,,
+Neuroinvasive disease cases,MS,2009,31,True,Mississippi,South,,
+Neuroinvasive disease cases,MS,2010,3,True,Mississippi,South,,
+Neuroinvasive disease cases,MS,2011,31,True,Mississippi,South,,
+Neuroinvasive disease cases,MS,2012,103,True,Mississippi,South,,
+Neuroinvasive disease cases,MS,2013,27,True,Mississippi,South,,
+Neuroinvasive disease cases,MS,2014,26,True,Mississippi,South,,
+Neuroinvasive disease cases,MS,2015,25,True,Mississippi,South,,
+Neuroinvasive disease cases,MS,2016,27,True,Mississippi,South,,
+Neuroinvasive disease cases,MS,2017,46,True,Mississippi,South,,
+Neuroinvasive disease cases,MS,2018,31,True,Mississippi,South,,
+Neuroinvasive disease cases,MS,2019,12,True,Mississippi,South,,
+Neuroinvasive disease cases,MS,2020,4,True,Mississippi,South,2958385.0,0.1352089062106521
+Neuroinvasive disease cases,MS,2021,5,True,Mississippi,South,2947603.0,0.16962935646354005
+Neuroinvasive disease cases,MS,2022,5,True,Mississippi,South,2941237.0,0.1699965014719997
+Neuroinvasive disease cases,MS,2023,27,True,Mississippi,South,2942470.0,0.9175964410852108
+Neuroinvasive disease cases,MS,2024,42,True,Mississippi,South,2950172.0,1.423645807769852
+Neuroinvasive disease cases,MS,2025,28,True,Mississippi,South,2954160.0,0.947815961220787
+Neuroinvasive disease cases,MT,2004,2,True,Montana,West,,
+Neuroinvasive disease cases,MT,2005,8,True,Montana,West,,
+Neuroinvasive disease cases,MT,2006,12,True,Montana,West,,
+Neuroinvasive disease cases,MT,2007,37,True,Montana,West,,
+Neuroinvasive disease cases,MT,2008,0,False,Montana,West,,
+Neuroinvasive disease cases,MT,2009,2,True,Montana,West,,
+Neuroinvasive disease cases,MT,2010,0,False,Montana,West,,
+Neuroinvasive disease cases,MT,2011,1,True,Montana,West,,
+Neuroinvasive disease cases,MT,2012,1,True,Montana,West,,
+Neuroinvasive disease cases,MT,2013,10,True,Montana,West,,
+Neuroinvasive disease cases,MT,2014,2,True,Montana,West,,
+Neuroinvasive disease cases,MT,2015,3,True,Montana,West,,
+Neuroinvasive disease cases,MT,2016,3,True,Montana,West,,
+Neuroinvasive disease cases,MT,2017,3,True,Montana,West,,
+Neuroinvasive disease cases,MT,2018,25,True,Montana,West,,
+Neuroinvasive disease cases,MT,2019,3,True,Montana,West,,
+Neuroinvasive disease cases,MT,2020,1,True,Montana,West,1087156.0,0.09198311925795377
+Neuroinvasive disease cases,MT,2021,2,True,Montana,West,1106416.0,0.18076383566398171
+Neuroinvasive disease cases,MT,2022,0,False,Montana,West,1121533.0,0.0
+Neuroinvasive disease cases,MT,2023,23,True,Montana,West,1130612.0,2.034296469522701
+Neuroinvasive disease cases,MT,2024,3,True,Montana,West,1137557.0,0.2637230486032788
+Neuroinvasive disease cases,MT,2025,14,True,Montana,West,1144694.0,1.2230342781564332
+Neuroinvasive disease cases,NC,2004,3,True,North Carolina,South,,
+Neuroinvasive disease cases,NC,2005,2,True,North Carolina,South,,
+Neuroinvasive disease cases,NC,2006,1,True,North Carolina,South,,
+Neuroinvasive disease cases,NC,2007,4,True,North Carolina,South,,
+Neuroinvasive disease cases,NC,2008,2,True,North Carolina,South,,
+Neuroinvasive disease cases,NC,2009,0,False,North Carolina,South,,
+Neuroinvasive disease cases,NC,2010,0,False,North Carolina,South,,
+Neuroinvasive disease cases,NC,2011,2,True,North Carolina,South,,
+Neuroinvasive disease cases,NC,2012,7,True,North Carolina,South,,
+Neuroinvasive disease cases,NC,2013,3,True,North Carolina,South,,
+Neuroinvasive disease cases,NC,2014,0,False,North Carolina,South,,
+Neuroinvasive disease cases,NC,2015,4,True,North Carolina,South,,
+Neuroinvasive disease cases,NC,2016,2,True,North Carolina,South,,
+Neuroinvasive disease cases,NC,2017,8,True,North Carolina,South,,
+Neuroinvasive disease cases,NC,2018,10,True,North Carolina,South,,
+Neuroinvasive disease cases,NC,2019,1,True,North Carolina,South,,
+Neuroinvasive disease cases,NC,2020,1,True,North Carolina,South,10450215.0,0.009569181112541705
+Neuroinvasive disease cases,NC,2021,8,True,North Carolina,South,10565503.0,0.07571811772709733
+Neuroinvasive disease cases,NC,2022,12,True,North Carolina,South,10705768.0,0.11208910934740973
+Neuroinvasive disease cases,NC,2023,15,True,North Carolina,South,10871849.0,0.13797101118678157
+Neuroinvasive disease cases,NC,2024,27,True,North Carolina,South,11052061.0,0.24429832589595735
+Neuroinvasive disease cases,NC,2025,11,True,North Carolina,South,11197968.0,0.09823210782527687
+Neuroinvasive disease cases,ND,2004,2,True,North Dakota,Midwest,,
+Neuroinvasive disease cases,ND,2005,12,True,North Dakota,Midwest,,
+Neuroinvasive disease cases,ND,2006,20,True,North Dakota,Midwest,,
+Neuroinvasive disease cases,ND,2007,49,True,North Dakota,Midwest,,
+Neuroinvasive disease cases,ND,2008,2,True,North Dakota,Midwest,,
+Neuroinvasive disease cases,ND,2009,0,False,North Dakota,Midwest,,
+Neuroinvasive disease cases,ND,2010,2,True,North Dakota,Midwest,,
+Neuroinvasive disease cases,ND,2011,1,True,North Dakota,Midwest,,
+Neuroinvasive disease cases,ND,2012,39,True,North Dakota,Midwest,,
+Neuroinvasive disease cases,ND,2013,64,True,North Dakota,Midwest,,
+Neuroinvasive disease cases,ND,2014,12,True,North Dakota,Midwest,,
+Neuroinvasive disease cases,ND,2015,10,True,North Dakota,Midwest,,
+Neuroinvasive disease cases,ND,2016,24,True,North Dakota,Midwest,,
+Neuroinvasive disease cases,ND,2017,20,True,North Dakota,Midwest,,
+Neuroinvasive disease cases,ND,2018,60,True,North Dakota,Midwest,,
+Neuroinvasive disease cases,ND,2019,2,True,North Dakota,Midwest,,
+Neuroinvasive disease cases,ND,2020,2,True,North Dakota,Midwest,779612.0,0.25653786755462976
+Neuroinvasive disease cases,ND,2021,12,True,North Dakota,Midwest,777977.0,1.5424620522200527
+Neuroinvasive disease cases,ND,2022,8,True,North Dakota,Midwest,780191.0,1.025389936566815
+Neuroinvasive disease cases,ND,2023,33,True,North Dakota,Midwest,787071.0,4.192760246534302
+Neuroinvasive disease cases,ND,2024,22,True,North Dakota,Midwest,793387.0,2.7729216637025815
+Neuroinvasive disease cases,ND,2025,43,True,North Dakota,Midwest,799358.0,5.379316901813706
+Neuroinvasive disease cases,NE,2004,7,True,Nebraska,Midwest,,
+Neuroinvasive disease cases,NE,2005,55,True,Nebraska,Midwest,,
+Neuroinvasive disease cases,NE,2006,45,True,Nebraska,Midwest,,
+Neuroinvasive disease cases,NE,2007,21,True,Nebraska,Midwest,,
+Neuroinvasive disease cases,NE,2008,7,True,Nebraska,Midwest,,
+Neuroinvasive disease cases,NE,2009,11,True,Nebraska,Midwest,,
+Neuroinvasive disease cases,NE,2010,10,True,Nebraska,Midwest,,
+Neuroinvasive disease cases,NE,2011,14,True,Nebraska,Midwest,,
+Neuroinvasive disease cases,NE,2012,42,True,Nebraska,Midwest,,
+Neuroinvasive disease cases,NE,2013,54,True,Nebraska,Midwest,,
+Neuroinvasive disease cases,NE,2014,41,True,Nebraska,Midwest,,
+Neuroinvasive disease cases,NE,2015,19,True,Nebraska,Midwest,,
+Neuroinvasive disease cases,NE,2016,35,True,Nebraska,Midwest,,
+Neuroinvasive disease cases,NE,2017,19,True,Nebraska,Midwest,,
+Neuroinvasive disease cases,NE,2018,124,True,Nebraska,Midwest,,
+Neuroinvasive disease cases,NE,2019,17,True,Nebraska,Midwest,,
+Neuroinvasive disease cases,NE,2020,9,True,Nebraska,Midwest,1963318.0,0.45840765479662493
+Neuroinvasive disease cases,NE,2021,69,True,Nebraska,Midwest,1964697.0,3.511991925472478
+Neuroinvasive disease cases,NE,2022,37,True,Nebraska,Midwest,1972595.0,1.8757018039688835
+Neuroinvasive disease cases,NE,2023,91,True,Nebraska,Midwest,1988172.0,4.577068784793267
+Neuroinvasive disease cases,NE,2024,50,True,Nebraska,Midwest,2005591.0,2.493030732587053
+Neuroinvasive disease cases,NE,2025,21,True,Nebraska,Midwest,2018006.0,1.040631197330434
+Neuroinvasive disease cases,NH,2004,0,False,New Hampshire,Northeast,,
+Neuroinvasive disease cases,NH,2005,0,False,New Hampshire,Northeast,,
+Neuroinvasive disease cases,NH,2006,0,False,New Hampshire,Northeast,,
+Neuroinvasive disease cases,NH,2007,0,False,New Hampshire,Northeast,,
+Neuroinvasive disease cases,NH,2008,0,False,New Hampshire,Northeast,,
+Neuroinvasive disease cases,NH,2009,0,False,New Hampshire,Northeast,,
+Neuroinvasive disease cases,NH,2010,1,True,New Hampshire,Northeast,,
+Neuroinvasive disease cases,NH,2011,0,False,New Hampshire,Northeast,,
+Neuroinvasive disease cases,NH,2012,1,True,New Hampshire,Northeast,,
+Neuroinvasive disease cases,NH,2013,1,True,New Hampshire,Northeast,,
+Neuroinvasive disease cases,NH,2014,0,False,New Hampshire,Northeast,,
+Neuroinvasive disease cases,NH,2015,0,False,New Hampshire,Northeast,,
+Neuroinvasive disease cases,NH,2016,0,False,New Hampshire,Northeast,,
+Neuroinvasive disease cases,NH,2017,0,False,New Hampshire,Northeast,,
+Neuroinvasive disease cases,NH,2018,0,False,New Hampshire,Northeast,,
+Neuroinvasive disease cases,NH,2019,0,False,New Hampshire,Northeast,,
+Neuroinvasive disease cases,NH,2020,0,False,New Hampshire,Northeast,1378752.0,0.0
+Neuroinvasive disease cases,NH,2021,1,True,New Hampshire,Northeast,1387907.0,0.07205093713051379
+Neuroinvasive disease cases,NH,2022,0,False,New Hampshire,Northeast,1396647.0,0.0
+Neuroinvasive disease cases,NH,2023,1,True,New Hampshire,Northeast,1401530.0,0.07135059542071878
+Neuroinvasive disease cases,NH,2024,1,True,New Hampshire,Northeast,1408518.0,0.07099660778208018
+Neuroinvasive disease cases,NH,2025,0,False,New Hampshire,Northeast,1415342.0,0.0
+Neuroinvasive disease cases,NJ,2004,1,True,New Jersey,Northeast,,
+Neuroinvasive disease cases,NJ,2005,3,True,New Jersey,Northeast,,
+Neuroinvasive disease cases,NJ,2006,2,True,New Jersey,Northeast,,
+Neuroinvasive disease cases,NJ,2007,1,True,New Jersey,Northeast,,
+Neuroinvasive disease cases,NJ,2008,6,True,New Jersey,Northeast,,
+Neuroinvasive disease cases,NJ,2009,3,True,New Jersey,Northeast,,
+Neuroinvasive disease cases,NJ,2010,15,True,New Jersey,Northeast,,
+Neuroinvasive disease cases,NJ,2011,2,True,New Jersey,Northeast,,
+Neuroinvasive disease cases,NJ,2012,22,True,New Jersey,Northeast,,
+Neuroinvasive disease cases,NJ,2013,10,True,New Jersey,Northeast,,
+Neuroinvasive disease cases,NJ,2014,6,True,New Jersey,Northeast,,
+Neuroinvasive disease cases,NJ,2015,23,True,New Jersey,Northeast,,
+Neuroinvasive disease cases,NJ,2016,11,True,New Jersey,Northeast,,
+Neuroinvasive disease cases,NJ,2017,6,True,New Jersey,Northeast,,
+Neuroinvasive disease cases,NJ,2018,44,True,New Jersey,Northeast,,
+Neuroinvasive disease cases,NJ,2019,6,True,New Jersey,Northeast,,
+Neuroinvasive disease cases,NJ,2020,3,True,New Jersey,Northeast,9270476.0,0.03236079787057321
+Neuroinvasive disease cases,NJ,2021,26,True,New Jersey,Northeast,9266509.0,0.28058031347080115
+Neuroinvasive disease cases,NJ,2022,13,True,New Jersey,Northeast,9298402.0,0.1398089693261272
+Neuroinvasive disease cases,NJ,2023,11,True,New Jersey,Northeast,9395315.0,0.1170796295813392
+Neuroinvasive disease cases,NJ,2024,33,True,New Jersey,Northeast,9506354.0,0.34713624171790786
+Neuroinvasive disease cases,NJ,2025,17,True,New Jersey,Northeast,9548215.0,0.1780437495385263
+Neuroinvasive disease cases,NM,2004,32,True,New Mexico,West,,
+Neuroinvasive disease cases,NM,2005,20,True,New Mexico,West,,
+Neuroinvasive disease cases,NM,2006,3,True,New Mexico,West,,
+Neuroinvasive disease cases,NM,2007,39,True,New Mexico,West,,
+Neuroinvasive disease cases,NM,2008,5,True,New Mexico,West,,
+Neuroinvasive disease cases,NM,2009,6,True,New Mexico,West,,
+Neuroinvasive disease cases,NM,2010,21,True,New Mexico,West,,
+Neuroinvasive disease cases,NM,2011,4,True,New Mexico,West,,
+Neuroinvasive disease cases,NM,2012,24,True,New Mexico,West,,
+Neuroinvasive disease cases,NM,2013,24,True,New Mexico,West,,
+Neuroinvasive disease cases,NM,2014,19,True,New Mexico,West,,
+Neuroinvasive disease cases,NM,2015,12,True,New Mexico,West,,
+Neuroinvasive disease cases,NM,2016,6,True,New Mexico,West,,
+Neuroinvasive disease cases,NM,2017,23,True,New Mexico,West,,
+Neuroinvasive disease cases,NM,2018,5,True,New Mexico,West,,
+Neuroinvasive disease cases,NM,2019,30,True,New Mexico,West,,
+Neuroinvasive disease cases,NM,2020,7,True,New Mexico,West,2118446.0,0.33043089132316805
+Neuroinvasive disease cases,NM,2021,31,True,New Mexico,West,2117300.0,1.4641288433382138
+Neuroinvasive disease cases,NM,2022,8,True,New Mexico,West,2112859.0,0.3786338794969281
+Neuroinvasive disease cases,NM,2023,54,True,New Mexico,West,2119349.0,2.547952224952096
+Neuroinvasive disease cases,NM,2024,24,True,New Mexico,West,2126774.0,1.1284696916550605
+Neuroinvasive disease cases,NM,2025,43,True,New Mexico,West,2125498.0,2.0230553028043308
+Neuroinvasive disease cases,NV,2004,25,True,Nevada,West,,
+Neuroinvasive disease cases,NV,2005,14,True,Nevada,West,,
+Neuroinvasive disease cases,NV,2006,34,True,Nevada,West,,
+Neuroinvasive disease cases,NV,2007,2,True,Nevada,West,,
+Neuroinvasive disease cases,NV,2008,9,True,Nevada,West,,
+Neuroinvasive disease cases,NV,2009,7,True,Nevada,West,,
+Neuroinvasive disease cases,NV,2010,0,False,Nevada,West,,
+Neuroinvasive disease cases,NV,2011,12,True,Nevada,West,,
+Neuroinvasive disease cases,NV,2012,5,True,Nevada,West,,
+Neuroinvasive disease cases,NV,2013,8,True,Nevada,West,,
+Neuroinvasive disease cases,NV,2014,3,True,Nevada,West,,
+Neuroinvasive disease cases,NV,2015,4,True,Nevada,West,,
+Neuroinvasive disease cases,NV,2016,13,True,Nevada,West,,
+Neuroinvasive disease cases,NV,2017,31,True,Nevada,West,,
+Neuroinvasive disease cases,NV,2018,3,True,Nevada,West,,
+Neuroinvasive disease cases,NV,2019,34,True,Nevada,West,,
+Neuroinvasive disease cases,NV,2020,0,False,Nevada,West,3116851.0,0.0
+Neuroinvasive disease cases,NV,2021,1,True,Nevada,West,3148472.0,0.031761438564484615
+Neuroinvasive disease cases,NV,2022,0,False,Nevada,West,3177672.0,0.0
+Neuroinvasive disease cases,NV,2023,2,True,Nevada,West,3211077.0,0.062284398661259135
+Neuroinvasive disease cases,NV,2024,15,True,Nevada,West,3253543.0,0.4610358615208098
+Neuroinvasive disease cases,NV,2025,0,False,Nevada,West,3282188.0,0.0
+Neuroinvasive disease cases,NY,2004,7,True,New York,Northeast,,
+Neuroinvasive disease cases,NY,2005,30,True,New York,Northeast,,
+Neuroinvasive disease cases,NY,2006,16,True,New York,Northeast,,
+Neuroinvasive disease cases,NY,2007,16,True,New York,Northeast,,
+Neuroinvasive disease cases,NY,2008,32,True,New York,Northeast,,
+Neuroinvasive disease cases,NY,2009,6,True,New York,Northeast,,
+Neuroinvasive disease cases,NY,2010,89,True,New York,Northeast,,
+Neuroinvasive disease cases,NY,2011,28,True,New York,Northeast,,
+Neuroinvasive disease cases,NY,2012,61,True,New York,Northeast,,
+Neuroinvasive disease cases,NY,2013,18,True,New York,Northeast,,
+Neuroinvasive disease cases,NY,2014,19,True,New York,Northeast,,
+Neuroinvasive disease cases,NY,2015,42,True,New York,Northeast,,
+Neuroinvasive disease cases,NY,2016,20,True,New York,Northeast,,
+Neuroinvasive disease cases,NY,2017,45,True,New York,Northeast,,
+Neuroinvasive disease cases,NY,2018,77,True,New York,Northeast,,
+Neuroinvasive disease cases,NY,2019,14,True,New York,Northeast,,
+Neuroinvasive disease cases,NY,2020,18,True,New York,Northeast,20122262.0,0.08945316386398308
+Neuroinvasive disease cases,NY,2021,35,True,New York,Northeast,19835345.0,0.17645269089093232
+Neuroinvasive disease cases,NY,2022,75,True,New York,Northeast,19713025.0,0.3804591126932574
+Neuroinvasive disease cases,NY,2023,53,True,New York,Northeast,19786543.0,0.26785881697474895
+Neuroinvasive disease cases,NY,2024,69,True,New York,Northeast,20001419.0,0.34497552398657316
+Neuroinvasive disease cases,NY,2025,50,True,New York,Northeast,20002427.0,0.2499696661810089
+Neuroinvasive disease cases,OH,2004,11,True,Ohio,Midwest,,
+Neuroinvasive disease cases,OH,2005,46,True,Ohio,Midwest,,
+Neuroinvasive disease cases,OH,2006,36,True,Ohio,Midwest,,
+Neuroinvasive disease cases,OH,2007,13,True,Ohio,Midwest,,
+Neuroinvasive disease cases,OH,2008,14,True,Ohio,Midwest,,
+Neuroinvasive disease cases,OH,2009,0,False,Ohio,Midwest,,
+Neuroinvasive disease cases,OH,2010,4,True,Ohio,Midwest,,
+Neuroinvasive disease cases,OH,2011,10,True,Ohio,Midwest,,
+Neuroinvasive disease cases,OH,2012,76,True,Ohio,Midwest,,
+Neuroinvasive disease cases,OH,2013,21,True,Ohio,Midwest,,
+Neuroinvasive disease cases,OH,2014,10,True,Ohio,Midwest,,
+Neuroinvasive disease cases,OH,2015,23,True,Ohio,Midwest,,
+Neuroinvasive disease cases,OH,2016,12,True,Ohio,Midwest,,
+Neuroinvasive disease cases,OH,2017,23,True,Ohio,Midwest,,
+Neuroinvasive disease cases,OH,2018,45,True,Ohio,Midwest,,
+Neuroinvasive disease cases,OH,2019,3,True,Ohio,Midwest,,
+Neuroinvasive disease cases,OH,2020,3,True,Ohio,Midwest,11798534.0,0.02542688778114298
+Neuroinvasive disease cases,OH,2021,11,True,Ohio,Midwest,11761443.0,0.09352593895153852
+Neuroinvasive disease cases,OH,2022,5,True,Ohio,Midwest,11764950.0,0.04249911814329853
+Neuroinvasive disease cases,OH,2023,16,True,Ohio,Midwest,11808390.0,0.13549687976091576
+Neuroinvasive disease cases,OH,2024,12,True,Ohio,Midwest,11860621.0,0.10117514082947258
+Neuroinvasive disease cases,OH,2025,34,True,Ohio,Midwest,11900510.0,0.2857020413410854
+Neuroinvasive disease cases,OK,2004,16,True,Oklahoma,South,,
+Neuroinvasive disease cases,OK,2005,17,True,Oklahoma,South,,
+Neuroinvasive disease cases,OK,2006,27,True,Oklahoma,South,,
+Neuroinvasive disease cases,OK,2007,59,True,Oklahoma,South,,
+Neuroinvasive disease cases,OK,2008,4,True,Oklahoma,South,,
+Neuroinvasive disease cases,OK,2009,8,True,Oklahoma,South,,
+Neuroinvasive disease cases,OK,2010,1,True,Oklahoma,South,,
+Neuroinvasive disease cases,OK,2011,1,True,Oklahoma,South,,
+Neuroinvasive disease cases,OK,2012,103,True,Oklahoma,South,,
+Neuroinvasive disease cases,OK,2013,60,True,Oklahoma,South,,
+Neuroinvasive disease cases,OK,2014,9,True,Oklahoma,South,,
+Neuroinvasive disease cases,OK,2015,49,True,Oklahoma,South,,
+Neuroinvasive disease cases,OK,2016,21,True,Oklahoma,South,,
+Neuroinvasive disease cases,OK,2017,34,True,Oklahoma,South,,
+Neuroinvasive disease cases,OK,2018,12,True,Oklahoma,South,,
+Neuroinvasive disease cases,OK,2019,6,True,Oklahoma,South,,
+Neuroinvasive disease cases,OK,2020,6,True,Oklahoma,South,3965243.0,0.15131481223218854
+Neuroinvasive disease cases,OK,2021,19,True,Oklahoma,South,3992760.0,0.47586130896923434
+Neuroinvasive disease cases,OK,2022,4,True,Oklahoma,South,4025327.0,0.09937080888086856
+Neuroinvasive disease cases,OK,2023,41,True,Oklahoma,South,4062716.0,1.009177112060011
+Neuroinvasive disease cases,OK,2024,37,True,Oklahoma,South,4097758.0,0.9029327744586186
+Neuroinvasive disease cases,OK,2025,46,True,Oklahoma,South,4123288.0,1.1156145289875459
+Neuroinvasive disease cases,OR,2004,0,False,Oregon,West,,
+Neuroinvasive disease cases,OR,2005,1,True,Oregon,West,,
+Neuroinvasive disease cases,OR,2006,7,True,Oregon,West,,
+Neuroinvasive disease cases,OR,2007,7,True,Oregon,West,,
+Neuroinvasive disease cases,OR,2008,3,True,Oregon,West,,
+Neuroinvasive disease cases,OR,2009,1,True,Oregon,West,,
+Neuroinvasive disease cases,OR,2010,0,False,Oregon,West,,
+Neuroinvasive disease cases,OR,2011,0,False,Oregon,West,,
+Neuroinvasive disease cases,OR,2012,0,False,Oregon,West,,
+Neuroinvasive disease cases,OR,2013,7,True,Oregon,West,,
+Neuroinvasive disease cases,OR,2014,7,True,Oregon,West,,
+Neuroinvasive disease cases,OR,2015,0,False,Oregon,West,,
+Neuroinvasive disease cases,OR,2016,2,True,Oregon,West,,
+Neuroinvasive disease cases,OR,2017,3,True,Oregon,West,,
+Neuroinvasive disease cases,OR,2018,2,True,Oregon,West,,
+Neuroinvasive disease cases,OR,2019,6,True,Oregon,West,,
+Neuroinvasive disease cases,OR,2020,0,False,Oregon,West,4243544.0,0.0
+Neuroinvasive disease cases,OR,2021,1,True,Oregon,West,4254691.0,0.023503469464645023
+Neuroinvasive disease cases,OR,2022,3,True,Oregon,West,4245964.0,0.07065533292321838
+Neuroinvasive disease cases,OR,2023,9,True,Oregon,West,4250392.0,0.2117451755038124
+Neuroinvasive disease cases,OR,2024,0,False,Oregon,West,4265324.0,0.0
+Neuroinvasive disease cases,OR,2025,2,True,Oregon,West,4273586.0,0.046799105013915716
+Neuroinvasive disease cases,PA,2004,10,True,Pennsylvania,Northeast,,
+Neuroinvasive disease cases,PA,2005,14,True,Pennsylvania,Northeast,,
+Neuroinvasive disease cases,PA,2006,8,True,Pennsylvania,Northeast,,
+Neuroinvasive disease cases,PA,2007,5,True,Pennsylvania,Northeast,,
+Neuroinvasive disease cases,PA,2008,12,True,Pennsylvania,Northeast,,
+Neuroinvasive disease cases,PA,2009,0,False,Pennsylvania,Northeast,,
+Neuroinvasive disease cases,PA,2010,19,True,Pennsylvania,Northeast,,
+Neuroinvasive disease cases,PA,2011,5,True,Pennsylvania,Northeast,,
+Neuroinvasive disease cases,PA,2012,33,True,Pennsylvania,Northeast,,
+Neuroinvasive disease cases,PA,2013,6,True,Pennsylvania,Northeast,,
+Neuroinvasive disease cases,PA,2014,11,True,Pennsylvania,Northeast,,
+Neuroinvasive disease cases,PA,2015,17,True,Pennsylvania,Northeast,,
+Neuroinvasive disease cases,PA,2016,12,True,Pennsylvania,Northeast,,
+Neuroinvasive disease cases,PA,2017,15,True,Pennsylvania,Northeast,,
+Neuroinvasive disease cases,PA,2018,95,True,Pennsylvania,Northeast,,
+Neuroinvasive disease cases,PA,2019,5,True,Pennsylvania,Northeast,,
+Neuroinvasive disease cases,PA,2020,7,True,Pennsylvania,Northeast,12995576.0,0.053864484344518467
+Neuroinvasive disease cases,PA,2021,22,True,Pennsylvania,Northeast,13016628.0,0.16901458657341978
+Neuroinvasive disease cases,PA,2022,26,True,Pennsylvania,Northeast,12984655.0,0.20023635591396152
+Neuroinvasive disease cases,PA,2023,18,True,Pennsylvania,Northeast,13009406.0,0.13836142864631945
+Neuroinvasive disease cases,PA,2024,47,True,Pennsylvania,Northeast,13045848.0,0.3602678798649195
+Neuroinvasive disease cases,PA,2025,58,True,Pennsylvania,Northeast,13059432.0,0.4441234503920232
+Neuroinvasive disease cases,RI,2004,0,False,Rhode Island,Northeast,,
+Neuroinvasive disease cases,RI,2005,1,True,Rhode Island,Northeast,,
+Neuroinvasive disease cases,RI,2006,0,False,Rhode Island,Northeast,,
+Neuroinvasive disease cases,RI,2007,0,False,Rhode Island,Northeast,,
+Neuroinvasive disease cases,RI,2008,1,True,Rhode Island,Northeast,,
+Neuroinvasive disease cases,RI,2009,0,False,Rhode Island,Northeast,,
+Neuroinvasive disease cases,RI,2010,0,False,Rhode Island,Northeast,,
+Neuroinvasive disease cases,RI,2011,1,True,Rhode Island,Northeast,,
+Neuroinvasive disease cases,RI,2012,2,True,Rhode Island,Northeast,,
+Neuroinvasive disease cases,RI,2013,1,True,Rhode Island,Northeast,,
+Neuroinvasive disease cases,RI,2014,0,False,Rhode Island,Northeast,,
+Neuroinvasive disease cases,RI,2015,0,False,Rhode Island,Northeast,,
+Neuroinvasive disease cases,RI,2016,2,True,Rhode Island,Northeast,,
+Neuroinvasive disease cases,RI,2017,1,True,Rhode Island,Northeast,,
+Neuroinvasive disease cases,RI,2018,0,False,Rhode Island,Northeast,,
+Neuroinvasive disease cases,RI,2019,0,False,Rhode Island,Northeast,,
+Neuroinvasive disease cases,RI,2020,0,False,Rhode Island,Northeast,1096487.0,0.0
+Neuroinvasive disease cases,RI,2021,1,True,Rhode Island,Northeast,1097381.0,0.09112605375890415
+Neuroinvasive disease cases,RI,2022,1,True,Rhode Island,Northeast,1098275.0,0.09105187680681069
+Neuroinvasive disease cases,RI,2023,1,True,Rhode Island,Northeast,1101183.0,0.09081142734677161
+Neuroinvasive disease cases,RI,2024,3,True,Rhode Island,Northeast,1110415.0,0.27016926104204286
+Neuroinvasive disease cases,RI,2025,2,True,Rhode Island,Northeast,1114521.0,0.17944928807981186
+Neuroinvasive disease cases,SC,2004,0,False,South Carolina,South,,
+Neuroinvasive disease cases,SC,2005,5,True,South Carolina,South,,
+Neuroinvasive disease cases,SC,2006,1,True,South Carolina,South,,
+Neuroinvasive disease cases,SC,2007,3,True,South Carolina,South,,
+Neuroinvasive disease cases,SC,2008,0,False,South Carolina,South,,
+Neuroinvasive disease cases,SC,2009,3,True,South Carolina,South,,
+Neuroinvasive disease cases,SC,2010,1,True,South Carolina,South,,
+Neuroinvasive disease cases,SC,2011,0,False,South Carolina,South,,
+Neuroinvasive disease cases,SC,2012,20,True,South Carolina,South,,
+Neuroinvasive disease cases,SC,2013,3,True,South Carolina,South,,
+Neuroinvasive disease cases,SC,2014,3,True,South Carolina,South,,
+Neuroinvasive disease cases,SC,2015,0,False,South Carolina,South,,
+Neuroinvasive disease cases,SC,2016,6,True,South Carolina,South,,
+Neuroinvasive disease cases,SC,2017,16,True,South Carolina,South,,
+Neuroinvasive disease cases,SC,2018,12,True,South Carolina,South,,
+Neuroinvasive disease cases,SC,2019,2,True,South Carolina,South,,
+Neuroinvasive disease cases,SC,2020,4,True,South Carolina,South,5131992.0,0.0779424441815186
+Neuroinvasive disease cases,SC,2021,6,True,South Carolina,South,5194346.0,0.11551021052505937
+Neuroinvasive disease cases,SC,2022,10,True,South Carolina,South,5288957.0,0.18907319533889194
+Neuroinvasive disease cases,SC,2023,9,True,South Carolina,South,5390798.0,0.16695116381656297
+Neuroinvasive disease cases,SC,2024,15,True,South Carolina,South,5490316.0,0.273208318064024
+Neuroinvasive disease cases,SC,2025,3,True,South Carolina,South,5570274.0,0.05385731473891589
+Neuroinvasive disease cases,SD,2004,6,True,South Dakota,Midwest,,
+Neuroinvasive disease cases,SD,2005,36,True,South Dakota,Midwest,,
+Neuroinvasive disease cases,SD,2006,38,True,South Dakota,Midwest,,
+Neuroinvasive disease cases,SD,2007,48,True,South Dakota,Midwest,,
+Neuroinvasive disease cases,SD,2008,11,True,South Dakota,Midwest,,
+Neuroinvasive disease cases,SD,2009,6,True,South Dakota,Midwest,,
+Neuroinvasive disease cases,SD,2010,4,True,South Dakota,Midwest,,
+Neuroinvasive disease cases,SD,2011,0,False,South Dakota,Midwest,,
+Neuroinvasive disease cases,SD,2012,62,True,South Dakota,Midwest,,
+Neuroinvasive disease cases,SD,2013,57,True,South Dakota,Midwest,,
+Neuroinvasive disease cases,SD,2014,12,True,South Dakota,Midwest,,
+Neuroinvasive disease cases,SD,2015,11,True,South Dakota,Midwest,,
+Neuroinvasive disease cases,SD,2016,35,True,South Dakota,Midwest,,
+Neuroinvasive disease cases,SD,2017,27,True,South Dakota,Midwest,,
+Neuroinvasive disease cases,SD,2018,47,True,South Dakota,Midwest,,
+Neuroinvasive disease cases,SD,2019,0,False,South Dakota,Midwest,,
+Neuroinvasive disease cases,SD,2020,10,True,South Dakota,Midwest,887808.0,1.1263696655132642
+Neuroinvasive disease cases,SD,2021,18,True,South Dakota,Midwest,896303.0,2.008249442431856
+Neuroinvasive disease cases,SD,2022,36,True,South Dakota,Midwest,909156.0,3.9597164842997246
+Neuroinvasive disease cases,SD,2023,46,True,South Dakota,Midwest,917739.0,5.012318317081436
+Neuroinvasive disease cases,SD,2024,5,True,South Dakota,Midwest,927110.0,0.5393103299500599
+Neuroinvasive disease cases,SD,2025,38,True,South Dakota,Midwest,935094.0,4.063762573602226
+Neuroinvasive disease cases,TN,2004,13,True,Tennessee,South,,
+Neuroinvasive disease cases,TN,2005,15,True,Tennessee,South,,
+Neuroinvasive disease cases,TN,2006,16,True,Tennessee,South,,
+Neuroinvasive disease cases,TN,2007,5,True,Tennessee,South,,
+Neuroinvasive disease cases,TN,2008,12,True,Tennessee,South,,
+Neuroinvasive disease cases,TN,2009,4,True,Tennessee,South,,
+Neuroinvasive disease cases,TN,2010,2,True,Tennessee,South,,
+Neuroinvasive disease cases,TN,2011,16,True,Tennessee,South,,
+Neuroinvasive disease cases,TN,2012,19,True,Tennessee,South,,
+Neuroinvasive disease cases,TN,2013,17,True,Tennessee,South,,
+Neuroinvasive disease cases,TN,2014,12,True,Tennessee,South,,
+Neuroinvasive disease cases,TN,2015,5,True,Tennessee,South,,
+Neuroinvasive disease cases,TN,2016,3,True,Tennessee,South,,
+Neuroinvasive disease cases,TN,2017,22,True,Tennessee,South,,
+Neuroinvasive disease cases,TN,2018,11,True,Tennessee,South,,
+Neuroinvasive disease cases,TN,2019,3,True,Tennessee,South,,
+Neuroinvasive disease cases,TN,2020,0,False,Tennessee,South,6927736.0,0.0
+Neuroinvasive disease cases,TN,2021,3,True,Tennessee,South,6966687.0,0.04306207527336882
+Neuroinvasive disease cases,TN,2022,3,True,Tennessee,South,7063325.0,0.04247291466837502
+Neuroinvasive disease cases,TN,2023,13,True,Tennessee,South,7153029.0,0.18174118964147915
+Neuroinvasive disease cases,TN,2024,10,True,Tennessee,South,7251291.0,0.1379064776189509
+Neuroinvasive disease cases,TN,2025,15,True,Tennessee,South,7315076.0,0.20505596934331236
+Neuroinvasive disease cases,TX,2004,119,True,Texas,South,,
+Neuroinvasive disease cases,TX,2005,128,True,Texas,South,,
+Neuroinvasive disease cases,TX,2006,233,True,Texas,South,,
+Neuroinvasive disease cases,TX,2007,170,True,Texas,South,,
+Neuroinvasive disease cases,TX,2008,40,True,Texas,South,,
+Neuroinvasive disease cases,TX,2009,93,True,Texas,South,,
+Neuroinvasive disease cases,TX,2010,77,True,Texas,South,,
+Neuroinvasive disease cases,TX,2011,20,True,Texas,South,,
+Neuroinvasive disease cases,TX,2012,844,True,Texas,South,,
+Neuroinvasive disease cases,TX,2013,113,True,Texas,South,,
+Neuroinvasive disease cases,TX,2014,253,True,Texas,South,,
+Neuroinvasive disease cases,TX,2015,196,True,Texas,South,,
+Neuroinvasive disease cases,TX,2016,252,True,Texas,South,,
+Neuroinvasive disease cases,TX,2017,87,True,Texas,South,,
+Neuroinvasive disease cases,TX,2018,108,True,Texas,South,,
+Neuroinvasive disease cases,TX,2019,24,True,Texas,South,,
+Neuroinvasive disease cases,TX,2020,101,True,Texas,South,29237895.0,0.34544210518575297
+Neuroinvasive disease cases,TX,2021,130,True,Texas,South,29572672.0,0.4395950423417945
+Neuroinvasive disease cases,TX,2022,39,True,Texas,South,30118002.0,0.1294906614323221
+Neuroinvasive disease cases,TX,2023,122,True,Texas,South,30719247.0,0.39714515137692014
+Neuroinvasive disease cases,TX,2024,363,True,Texas,South,31318578.0,1.1590564552451903
+Neuroinvasive disease cases,TX,2025,127,True,Texas,South,31709821.0,0.40050683351381894
+Neuroinvasive disease cases,UT,2004,6,True,Utah,West,,
+Neuroinvasive disease cases,UT,2005,21,True,Utah,West,,
+Neuroinvasive disease cases,UT,2006,56,True,Utah,West,,
+Neuroinvasive disease cases,UT,2007,28,True,Utah,West,,
+Neuroinvasive disease cases,UT,2008,6,True,Utah,West,,
+Neuroinvasive disease cases,UT,2009,1,True,Utah,West,,
+Neuroinvasive disease cases,UT,2010,1,True,Utah,West,,
+Neuroinvasive disease cases,UT,2011,1,True,Utah,West,,
+Neuroinvasive disease cases,UT,2012,3,True,Utah,West,,
+Neuroinvasive disease cases,UT,2013,4,True,Utah,West,,
+Neuroinvasive disease cases,UT,2014,1,True,Utah,West,,
+Neuroinvasive disease cases,UT,2015,5,True,Utah,West,,
+Neuroinvasive disease cases,UT,2016,7,True,Utah,West,,
+Neuroinvasive disease cases,UT,2017,39,True,Utah,West,,
+Neuroinvasive disease cases,UT,2018,7,True,Utah,West,,
+Neuroinvasive disease cases,UT,2019,14,True,Utah,West,,
+Neuroinvasive disease cases,UT,2020,1,True,Utah,West,3283970.0,0.03045094809026879
+Neuroinvasive disease cases,UT,2021,21,True,Utah,West,3339874.0,0.6287662348938913
+Neuroinvasive disease cases,UT,2022,5,True,Utah,West,3393928.0,0.14732192315217058
+Neuroinvasive disease cases,UT,2023,5,True,Utah,West,3449259.0,0.1449586708333587
+Neuroinvasive disease cases,UT,2024,14,True,Utah,West,3502983.0,0.3996593760232351
+Neuroinvasive disease cases,UT,2025,39,True,Utah,West,3538904.0,1.102036110615038
+Neuroinvasive disease cases,VA,2004,5,True,Virginia,South,,
+Neuroinvasive disease cases,VA,2005,0,False,Virginia,South,,
+Neuroinvasive disease cases,VA,2006,0,False,Virginia,South,,
+Neuroinvasive disease cases,VA,2007,3,True,Virginia,South,,
+Neuroinvasive disease cases,VA,2008,0,False,Virginia,South,,
+Neuroinvasive disease cases,VA,2009,5,True,Virginia,South,,
+Neuroinvasive disease cases,VA,2010,4,True,Virginia,South,,
+Neuroinvasive disease cases,VA,2011,8,True,Virginia,South,,
+Neuroinvasive disease cases,VA,2012,20,True,Virginia,South,,
+Neuroinvasive disease cases,VA,2013,6,True,Virginia,South,,
+Neuroinvasive disease cases,VA,2014,5,True,Virginia,South,,
+Neuroinvasive disease cases,VA,2015,13,True,Virginia,South,,
+Neuroinvasive disease cases,VA,2016,6,True,Virginia,South,,
+Neuroinvasive disease cases,VA,2017,12,True,Virginia,South,,
+Neuroinvasive disease cases,VA,2018,38,True,Virginia,South,,
+Neuroinvasive disease cases,VA,2019,4,True,Virginia,South,,
+Neuroinvasive disease cases,VA,2020,1,True,Virginia,South,8637303.0,0.011577688081568982
+Neuroinvasive disease cases,VA,2021,2,True,Virginia,South,8660007.0,0.023094669553962256
+Neuroinvasive disease cases,VA,2022,6,True,Virginia,South,8681038.0,0.0691161586897788
+Neuroinvasive disease cases,VA,2023,9,True,Virginia,South,8732034.0,0.10306876954441543
+Neuroinvasive disease cases,VA,2024,5,True,Virginia,South,8819642.0,0.056691643493012533
+Neuroinvasive disease cases,VA,2025,19,True,Virginia,South,8880107.0,0.21396138582564378
+Neuroinvasive disease cases,VT,2004,0,False,Vermont,Northeast,,
+Neuroinvasive disease cases,VT,2005,0,False,Vermont,Northeast,,
+Neuroinvasive disease cases,VT,2006,0,False,Vermont,Northeast,,
+Neuroinvasive disease cases,VT,2007,0,False,Vermont,Northeast,,
+Neuroinvasive disease cases,VT,2008,0,False,Vermont,Northeast,,
+Neuroinvasive disease cases,VT,2009,0,False,Vermont,Northeast,,
+Neuroinvasive disease cases,VT,2010,0,False,Vermont,Northeast,,
+Neuroinvasive disease cases,VT,2011,1,True,Vermont,Northeast,,
+Neuroinvasive disease cases,VT,2012,1,True,Vermont,Northeast,,
+Neuroinvasive disease cases,VT,2013,1,True,Vermont,Northeast,,
+Neuroinvasive disease cases,VT,2014,0,False,Vermont,Northeast,,
+Neuroinvasive disease cases,VT,2015,0,False,Vermont,Northeast,,
+Neuroinvasive disease cases,VT,2016,2,True,Vermont,Northeast,,
+Neuroinvasive disease cases,VT,2017,2,True,Vermont,Northeast,,
+Neuroinvasive disease cases,VT,2018,1,True,Vermont,Northeast,,
+Neuroinvasive disease cases,VT,2019,0,False,Vermont,Northeast,,
+Neuroinvasive disease cases,VT,2020,0,False,Vermont,Northeast,642965.0,0.0
+Neuroinvasive disease cases,VT,2021,1,True,Vermont,Northeast,647238.0,0.15450267135118767
+Neuroinvasive disease cases,VT,2022,0,False,Vermont,Northeast,647614.0,0.0
+Neuroinvasive disease cases,VT,2023,0,False,Vermont,Northeast,647722.0,0.0
+Neuroinvasive disease cases,VT,2024,1,True,Vermont,Northeast,646521.0,0.15467401677594386
+Neuroinvasive disease cases,VT,2025,0,False,Vermont,Northeast,644663.0,0.0
+Neuroinvasive disease cases,WA,2004,0,False,Washington,West,,
+Neuroinvasive disease cases,WA,2005,0,False,Washington,West,,
+Neuroinvasive disease cases,WA,2006,0,False,Washington,West,,
+Neuroinvasive disease cases,WA,2007,0,False,Washington,West,,
+Neuroinvasive disease cases,WA,2008,2,True,Washington,West,,
+Neuroinvasive disease cases,WA,2009,26,True,Washington,West,,
+Neuroinvasive disease cases,WA,2010,1,True,Washington,West,,
+Neuroinvasive disease cases,WA,2011,0,False,Washington,West,,
+Neuroinvasive disease cases,WA,2012,4,True,Washington,West,,
+Neuroinvasive disease cases,WA,2013,0,False,Washington,West,,
+Neuroinvasive disease cases,WA,2014,7,True,Washington,West,,
+Neuroinvasive disease cases,WA,2015,8,True,Washington,West,,
+Neuroinvasive disease cases,WA,2016,8,True,Washington,West,,
+Neuroinvasive disease cases,WA,2017,10,True,Washington,West,,
+Neuroinvasive disease cases,WA,2018,2,True,Washington,West,,
+Neuroinvasive disease cases,WA,2019,3,True,Washington,West,,
+Neuroinvasive disease cases,WA,2020,0,False,Washington,West,7726812.0,0.0
+Neuroinvasive disease cases,WA,2021,4,True,Washington,West,7744316.0,0.051650784911152894
+Neuroinvasive disease cases,WA,2022,3,True,Washington,West,7786828.0,0.03852659902080796
+Neuroinvasive disease cases,WA,2023,3,True,Washington,West,7838655.0,0.03827187189639039
+Neuroinvasive disease cases,WA,2024,1,True,Washington,West,7927958.0,0.012613588518001735
+Neuroinvasive disease cases,WA,2025,3,True,Washington,West,8001020.0,0.03749521935953166
+Neuroinvasive disease cases,WI,2004,5,True,Wisconsin,Midwest,,
+Neuroinvasive disease cases,WI,2005,11,True,Wisconsin,Midwest,,
+Neuroinvasive disease cases,WI,2006,11,True,Wisconsin,Midwest,,
+Neuroinvasive disease cases,WI,2007,7,True,Wisconsin,Midwest,,
+Neuroinvasive disease cases,WI,2008,4,True,Wisconsin,Midwest,,
+Neuroinvasive disease cases,WI,2009,1,True,Wisconsin,Midwest,,
+Neuroinvasive disease cases,WI,2010,0,False,Wisconsin,Midwest,,
+Neuroinvasive disease cases,WI,2011,2,True,Wisconsin,Midwest,,
+Neuroinvasive disease cases,WI,2012,44,True,Wisconsin,Midwest,,
+Neuroinvasive disease cases,WI,2013,17,True,Wisconsin,Midwest,,
+Neuroinvasive disease cases,WI,2014,3,True,Wisconsin,Midwest,,
+Neuroinvasive disease cases,WI,2015,6,True,Wisconsin,Midwest,,
+Neuroinvasive disease cases,WI,2016,10,True,Wisconsin,Midwest,,
+Neuroinvasive disease cases,WI,2017,47,True,Wisconsin,Midwest,,
+Neuroinvasive disease cases,WI,2018,29,True,Wisconsin,Midwest,,
+Neuroinvasive disease cases,WI,2019,0,False,Wisconsin,Midwest,,
+Neuroinvasive disease cases,WI,2020,5,True,Wisconsin,Midwest,5897371.0,0.08478354168323478
+Neuroinvasive disease cases,WI,2021,7,True,Wisconsin,Midwest,5882128.0,0.11900455073402007
+Neuroinvasive disease cases,WI,2022,6,True,Wisconsin,Midwest,5903472.0,0.10163510557854767
+Neuroinvasive disease cases,WI,2023,24,True,Wisconsin,Midwest,5930350.0,0.4046978677481093
+Neuroinvasive disease cases,WI,2024,26,True,Wisconsin,Midwest,5957168.0,0.4364489972416423
+Neuroinvasive disease cases,WI,2025,25,True,Wisconsin,Midwest,5972787.0,0.4185650685350072
+Neuroinvasive disease cases,WV,2004,0,False,West Virginia,South,,
+Neuroinvasive disease cases,WV,2005,0,False,West Virginia,South,,
+Neuroinvasive disease cases,WV,2006,1,True,West Virginia,South,,
+Neuroinvasive disease cases,WV,2007,0,False,West Virginia,South,,
+Neuroinvasive disease cases,WV,2008,1,True,West Virginia,South,,
+Neuroinvasive disease cases,WV,2009,0,False,West Virginia,South,,
+Neuroinvasive disease cases,WV,2010,0,False,West Virginia,South,,
+Neuroinvasive disease cases,WV,2011,2,True,West Virginia,South,,
+Neuroinvasive disease cases,WV,2012,5,True,West Virginia,South,,
+Neuroinvasive disease cases,WV,2013,1,True,West Virginia,South,,
+Neuroinvasive disease cases,WV,2014,0,False,West Virginia,South,,
+Neuroinvasive disease cases,WV,2015,0,False,West Virginia,South,,
+Neuroinvasive disease cases,WV,2016,0,False,West Virginia,South,,
+Neuroinvasive disease cases,WV,2017,1,True,West Virginia,South,,
+Neuroinvasive disease cases,WV,2018,2,True,West Virginia,South,,
+Neuroinvasive disease cases,WV,2019,0,False,West Virginia,South,,
+Neuroinvasive disease cases,WV,2020,0,False,West Virginia,South,1791670.0,0.0
+Neuroinvasive disease cases,WV,2021,0,False,West Virginia,South,1785921.0,0.0
+Neuroinvasive disease cases,WV,2022,0,False,West Virginia,South,1774003.0,0.0
+Neuroinvasive disease cases,WV,2023,2,True,West Virginia,South,1770036.0,0.11299205213905254
+Neuroinvasive disease cases,WV,2024,2,True,West Virginia,South,1767402.0,0.11316044680270816
+Neuroinvasive disease cases,WV,2025,4,True,West Virginia,South,1766147.0,0.22648171414950172
+Neuroinvasive disease cases,WY,2004,2,True,Wyoming,West,,
+Neuroinvasive disease cases,WY,2005,6,True,Wyoming,West,,
+Neuroinvasive disease cases,WY,2006,15,True,Wyoming,West,,
+Neuroinvasive disease cases,WY,2007,23,True,Wyoming,West,,
+Neuroinvasive disease cases,WY,2008,0,False,Wyoming,West,,
+Neuroinvasive disease cases,WY,2009,4,True,Wyoming,West,,
+Neuroinvasive disease cases,WY,2010,2,True,Wyoming,West,,
+Neuroinvasive disease cases,WY,2011,1,True,Wyoming,West,,
+Neuroinvasive disease cases,WY,2012,3,True,Wyoming,West,,
+Neuroinvasive disease cases,WY,2013,16,True,Wyoming,West,,
+Neuroinvasive disease cases,WY,2014,0,False,Wyoming,West,,
+Neuroinvasive disease cases,WY,2015,3,True,Wyoming,West,,
+Neuroinvasive disease cases,WY,2016,8,True,Wyoming,West,,
+Neuroinvasive disease cases,WY,2017,4,True,Wyoming,West,,
+Neuroinvasive disease cases,WY,2018,3,True,Wyoming,West,,
+Neuroinvasive disease cases,WY,2019,2,True,Wyoming,West,,
+Neuroinvasive disease cases,WY,2020,1,True,Wyoming,West,577669.0,0.1731095142720139
+Neuroinvasive disease cases,WY,2021,0,False,Wyoming,West,579662.0,0.0
+Neuroinvasive disease cases,WY,2022,2,True,Wyoming,West,581742.0,0.3437950156598629
+Neuroinvasive disease cases,WY,2023,13,True,Wyoming,West,584666.0,2.2234917029551915
+Neuroinvasive disease cases,WY,2024,1,True,Wyoming,West,586722.0,0.17043847000794243
+Neuroinvasive disease cases,WY,2025,10,True,Wyoming,West,588753.0,1.6985051456213385

@@ -1,0 +1,25 @@
+type,phase,model,mae,log_mae,n
+All disease cases,calibration,damped_log_trend,42.39627339781065,0.9808997238501571,459
+All disease cases,calibration,last_year,30.514161220043572,0.9019998805270791,459
+All disease cases,calibration,mean_3,29.424836601307188,0.8255187602504908,459
+All disease cases,calibration,mean_5,32.457952069716775,0.8119171652314262,459
+All disease cases,selection,damped_log_trend,63.56429603232405,1.4603534486258054,306
+All disease cases,selection,last_year,68.82679738562092,1.2216013648680257,306
+All disease cases,selection,mean_3,44.49782135076253,0.9011158291997997,306
+All disease cases,selection,mean_5,36.19281045751634,0.6950362221224281,306
+All disease cases,test,damped_log_trend,34.52618104878171,1.2218487898715156,153
+All disease cases,test,last_year,27.130718954248366,0.8768562138401247,153
+All disease cases,test,mean_3,36.747276688453155,0.8813646653052917,153
+All disease cases,test,mean_5,30.026143790849673,0.6630700601122863,153
+Neuroinvasive disease cases,calibration,damped_log_trend,28.773570367011143,0.9285456297971083,459
+Neuroinvasive disease cases,calibration,last_year,19.797385620915033,0.8615766612854323,459
+Neuroinvasive disease cases,calibration,mean_3,18.78794480755265,0.7806469922470355,459
+Neuroinvasive disease cases,calibration,mean_5,18.483660130718953,0.7504247538895318,459
+Neuroinvasive disease cases,selection,damped_log_trend,34.75171706523023,1.2601245747114522,306
+Neuroinvasive disease cases,selection,last_year,34.029411764705884,1.0881615484362404,306
+Neuroinvasive disease cases,selection,mean_3,22.859477124183005,0.855512581985771,306
+Neuroinvasive disease cases,selection,mean_5,19.3843137254902,0.6922423608223645,306
+Neuroinvasive disease cases,test,damped_log_trend,22.90377142202774,1.1098163845720788,153
+Neuroinvasive disease cases,test,last_year,18.954248366013072,0.8341801177708547,153
+Neuroinvasive disease cases,test,mean_3,24.94335511982571,0.8540822070723749,153
+Neuroinvasive disease cases,test,mean_5,21.044444444444444,0.683959925068977,153

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "state_cases",
+    "url": "https://www.cdc.gov/wcms/vizdata/live/ncezid_dvbd/WNV/wnv_hum_historic - Historic Sta.csv",
+    "sha256": "f39f52775f27a4f8f221205750b262a280140612788169a8fae0327b1c543b1e",
+    "retrieved_utc": "2026-10-12T00:55:59.132495+00:00"
+  },
+  {
+    "name": "monthly_cases",
+    "url": "https://www.cdc.gov/wcms/vizdata/live/ncezid_dvbd/WNV/wnv_hum_historic_Year and Month.csv",
+    "sha256": "2460ee77be48140c558fc3eef9080fde37ee4facdc82fd77dd5d285deb56ee23",
+    "retrieved_utc": "2026-10-12T00:55:59.473438+00:00"
+  },
+  {
+    "name": "state_population",
+    "url": "https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv",
+    "sha256": "92188e29cb0a67dcf95afa7d6c47359409782f086478b70ea4128eb70e223ca9",
+    "retrieved_utc": "2026-10-12T00:56:44.635983+00:00"
+  }
+]

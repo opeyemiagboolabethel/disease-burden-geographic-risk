@@ -79,4 +79,3 @@ Historical data are from the latest downloaded vintage, not archived vintages at
 ## Source reuse
 
 CDC-authored material is generally public domain, subject to exceptions for third-party content; see [CDC use of agency materials](https://www.cdc.gov/other/agencymaterials.html). Source attribution is retained. No endorsement is implied. Source policies govern the data; this repository does not relicense agency materials.
-

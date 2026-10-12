@@ -1,0 +1,39 @@
+{
+  "states_and_DC": 51,
+  "years": [
+    2004,
+    2025
+  ],
+  "rows": 2244,
+  "zero_expanded_rows": 314,
+  "champions": {
+    "All disease cases": "mean_5",
+    "Neuroinvasive disease cases": "mean_5"
+  },
+  "selection_target_years": [
+    2012,
+    2015
+  ],
+  "calibration_target_years": [
+    2016,
+    2020
+  ],
+  "test_origin": 2022,
+  "test_years": [
+    2023,
+    2025
+  ],
+  "forecast_years": [
+    2026,
+    2028
+  ],
+  "source_total_checks": 44,
+  "latest_totals": {
+    "All disease cases": 2167,
+    "Neuroinvasive disease cases": 1517
+  },
+  "rates_available": [
+    2020,
+    2025
+  ]
+}

@@ -1,0 +1,9 @@
+type,region,geographic_units,reported_cases,population,reported_rate_100k,above_band_units
+All disease cases,Midwest,12,812,69762666.0,1.163946343449661,0
+All disease cases,West,13,618,80146154.0,0.7710912740741122,0
+All disease cases,South,17,556,133833983.0,0.4154400754851628,0
+All disease cases,Northeast,9,181,58042054.0,0.3118428579388317,0
+Neuroinvasive disease cases,Midwest,12,534,69762666.0,0.7654523982784718,0
+Neuroinvasive disease cases,West,13,407,80146154.0,0.5078222468416888,0
+Neuroinvasive disease cases,South,17,436,133833983.0,0.32577674984088306,1
+Neuroinvasive disease cases,Northeast,9,140,58042054.0,0.2412044205051737,0

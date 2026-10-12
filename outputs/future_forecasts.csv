@@ -1,0 +1,307 @@
+type,state,year,horizon,model,prediction,lower,upper,name,region
+All disease cases,AK,2026,1,mean_5,0.2,0.0,3.5257142857142862,Alaska,West
+All disease cases,AK,2027,2,mean_5,0.2,0.0,3.998620689655172,Alaska,West
+All disease cases,AK,2028,3,mean_5,0.2,0.0,7.880000000000001,Alaska,West
+All disease cases,AL,2026,1,mean_5,22.0,5.098484848484848,85.74285714285718,Alabama,South
+All disease cases,AL,2027,2,mean_5,22.0,4.521523178807947,94.80689655172408,Alabama,South
+All disease cases,AL,2028,3,mean_5,22.0,2.1081081081081074,169.20000000000005,Alabama,South
+All disease cases,AR,2026,1,mean_5,12.4,2.5530303030303028,49.537142857142854,Arkansas,South
+All disease cases,AR,2027,2,mean_5,12.4,2.2168874172185435,54.817931034482754,Arkansas,South
+All disease cases,AR,2028,3,mean_5,12.4,0.8108108108108104,98.15999999999998,Arkansas,South
+All disease cases,AZ,2026,1,mean_5,389.4,102.51515151515143,1471.3657142857141,Arizona,West
+All disease cases,AZ,2027,2,mean_5,389.4,92.72185430463568,1625.2179310344825,Arizona,West
+All disease cases,AZ,2028,3,mean_5,389.4,51.75675675675672,2887.959999999999,Arizona,West
+All disease cases,CA,2026,1,mean_5,203.8,53.303030303030276,771.3885714285716,California,West
+All disease cases,CA,2027,2,mean_5,203.8,48.16556291390728,852.0979310344821,California,West
+All disease cases,CA,2028,3,mean_5,203.8,26.675675675675667,1514.5200000000002,California,West
+All disease cases,CO,2026,1,mean_5,275.4,72.28787878787878,1041.4228571428578,Colorado,West
+All disease cases,CO,2027,2,mean_5,275.4,65.35430463576158,1150.348965517242,Colorado,West
+All disease cases,CO,2028,3,mean_5,275.4,36.351351351351354,2044.360000000001,Colorado,West
+All disease cases,CT,2026,1,mean_5,7.8,1.3333333333333335,32.18857142857144,Connecticut,Northeast
+All disease cases,CT,2027,2,mean_5,7.8,1.1125827814569542,35.656551724137934,Connecticut,Northeast
+All disease cases,CT,2028,3,mean_5,7.8,0.18918918918918914,64.12000000000002,Connecticut,Northeast
+All disease cases,DC,2026,1,mean_5,3.2,0.11363636363636363,14.840000000000003,District of Columbia,South
+All disease cases,DC,2027,2,mean_5,3.2,0.008278145695364461,16.4951724137931,District of Columbia,South
+All disease cases,DC,2028,3,mean_5,3.2,0.0,30.080000000000016,District of Columbia,South
+All disease cases,DE,2026,1,mean_5,2.6,0.0,12.577142857142858,Delaware,South
+All disease cases,DE,2027,2,mean_5,2.6,0.0,13.995862068965518,Delaware,South
+All disease cases,DE,2028,3,mean_5,2.6,0.0,25.639999999999997,Delaware,South
+All disease cases,FL,2026,1,mean_5,10.0,1.9166666666666667,40.4857142857143,Florida,South
+All disease cases,FL,2027,2,mean_5,10.0,1.6407284768211927,44.820689655172416,Florida,South
+All disease cases,FL,2028,3,mean_5,10.0,0.48648648648648635,80.40000000000003,Florida,South
+All disease cases,GA,2026,1,mean_5,22.6,5.257575757575758,88.00571428571433,Georgia,South
+All disease cases,GA,2027,2,mean_5,22.6,4.665562913907286,97.30620689655169,Georgia,South
+All disease cases,GA,2028,3,mean_5,22.6,2.189189189189189,173.64000000000007,Georgia,South
+All disease cases,HI,2026,1,mean_5,0.2,0.0,3.5257142857142862,Hawaii,West
+All disease cases,HI,2027,2,mean_5,0.2,0.0,3.998620689655172,Hawaii,West
+All disease cases,HI,2028,3,mean_5,0.2,0.0,7.880000000000001,Hawaii,West
+All disease cases,IA,2026,1,mean_5,22.0,5.098484848484848,85.74285714285718,Iowa,Midwest
+All disease cases,IA,2027,2,mean_5,22.0,4.521523178807947,94.80689655172408,Iowa,Midwest
+All disease cases,IA,2028,3,mean_5,22.0,2.1081081081081074,169.20000000000005,Iowa,Midwest
+All disease cases,ID,2026,1,mean_5,14.0,2.9772727272727266,55.57142857142856,Idaho,West
+All disease cases,ID,2027,2,mean_5,14.0,2.600993377483444,61.48275862068965,Idaho,West
+All disease cases,ID,2028,3,mean_5,14.0,1.0270270270270265,110.00000000000007,Idaho,West
+All disease cases,IL,2026,1,mean_5,87.0,22.333333333333336,330.8857142857145,Illinois,Midwest
+All disease cases,IL,2027,2,mean_5,87.0,20.125827814569547,365.56551724137927,Illinois,Midwest
+All disease cases,IL,2028,3,mean_5,87.0,10.891891891891895,650.2000000000004,Illinois,Midwest
+All disease cases,IN,2026,1,mean_5,16.6,3.6666666666666674,65.3771428571429,Indiana,Midwest
+All disease cases,IN,2027,2,mean_5,16.6,3.225165562913909,72.31310344827591,Indiana,Midwest
+All disease cases,IN,2028,3,mean_5,16.6,1.3783783783783785,129.24000000000007,Indiana,Midwest
+All disease cases,KS,2026,1,mean_5,31.2,7.537878787878785,120.44000000000004,Kansas,Midwest
+All disease cases,KS,2027,2,mean_5,31.2,6.730132450331126,133.12965517241383,Kansas,Midwest
+All disease cases,KS,2028,3,mean_5,31.2,3.3513513513513504,237.28000000000006,Kansas,Midwest
+All disease cases,KY,2026,1,mean_5,13.4,2.8181818181818175,53.30857142857144,Kentucky,South
+All disease cases,KY,2027,2,mean_5,13.4,2.456953642384106,58.98344827586203,Kentucky,South
+All disease cases,KY,2028,3,mean_5,13.4,0.9459459459459453,105.56000000000002,Kentucky,South
+All disease cases,LA,2026,1,mean_5,49.8,12.469696969696964,190.58857142857147,Louisiana,South
+All disease cases,LA,2027,2,mean_5,49.8,11.195364238410596,210.608275862069,Louisiana,South
+All disease cases,LA,2028,3,mean_5,49.8,5.864864864864862,374.92,Louisiana,South
+All disease cases,MA,2026,1,mean_5,10.6,2.0757575757575757,42.748571428571424,Massachusetts,Northeast
+All disease cases,MA,2027,2,mean_5,10.6,1.7847682119205304,47.32,Massachusetts,Northeast
+All disease cases,MA,2028,3,mean_5,10.6,0.5675675675675673,84.83999999999999,Massachusetts,Northeast
+All disease cases,MD,2026,1,mean_5,17.2,3.8257575757575752,67.64,Maryland,South
+All disease cases,MD,2027,2,mean_5,17.2,3.3692052980132456,74.81241379310345,Maryland,South
+All disease cases,MD,2028,3,mean_5,17.2,1.459459459459459,133.6800000000001,Maryland,South
+All disease cases,ME,2026,1,mean_5,0.6,0.0,5.034285714285715,Maine,Northeast
+All disease cases,ME,2027,2,mean_5,0.6,0.0,5.664827586206895,Maine,Northeast
+All disease cases,ME,2028,3,mean_5,0.6,0.0,10.840000000000003,Maine,Northeast
+All disease cases,MI,2026,1,mean_5,32.8,7.962121212121208,126.47428571428574,Michigan,Midwest
+All disease cases,MI,2027,2,mean_5,32.8,7.114238410596027,139.7944827586206,Michigan,Midwest
+All disease cases,MI,2028,3,mean_5,32.8,3.567567567567566,249.12000000000003,Michigan,Midwest
+All disease cases,MN,2026,1,mean_5,58.4,14.749999999999995,223.02285714285722,Minnesota,Midwest
+All disease cases,MN,2027,2,mean_5,58.4,13.259933774834439,246.43172413793113,Minnesota,Midwest
+All disease cases,MN,2028,3,mean_5,58.4,7.027027027027025,438.5600000000001,Minnesota,Midwest
+All disease cases,MO,2026,1,mean_5,24.0,5.628787878787877,93.28571428571426,Missouri,Midwest
+All disease cases,MO,2027,2,mean_5,24.0,5.001655629139073,103.13793103448273,Missouri,Midwest
+All disease cases,MO,2028,3,mean_5,24.0,2.378378378378377,184.00000000000009,Missouri,Midwest
+All disease cases,MS,2026,1,mean_5,28.8,6.901515151515148,111.38857142857145,Mississippi,South
+All disease cases,MS,2027,2,mean_5,28.8,6.153973509933775,123.13241379310337,Mississippi,South
+All disease cases,MS,2028,3,mean_5,28.8,3.027027027027026,219.52000000000004,Mississippi,South
+All disease cases,MT,2026,1,mean_5,13.8,2.9242424242424234,54.81714285714284,Montana,West
+All disease cases,MT,2027,2,mean_5,13.8,2.552980132450331,60.64965517241378,Montana,West
+All disease cases,MT,2028,3,mean_5,13.8,0.9999999999999993,108.52000000000005,Montana,West
+All disease cases,NC,2026,1,mean_5,14.6,3.1363636363636354,57.83428571428573,North Carolina,South
+All disease cases,NC,2027,2,mean_5,14.6,2.745033112582781,63.98206896551719,North Carolina,South
+All disease cases,NC,2028,3,mean_5,14.6,1.1081081081081072,114.44000000000001,North Carolina,South
+All disease cases,ND,2026,1,mean_5,47.6,11.886363636363638,182.29142857142858,North Dakota,Midwest
+All disease cases,ND,2027,2,mean_5,47.6,10.66721854304636,201.44413793103448,North Dakota,Midwest
+All disease cases,ND,2028,3,mean_5,47.6,5.567567567567567,358.63999999999993,North Dakota,Midwest
+All disease cases,NE,2026,1,mean_5,93.4,24.03030303030303,355.0228571428574,Nebraska,Midwest
+All disease cases,NE,2027,2,mean_5,93.4,21.66225165562915,392.22482758620686,Nebraska,Midwest
+All disease cases,NE,2028,3,mean_5,93.4,11.75675675675676,697.5600000000004,Nebraska,Midwest
+All disease cases,NH,2026,1,mean_5,0.6,0.0,5.034285714285715,New Hampshire,Northeast
+All disease cases,NH,2027,2,mean_5,0.6,0.0,5.664827586206895,New Hampshire,Northeast
+All disease cases,NH,2028,3,mean_5,0.6,0.0,10.840000000000003,New Hampshire,Northeast
+All disease cases,NJ,2026,1,mean_5,26.8,6.371212121212121,103.84571428571428,New Jersey,Northeast
+All disease cases,NJ,2027,2,mean_5,26.8,5.67384105960265,114.80137931034481,New Jersey,Northeast
+All disease cases,NJ,2028,3,mean_5,26.8,2.756756756756756,204.72000000000014,New Jersey,Northeast
+All disease cases,NM,2026,1,mean_5,40.6,10.030303030303035,155.89142857142858,New Mexico,West
+All disease cases,NM,2027,2,mean_5,40.6,8.986754966887421,172.28551724137932,New Mexico,West
+All disease cases,NM,2028,3,mean_5,40.6,4.621621621621622,306.84000000000026,New Mexico,West
+All disease cases,NV,2026,1,mean_5,6.4,0.9621212121212124,26.908571428571445,Nevada,West
+All disease cases,NV,2027,2,mean_5,6.4,0.7764900662251661,29.8248275862069,Nevada,West
+All disease cases,NV,2028,3,mean_5,6.4,0.0,53.760000000000026,Nevada,West
+All disease cases,NY,2026,1,mean_5,71.6,18.249999999999986,272.80571428571426,New York,Northeast
+All disease cases,NY,2027,2,mean_5,71.6,16.428807947019862,301.4165517241379,New York,Northeast
+All disease cases,NY,2028,3,mean_5,71.6,8.810810810810803,536.2399999999999,New York,Northeast
+All disease cases,OH,2026,1,mean_5,19.4,4.409090909090908,75.93714285714285,Ohio,Midwest
+All disease cases,OH,2027,2,mean_5,19.4,3.8973509933774837,83.97655172413792,Ohio,Midwest
+All disease cases,OH,2028,3,mean_5,19.4,1.756756756756756,149.95999999999995,Ohio,Midwest
+All disease cases,OK,2026,1,mean_5,36.2,8.863636363636363,139.29714285714294,Oklahoma,South
+All disease cases,OK,2027,2,mean_5,36.2,7.930463576158944,153.95724137931043,Oklahoma,South
+All disease cases,OK,2028,3,mean_5,36.2,4.027027027027027,274.28000000000014,Oklahoma,South
+All disease cases,OR,2026,1,mean_5,5.8,0.8030303030303029,24.645714285714295,Oregon,West
+All disease cases,OR,2027,2,mean_5,5.8,0.632450331125828,27.32551724137931,Oregon,West
+All disease cases,OR,2028,3,mean_5,5.8,0.0,49.320000000000014,Oregon,West
+All disease cases,PA,2026,1,mean_5,44.4,11.037878787878785,170.2228571428572,Pennsylvania,Northeast
+All disease cases,PA,2027,2,mean_5,44.4,9.89900662251656,188.1144827586206,Pennsylvania,Northeast
+All disease cases,PA,2028,3,mean_5,44.4,5.135135135135134,334.9600000000001,Pennsylvania,Northeast
+All disease cases,RI,2026,1,mean_5,2.4,0.0,11.822857142857147,Rhode Island,Northeast
+All disease cases,RI,2027,2,mean_5,2.4,0.0,13.162758620689653,Rhode Island,Northeast
+All disease cases,RI,2028,3,mean_5,2.4,0.0,24.160000000000004,Rhode Island,Northeast
+All disease cases,SC,2026,1,mean_5,11.2,2.2348484848484844,45.01142857142859,South Carolina,South
+All disease cases,SC,2027,2,mean_5,11.2,1.9288079470198678,49.81931034482758,South Carolina,South
+All disease cases,SC,2028,3,mean_5,11.2,0.6486486486486482,89.28000000000002,South Carolina,South
+All disease cases,SD,2026,1,mean_5,64.2,16.287878787878782,244.89714285714294,South Dakota,Midwest
+All disease cases,SD,2027,2,mean_5,64.2,14.652317880794703,270.5917241379309,South Dakota,Midwest
+All disease cases,SD,2028,3,mean_5,64.2,7.810810810810809,481.4800000000001,South Dakota,Midwest
+All disease cases,TN,2026,1,mean_5,11.2,2.2348484848484844,45.01142857142859,Tennessee,South
+All disease cases,TN,2027,2,mean_5,11.2,1.9288079470198678,49.81931034482758,Tennessee,South
+All disease cases,TN,2028,3,mean_5,11.2,0.6486486486486482,89.28000000000002,Tennessee,South
+All disease cases,TX,2026,1,mean_5,195.2,51.022727272727266,738.9542857142861,Texas,South
+All disease cases,TX,2027,2,mean_5,195.2,46.10099337748346,816.2744827586212,Texas,South
+All disease cases,TX,2028,3,mean_5,195.2,25.513513513513516,1450.8800000000006,Texas,South
+All disease cases,UT,2026,1,mean_5,21.0,4.833333333333334,81.97142857142862,Utah,West
+All disease cases,UT,2027,2,mean_5,21.0,4.281456953642386,90.6413793103448,Utah,West
+All disease cases,UT,2028,3,mean_5,21.0,1.972972972972973,161.80000000000007,Utah,West
+All disease cases,VA,2026,1,mean_5,12.4,2.5530303030303028,49.537142857142854,Virginia,South
+All disease cases,VA,2027,2,mean_5,12.4,2.2168874172185435,54.817931034482754,Virginia,South
+All disease cases,VA,2028,3,mean_5,12.4,0.8108108108108104,98.15999999999998,Virginia,South
+All disease cases,VT,2026,1,mean_5,0.4,0.0,4.280000000000001,Vermont,Northeast
+All disease cases,VT,2027,2,mean_5,0.4,0.0,4.831724137931034,Vermont,Northeast
+All disease cases,VT,2028,3,mean_5,0.4,0.0,9.360000000000003,Vermont,Northeast
+All disease cases,WA,2026,1,mean_5,3.2,0.11363636363636363,14.840000000000003,Washington,West
+All disease cases,WA,2027,2,mean_5,3.2,0.008278145695364461,16.4951724137931,Washington,West
+All disease cases,WA,2028,3,mean_5,3.2,0.0,30.080000000000016,Washington,West
+All disease cases,WI,2026,1,mean_5,19.6,4.462121212121211,76.69142857142859,Wisconsin,Midwest
+All disease cases,WI,2027,2,mean_5,19.6,3.9453642384105962,84.80965517241381,Wisconsin,Midwest
+All disease cases,WI,2028,3,mean_5,19.6,1.783783783783783,151.44000000000003,Wisconsin,Midwest
+All disease cases,WV,2026,1,mean_5,1.6,0.0,8.805714285714288,West Virginia,South
+All disease cases,WV,2027,2,mean_5,1.6,0.0,9.830344827586204,West Virginia,South
+All disease cases,WV,2028,3,mean_5,1.6,0.0,18.240000000000002,West Virginia,South
+All disease cases,WY,2026,1,mean_5,9.6,1.8106060606060603,38.97714285714285,Wyoming,West
+All disease cases,WY,2027,2,mean_5,9.6,1.5447019867549672,43.15448275862069,Wyoming,West
+All disease cases,WY,2028,3,mean_5,9.6,0.4324324324324321,77.43999999999998,Wyoming,West
+Neuroinvasive disease cases,AK,2026,1,mean_5,0.2,0.0,3.363636363636363,Alaska,West
+Neuroinvasive disease cases,AK,2027,2,mean_5,0.2,0.0,4.088000000000001,Alaska,West
+Neuroinvasive disease cases,AK,2028,3,mean_5,0.2,0.0,6.799999999999998,Alaska,West
+Neuroinvasive disease cases,AL,2026,1,mean_5,18.4,4.335,69.54545454545456,Alabama,South
+Neuroinvasive disease cases,AL,2027,2,mean_5,18.4,3.575471698113206,81.25600000000003,Alabama,South
+Neuroinvasive disease cases,AL,2028,3,mean_5,18.4,1.9846153846153844,125.10000000000002,Alabama,South
+Neuroinvasive disease cases,AR,2026,1,mean_5,9.8,1.9700000000000006,38.272727272727266,Arkansas,South
+Neuroinvasive disease cases,AR,2027,2,mean_5,9.8,1.5471698113207544,44.792000000000016,Arkansas,South
+Neuroinvasive disease cases,AR,2028,3,mean_5,9.8,0.6615384615384617,69.20000000000003,Arkansas,South
+Neuroinvasive disease cases,AZ,2026,1,mean_5,262.2,71.38000000000005,956.0909090909086,Arizona,West
+Neuroinvasive disease cases,AZ,2027,2,mean_5,262.2,61.07547169811318,1114.9680000000005,Arizona,West
+Neuroinvasive disease cases,AZ,2028,3,mean_5,262.2,39.4923076923077,1709.7999999999993,Arizona,West
+Neuroinvasive disease cases,CA,2026,1,mean_5,159.8,43.220000000000006,583.7272727272729,California,West
+Neuroinvasive disease cases,CA,2027,2,mean_5,159.8,36.92452830188678,680.7920000000003,California,West
+Neuroinvasive disease cases,CA,2028,3,mean_5,159.8,23.73846153846154,1044.2000000000005,California,West
+Neuroinvasive disease cases,CO,2026,1,mean_5,146.2,39.48000000000002,534.2727272727276,Colorado,West
+Neuroinvasive disease cases,CO,2027,2,mean_5,146.2,33.71698113207547,623.1280000000004,Colorado,West
+Neuroinvasive disease cases,CO,2028,3,mean_5,146.2,21.646153846153855,955.8000000000006,Colorado,West
+Neuroinvasive disease cases,CT,2026,1,mean_5,6.0,0.9250000000000002,24.454545454545443,Connecticut,Northeast
+Neuroinvasive disease cases,CT,2027,2,mean_5,6.0,0.6509433962264147,28.680000000000003,Connecticut,Northeast
+Neuroinvasive disease cases,CT,2028,3,mean_5,6.0,0.07692307692307694,44.499999999999986,Connecticut,Northeast
+Neuroinvasive disease cases,DC,2026,1,mean_5,2.4,0.0,11.363636363636362,District of Columbia,South
+Neuroinvasive disease cases,DC,2027,2,mean_5,2.4,0.0,13.416000000000006,District of Columbia,South
+Neuroinvasive disease cases,DC,2028,3,mean_5,2.4,0.0,21.099999999999998,District of Columbia,South
+Neuroinvasive disease cases,DE,2026,1,mean_5,2.2,0.0,10.636363636363631,Delaware,South
+Neuroinvasive disease cases,DE,2027,2,mean_5,2.2,0.0,12.568000000000003,Delaware,South
+Neuroinvasive disease cases,DE,2028,3,mean_5,2.2,0.0,19.799999999999994,Delaware,South
+Neuroinvasive disease cases,FL,2026,1,mean_5,8.4,1.5850000000000009,33.18181818181818,Florida,South
+Neuroinvasive disease cases,FL,2027,2,mean_5,8.4,1.2169811320754715,38.856,Florida,South
+Neuroinvasive disease cases,FL,2028,3,mean_5,8.4,0.4461538461538465,60.1,Florida,South
+Neuroinvasive disease cases,GA,2026,1,mean_5,18.4,4.335,69.54545454545456,Georgia,South
+Neuroinvasive disease cases,GA,2027,2,mean_5,18.4,3.575471698113206,81.25600000000003,Georgia,South
+Neuroinvasive disease cases,GA,2028,3,mean_5,18.4,1.9846153846153844,125.10000000000002,Georgia,South
+Neuroinvasive disease cases,HI,2026,1,mean_5,0.2,0.0,3.363636363636363,Hawaii,West
+Neuroinvasive disease cases,HI,2027,2,mean_5,0.2,0.0,4.088000000000001,Hawaii,West
+Neuroinvasive disease cases,HI,2028,3,mean_5,0.2,0.0,6.799999999999998,Hawaii,West
+Neuroinvasive disease cases,IA,2026,1,mean_5,16.4,3.785,62.27272727272728,Iowa,Midwest
+Neuroinvasive disease cases,IA,2027,2,mean_5,16.4,3.103773584905659,72.77600000000002,Iowa,Midwest
+Neuroinvasive disease cases,IA,2028,3,mean_5,16.4,1.6769230769230767,112.10000000000002,Iowa,Midwest
+Neuroinvasive disease cases,ID,2026,1,mean_5,9.8,1.9700000000000006,38.272727272727266,Idaho,West
+Neuroinvasive disease cases,ID,2027,2,mean_5,9.8,1.5471698113207544,44.792000000000016,Idaho,West
+Neuroinvasive disease cases,ID,2028,3,mean_5,9.8,0.6615384615384617,69.20000000000003,Idaho,West
+Neuroinvasive disease cases,IL,2026,1,mean_5,69.0,18.25000000000001,253.5454545454547,Illinois,Midwest
+Neuroinvasive disease cases,IL,2027,2,mean_5,69.0,15.50943396226415,295.80000000000024,Illinois,Midwest
+Neuroinvasive disease cases,IL,2028,3,mean_5,69.0,9.769230769230774,454.00000000000034,Illinois,Midwest
+Neuroinvasive disease cases,IN,2026,1,mean_5,14.2,3.18,54.27272727272728,Indiana,Midwest
+Neuroinvasive disease cases,IN,2027,2,mean_5,14.2,2.5849056603773573,63.448000000000015,Indiana,Midwest
+Neuroinvasive disease cases,IN,2028,3,mean_5,14.2,1.3384615384615384,97.80000000000003,Indiana,Midwest
+Neuroinvasive disease cases,KS,2026,1,mean_5,19.8,4.7200000000000015,74.63636363636364,Kansas,Midwest
+Neuroinvasive disease cases,KS,2027,2,mean_5,19.8,3.9056603773584904,87.19200000000001,Kansas,Midwest
+Neuroinvasive disease cases,KS,2028,3,mean_5,19.8,2.2000000000000006,134.20000000000002,Kansas,Midwest
+Neuroinvasive disease cases,KY,2026,1,mean_5,11.4,2.4100000000000006,44.09090909090908,Kentucky,South
+Neuroinvasive disease cases,KY,2027,2,mean_5,11.4,1.9245283018867918,51.57600000000002,Kentucky,South
+Neuroinvasive disease cases,KY,2028,3,mean_5,11.4,0.9076923076923078,79.59999999999995,Kentucky,South
+Neuroinvasive disease cases,LA,2026,1,mean_5,39.2,10.055000000000005,145.1818181818182,Louisiana,South
+Neuroinvasive disease cases,LA,2027,2,mean_5,39.2,8.4811320754717,169.44800000000004,Louisiana,South
+Neuroinvasive disease cases,LA,2028,3,mean_5,39.2,5.184615384615387,260.30000000000007,Louisiana,South
+Neuroinvasive disease cases,MA,2026,1,mean_5,9.0,1.750000000000001,35.36363636363637,Massachusetts,Northeast
+Neuroinvasive disease cases,MA,2027,2,mean_5,9.0,1.358490566037736,41.40000000000003,Massachusetts,Northeast
+Neuroinvasive disease cases,MA,2028,3,mean_5,9.0,0.5384615384615389,64.00000000000004,Massachusetts,Northeast
+Neuroinvasive disease cases,MD,2026,1,mean_5,13.6,3.0150000000000015,52.090909090909086,Maryland,South
+Neuroinvasive disease cases,MD,2027,2,mean_5,13.6,2.443396226415094,60.904,Maryland,South
+Neuroinvasive disease cases,MD,2028,3,mean_5,13.6,1.2461538461538466,93.9,Maryland,South
+Neuroinvasive disease cases,ME,2026,1,mean_5,0.4,0.0,4.09090909090909,Maine,Northeast
+Neuroinvasive disease cases,ME,2027,2,mean_5,0.4,0.0,4.936000000000001,Maine,Northeast
+Neuroinvasive disease cases,ME,2028,3,mean_5,0.4,0.0,8.1,Maine,Northeast
+Neuroinvasive disease cases,MI,2026,1,mean_5,27.2,6.755000000000002,101.54545454545458,Michigan,Midwest
+Neuroinvasive disease cases,MI,2027,2,mean_5,27.2,5.650943396226414,118.56800000000005,Michigan,Midwest
+Neuroinvasive disease cases,MI,2028,3,mean_5,27.2,3.338461538461539,182.30000000000007,Michigan,Midwest
+Neuroinvasive disease cases,MN,2026,1,mean_5,39.0,10.000000000000002,144.4545454545454,Minnesota,Midwest
+Neuroinvasive disease cases,MN,2027,2,mean_5,39.0,8.433962264150944,168.6,Minnesota,Midwest
+Neuroinvasive disease cases,MN,2028,3,mean_5,39.0,5.153846153846154,258.99999999999994,Minnesota,Midwest
+Neuroinvasive disease cases,MO,2026,1,mean_5,21.6,5.215000000000002,81.18181818181822,Missouri,Midwest
+Neuroinvasive disease cases,MO,2027,2,mean_5,21.6,4.330188679245283,94.82400000000005,Missouri,Midwest
+Neuroinvasive disease cases,MO,2028,3,mean_5,21.6,2.4769230769230774,145.90000000000006,Missouri,Midwest
+Neuroinvasive disease cases,MS,2026,1,mean_5,21.4,5.160000000000001,80.45454545454544,Mississippi,South
+Neuroinvasive disease cases,MS,2027,2,mean_5,21.4,4.283018867924527,93.97599999999998,Mississippi,South
+Neuroinvasive disease cases,MS,2028,3,mean_5,21.4,2.4461538461538463,144.59999999999997,Mississippi,South
+Neuroinvasive disease cases,MT,2026,1,mean_5,8.4,1.5850000000000009,33.18181818181818,Montana,West
+Neuroinvasive disease cases,MT,2027,2,mean_5,8.4,1.2169811320754715,38.856,Montana,West
+Neuroinvasive disease cases,MT,2028,3,mean_5,8.4,0.4461538461538465,60.1,Montana,West
+Neuroinvasive disease cases,NC,2026,1,mean_5,14.6,3.29,55.727272727272684,North Carolina,South
+Neuroinvasive disease cases,NC,2027,2,mean_5,14.6,2.6792452830188664,65.14400000000002,North Carolina,South
+Neuroinvasive disease cases,NC,2028,3,mean_5,14.6,1.3999999999999997,100.39999999999993,North Carolina,South
+Neuroinvasive disease cases,ND,2026,1,mean_5,23.6,5.765000000000001,88.45454545454542,North Dakota,Midwest
+Neuroinvasive disease cases,ND,2027,2,mean_5,23.6,4.801886792452828,103.30399999999999,North Dakota,Midwest
+Neuroinvasive disease cases,ND,2028,3,mean_5,23.6,2.7846153846153845,158.89999999999998,North Dakota,Midwest
+Neuroinvasive disease cases,NE,2026,1,mean_5,53.6,14.015,197.5454545454544,Nebraska,Midwest
+Neuroinvasive disease cases,NE,2027,2,mean_5,53.6,11.877358490566031,230.50400000000008,Nebraska,Midwest
+Neuroinvasive disease cases,NE,2028,3,mean_5,53.6,7.3999999999999995,353.89999999999975,Nebraska,Midwest
+Neuroinvasive disease cases,NH,2026,1,mean_5,0.6,0.0,4.818181818181817,New Hampshire,Northeast
+Neuroinvasive disease cases,NH,2027,2,mean_5,0.6,0.0,5.784000000000001,New Hampshire,Northeast
+Neuroinvasive disease cases,NH,2028,3,mean_5,0.6,0.0,9.4,New Hampshire,Northeast
+Neuroinvasive disease cases,NJ,2026,1,mean_5,20.0,4.775000000000001,75.36363636363635,New Jersey,Northeast
+Neuroinvasive disease cases,NJ,2027,2,mean_5,20.0,3.9528301886792443,88.03999999999999,New Jersey,Northeast
+Neuroinvasive disease cases,NJ,2028,3,mean_5,20.0,2.2307692307692313,135.5,New Jersey,Northeast
+Neuroinvasive disease cases,NM,2026,1,mean_5,32.0,8.075000000000001,118.99999999999997,New Mexico,West
+Neuroinvasive disease cases,NM,2027,2,mean_5,32.0,6.783018867924529,138.92,New Mexico,West
+Neuroinvasive disease cases,NM,2028,3,mean_5,32.0,4.0769230769230775,213.49999999999997,New Mexico,West
+Neuroinvasive disease cases,NV,2026,1,mean_5,3.6,0.26500000000000035,15.72727272727273,Nevada,West
+Neuroinvasive disease cases,NV,2027,2,mean_5,3.6,0.08490566037735837,18.504000000000005,Nevada,West
+Neuroinvasive disease cases,NV,2028,3,mean_5,3.6,0.0,28.900000000000006,Nevada,West
+Neuroinvasive disease cases,NY,2026,1,mean_5,56.4,14.785000000000005,207.72727272727263,New York,Northeast
+Neuroinvasive disease cases,NY,2027,2,mean_5,56.4,12.5377358490566,242.37600000000015,New York,Northeast
+Neuroinvasive disease cases,NY,2028,3,mean_5,56.4,7.830769230769233,372.09999999999985,New York,Northeast
+Neuroinvasive disease cases,OH,2026,1,mean_5,15.6,3.565,59.36363636363634,Ohio,Midwest
+Neuroinvasive disease cases,OH,2027,2,mean_5,15.6,2.91509433962264,69.38399999999999,Ohio,Midwest
+Neuroinvasive disease cases,OH,2028,3,mean_5,15.6,1.5538461538461534,106.89999999999996,Ohio,Midwest
+Neuroinvasive disease cases,OK,2026,1,mean_5,29.4,7.360000000000001,109.54545454545456,Oklahoma,South
+Neuroinvasive disease cases,OK,2027,2,mean_5,29.4,6.169811320754715,127.89600000000004,Oklahoma,South
+Neuroinvasive disease cases,OK,2028,3,mean_5,29.4,3.676923076923077,196.60000000000005,Oklahoma,South
+Neuroinvasive disease cases,OR,2026,1,mean_5,3.0,0.10000000000000014,13.54545454545454,Oregon,West
+Neuroinvasive disease cases,OR,2027,2,mean_5,3.0,0.0,15.960000000000003,Oregon,West
+Neuroinvasive disease cases,OR,2028,3,mean_5,3.0,0.0,24.99999999999999,Oregon,West
+Neuroinvasive disease cases,PA,2026,1,mean_5,34.2,8.680000000000001,126.99999999999997,Pennsylvania,Northeast
+Neuroinvasive disease cases,PA,2027,2,mean_5,34.2,7.30188679245283,148.248,Pennsylvania,Northeast
+Neuroinvasive disease cases,PA,2028,3,mean_5,34.2,4.415384615384616,227.79999999999995,Pennsylvania,Northeast
+Neuroinvasive disease cases,RI,2026,1,mean_5,1.6,0.0,8.454545454545451,Rhode Island,Northeast
+Neuroinvasive disease cases,RI,2027,2,mean_5,1.6,0.0,10.024000000000003,Rhode Island,Northeast
+Neuroinvasive disease cases,RI,2028,3,mean_5,1.6,0.0,15.899999999999997,Rhode Island,Northeast
+Neuroinvasive disease cases,SC,2026,1,mean_5,8.6,1.6400000000000008,33.90909090909091,South Carolina,South
+Neuroinvasive disease cases,SC,2027,2,mean_5,8.6,1.2641509433962261,39.704,South Carolina,South
+Neuroinvasive disease cases,SC,2028,3,mean_5,8.6,0.47692307692307717,61.4,South Carolina,South
+Neuroinvasive disease cases,SD,2026,1,mean_5,28.6,7.1400000000000015,106.63636363636361,South Dakota,Midwest
+Neuroinvasive disease cases,SD,2027,2,mean_5,28.6,5.981132075471696,124.50399999999999,South Dakota,Midwest
+Neuroinvasive disease cases,SD,2028,3,mean_5,28.6,3.553846153846154,191.39999999999998,South Dakota,Midwest
+Neuroinvasive disease cases,TN,2026,1,mean_5,8.8,1.695000000000001,34.63636363636363,Tennessee,South
+Neuroinvasive disease cases,TN,2027,2,mean_5,8.8,1.3113207547169812,40.55200000000002,Tennessee,South
+Neuroinvasive disease cases,TN,2028,3,mean_5,8.8,0.5076923076923081,62.70000000000003,Tennessee,South
+Neuroinvasive disease cases,TX,2026,1,mean_5,156.2,42.230000000000004,570.6363636363632,Texas,South
+Neuroinvasive disease cases,TX,2027,2,mean_5,156.2,36.07547169811319,665.5280000000002,Texas,South
+Neuroinvasive disease cases,TX,2028,3,mean_5,156.2,23.184615384615384,1020.7999999999994,Texas,South
+Neuroinvasive disease cases,UT,2026,1,mean_5,16.8,3.8950000000000014,63.72727272727273,Utah,West
+Neuroinvasive disease cases,UT,2027,2,mean_5,16.8,3.1981132075471694,74.47200000000001,Utah,West
+Neuroinvasive disease cases,UT,2028,3,mean_5,16.8,1.738461538461539,114.7,Utah,West
+Neuroinvasive disease cases,VA,2026,1,mean_5,8.2,1.5300000000000002,32.454545454545446,Virginia,South
+Neuroinvasive disease cases,VA,2027,2,mean_5,8.2,1.1698113207547165,38.00800000000002,Virginia,South
+Neuroinvasive disease cases,VA,2028,3,mean_5,8.2,0.4153846153846154,58.80000000000002,Virginia,South
+Neuroinvasive disease cases,VT,2026,1,mean_5,0.4,0.0,4.09090909090909,Vermont,Northeast
+Neuroinvasive disease cases,VT,2027,2,mean_5,0.4,0.0,4.936000000000001,Vermont,Northeast
+Neuroinvasive disease cases,VT,2028,3,mean_5,0.4,0.0,8.1,Vermont,Northeast
+Neuroinvasive disease cases,WA,2026,1,mean_5,2.8,0.045000000000000075,12.818181818181817,Washington,West
+Neuroinvasive disease cases,WA,2027,2,mean_5,2.8,0.0,15.112000000000002,Washington,West
+Neuroinvasive disease cases,WA,2028,3,mean_5,2.8,0.0,23.7,Washington,West
+Neuroinvasive disease cases,WI,2026,1,mean_5,17.6,4.115000000000002,66.63636363636367,Wisconsin,Midwest
+Neuroinvasive disease cases,WI,2027,2,mean_5,17.6,3.3867924528301887,77.86400000000005,Wisconsin,Midwest
+Neuroinvasive disease cases,WI,2028,3,mean_5,17.6,1.8615384615384625,119.90000000000006,Wisconsin,Midwest
+Neuroinvasive disease cases,WV,2026,1,mean_5,1.6,0.0,8.454545454545451,West Virginia,South
+Neuroinvasive disease cases,WV,2027,2,mean_5,1.6,0.0,10.024000000000003,West Virginia,South
+Neuroinvasive disease cases,WV,2028,3,mean_5,1.6,0.0,15.899999999999997,West Virginia,South
+Neuroinvasive disease cases,WY,2026,1,mean_5,5.2,0.7050000000000005,21.54545454545455,Wyoming,West
+Neuroinvasive disease cases,WY,2027,2,mean_5,5.2,0.4622641509433961,25.288000000000007,Wyoming,West
+Neuroinvasive disease cases,WY,2028,3,mean_5,5.2,0.0,39.30000000000001,Wyoming,West
